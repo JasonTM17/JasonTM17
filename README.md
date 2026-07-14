@@ -20,8 +20,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/JasonTM17/nguyen_son">
-    <img src="https://img.shields.io/badge/3D%20Portfolio-0F172A?style=for-the-badge&amp;logo=threedotjs&amp;logoColor=38BDF8" alt="Open Nguyen Son's 3D portfolio repository" />
+  <a href="https://nguyen-son-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F172A?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" />
   </a>
   <a href="https://github.com/JasonTM17?tab=repositories">
     <img src="https://img.shields.io/badge/19%20Public%20Projects-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 19 public project repositories" />
