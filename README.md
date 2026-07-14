@@ -8,7 +8,15 @@
 <h1 align="center">Hi, I'm Nguyen Son 👋</h1>
 
 <p align="center">
+  <strong>Software Engineer by craft. DevOps by mindset. I build, ship, and evolve reliable systems.</strong>
+</p>
+
+<p align="center">
   I turn product ideas into connected web, mobile, AI, and platform systems.
+</p>
+
+<p align="center">
+  <sub>I'm continuously learning, and I genuinely welcome everyone's feedback, ideas, and constructive suggestions.</sub>
 </p>
 
 <p align="center">
