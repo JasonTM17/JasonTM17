@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Nguyen Son build map</title>
+  <desc id="desc">An abstract systems map that connects web, mobile, real-time products, and applied AI.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A111C"/>
+      <stop offset="1" stop-color="#182535"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#63D9C9" stop-opacity="0"/>
+      <stop offset="0.4" stop-color="#63D9C9" stop-opacity="0.72"/>
+      <stop offset="1" stop-color="#FFBC71" stop-opacity="0.45"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#D6E3EF" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <g fill="none" stroke="url(#line)" stroke-width="1.5">
+    <path d="M76 245 C210 245 245 100 395 100 S570 229 710 229 875 80 1128 80"/>
+    <path d="M76 245 C250 245 300 170 458 170 S650 70 796 70 933 202 1128 202" opacity="0.7"/>
+    <path d="M76 245 C193 245 288 287 414 287 S632 157 767 157 957 274 1128 274" opacity="0.45"/>
+  </g>
+  <g fill="#0A111C" stroke="#63D9C9" stroke-width="2">
+    <circle cx="76" cy="245" r="7"/>
+    <circle cx="395" cy="100" r="7"/>
+    <circle cx="710" cy="229" r="7"/>
+    <circle cx="796" cy="70" r="7"/>
+  </g>
+  <g fill="#FFBC71">
+    <circle cx="458" cy="170" r="4"/>
+    <circle cx="767" cy="157" r="4"/>
+    <circle cx="1128" cy="80" r="4"/>
+    <circle cx="1128" cy="202" r="4"/>
+    <circle cx="1128" cy="274" r="4"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#F3F7FB">
+    <text x="76" y="64" font-size="13" letter-spacing="4" fill="#63D9C9">NGUYEN SON / BUILD MAP</text>
+    <text x="76" y="126" font-size="46" font-weight="700" letter-spacing="-1">Build products.</text>
+    <text x="76" y="178" font-size="46" font-weight="700" letter-spacing="-1">Connect systems.</text>
+    <text x="76" y="216" font-size="17" fill="#B9C9D9">WEB · MOBILE · REAL-TIME · APPLIED AI</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.8" fill="#B9C9D9">
+    <text x="370" y="84">WEB</text>
+    <text x="690" y="213">MOBILE</text>
+    <text x="775" y="54">REAL-TIME</text>
+    <text x="1044" y="64">AI</text>
+  </g>
+</svg>
