@@ -20,66 +20,75 @@
   </a>
 </p>
 
-## What I build
+<p align="center">
+  <img src="./assets/nguyen-son-systems-atlas.svg" alt="Nguyen Son systems atlas covering product systems, realtime operations, applied AI, and platform engineering." width="100%" />
+</p>
 
 <table>
   <tr>
-    <td width="58%" valign="top">
-      <p><strong>Every line below comes from a public project, not a generic skills list.</strong></p>
-      <ul>
-        <li><strong>Connected product experiences</strong> &mdash; web, mobile, admin, and API surfaces that solve one workflow together.</li>
-        <li><strong>Real-time operations</strong> &mdash; delivery, ride-hailing, location-aware, and back-office systems.</li>
-        <li><strong>Applied AI</strong> &mdash; trip planning, computer vision, algorithm visualisation, and hardware/software bridges.</li>
-        <li><strong>Platform-minded delivery</strong> &mdash; containers, CI, observability, cloud infrastructure, and developer portals.</li>
-      </ul>
+    <td width="33%" align="center"><strong>19</strong><br /><sub>public project repositories</sub></td>
+    <td width="33%" align="center"><strong>4</strong><br /><sub>connected build tracks</sub></td>
+    <td width="33%" align="center"><strong>1</strong><br /><sub>interactive 3D portfolio</sub></td>
+  </tr>
+</table>
+
+## What I build
+
+Every line below is backed by a public repository. The tools appear with the systems that make them meaningful.
+
+- <strong>Connected product experiences</strong> &mdash; web, mobile, admin, and API surfaces that solve one workflow together.
+- <strong>Real-time operations</strong> &mdash; delivery, ride-hailing, location-aware, and back-office systems.
+- <strong>Applied AI</strong> &mdash; trip planning, computer vision, algorithm visualisation, and hardware/software bridges.
+- <strong>Platform-minded delivery</strong> &mdash; containers, CI, observability, cloud infrastructure, and developer portals.
+
+## Build tracks — proven in public
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><strong>01 / PRODUCT OPERATIONS</strong></sub><br /><br />
+      <strong><a href="https://github.com/JasonTM17/FoodDelivery_App">FoodFlow</a> + <a href="https://github.com/JasonTM17/Crab_Mobile_Flutter">Crab</a></strong><br />
+      <sub>Delivery, ride-hailing, wallet, chat, location-aware flows, and the admin surfaces that keep them running.</sub><br /><br />
+      <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript used in FoodFlow and Crab" />
+      <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js used in FoodFlow and Crab" />
+      <img src="https://img.shields.io/badge/NestJS-0F172A?style=flat-square&amp;logo=nestjs&amp;logoColor=E0234E" alt="NestJS used in FoodFlow and Crab" />
+      <img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&amp;logo=flutter&amp;logoColor=54C5F8" alt="Flutter used in FoodFlow and Crab" />
     </td>
-    <td width="42%" valign="middle">
-      <img src="./assets/nguyen-son-build-map.svg" alt="Original Nguyen Son systems map connecting web, mobile, real-time products, applied AI, and platform engineering." width="100%" />
+    <td width="50%" valign="top">
+      <sub><strong>02 / MOBILE FINANCE</strong></sub><br /><br />
+      <strong><a href="https://github.com/JasonTM17/Money_Management_App">Money Management</a></strong><br />
+      <sub>Offline-first finance with PIN and biometric protection, local SQLite state, and a Fastify/PostgreSQL sync API.</sub><br /><br />
+      <img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&amp;logo=flutter&amp;logoColor=54C5F8" alt="Flutter used in Money Management" />
+      <img src="https://img.shields.io/badge/Dart-0F172A?style=flat-square&amp;logo=dart&amp;logoColor=54C5F8" alt="Dart used in Money Management" />
+      <img src="https://img.shields.io/badge/SQLite-0F172A?style=flat-square&amp;logo=sqlite&amp;logoColor=54C5F8" alt="SQLite used in Money Management" />
+      <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostgreSQL used in Money Management" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><strong>03 / APPLIED AI</strong></sub><br /><br />
+      <strong><a href="https://github.com/JasonTM17/VN_TravelAI">VN TravelAI</a> + <a href="https://github.com/JasonTM17/App_AI_powered_waste_sorting">Waste Sorting</a></strong><br />
+      <sub>AI trip planning and computer vision brought into product and physical-control workflows.</sub><br /><br />
+      <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&amp;logo=python&amp;logoColor=FFD343" alt="Python used in applied AI projects" />
+      <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js used in applied AI projects" />
+      <img src="https://img.shields.io/badge/Computer%20Vision-0F172A?style=flat-square&amp;logoColor=38BDF8" alt="Computer vision used in waste sorting" />
+      <img src="https://img.shields.io/badge/AI%20Planning-0F172A?style=flat-square&amp;logoColor=A78BFA" alt="AI planning used in VN TravelAI" />
+    </td>
+    <td width="50%" valign="top">
+      <sub><strong>04 / PLATFORM DELIVERY</strong></sub><br /><br />
+      <strong><a href="https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices">DevHire Cloud</a> + <a href="https://github.com/JasonTM17/Internal_Developer_Platform_DevOps">Internal Developer Platform</a> + <a href="https://github.com/JasonTM17/CampusCore_FullStack_Individual">CampusCore</a></strong><br />
+      <sub>Microservices, self-service delivery, GitOps, infrastructure as code, observability, and cloud operations.</sub><br /><br />
+      <img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java used in DevHire Cloud" />
+      <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker used in platform delivery projects" />
+      <img src="https://img.shields.io/badge/Kubernetes-0F172A?style=flat-square&amp;logo=kubernetes&amp;logoColor=326CE5" alt="Kubernetes used in platform delivery projects" />
+      <img src="https://img.shields.io/badge/Terraform-0F172A?style=flat-square&amp;logo=terraform&amp;logoColor=844FBA" alt="Terraform used in platform delivery projects" />
     </td>
   </tr>
 </table>
 
-## Featured systems
-
-| Project | Public project focus |
-| --- | --- |
-| [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | Real-time food delivery with a NestJS API, Next.js management apps, Flutter clients, Supabase Realtime/PostGIS, and Docker. |
-| [Money Management](https://github.com/JasonTM17/Money_Management_App) | Offline-first Flutter finance with PIN/biometrics, SQLite, Riverpod, and a Fastify/PostgreSQL API. |
-| [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | A Vietnam travel marketplace and AI trip planner built with Next.js, Fastify, DeepSeek V4 Flash, and Docker. |
-| [Crab](https://github.com/JasonTM17/Crab_Mobile_Flutter) | Ride-hailing, food delivery, wallet, real-time chat, and admin operations across Flutter, React, and NestJS microservices. |
-| [AI-powered waste sorting](https://github.com/JasonTM17/App_AI_powered_waste_sorting) | YOLO sorting with a PySide6 control app, Next.js dashboard, UART/Arduino bridge, Supabase, and EcoPet AI. |
-
-## Stacks visible in the project archive
-
-These labels are technologies represented by the repositories here &mdash; not a separate résumé checklist.
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/NestJS-0F172A?style=flat-square&amp;logo=nestjs&amp;logoColor=E0234E" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&amp;logo=flutter&amp;logoColor=54C5F8" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&amp;logo=python&amp;logoColor=FFD343" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-0F172A?style=flat-square&amp;logo=springboot&amp;logoColor=6DB33F" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-0F172A?style=flat-square&amp;logo=kubernetes&amp;logoColor=326CE5" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Terraform-0F172A?style=flat-square&amp;logo=terraform&amp;logoColor=844FBA" alt="Terraform" />
-</p>
-
 ## Public project archive
 
-The featured systems plus the 14 repositories below make up the current 19-project public archive.
-
-<details>
-  <summary><strong>Platform and cloud systems</strong> &mdash; 3 repositories</summary>
-
-| Project | Public project focus |
-| --- | --- |
-| [Internal Developer Platform](https://github.com/JasonTM17/Internal_Developer_Platform_DevOps) | Self-service developer portal with GitOps deployments, EKS, Terraform, and observability. |
-| [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java 21 recruitment microservices with JWT, Kafka, OpenSearch, Docker, Kubernetes, Terraform, and AI RAG support. |
-| [CampusCore](https://github.com/JasonTM17/CampusCore_FullStack_Individual) | University operations platform with Next.js, NestJS microservices, bilingual UX, observability, and sandbox-ready payments. |
-</details>
+The eight projects in the build tracks plus the eleven repositories below make up the current 19-project public archive.
 
 <details>
   <summary><strong>Product platforms</strong> &mdash; 9 repositories</summary>
