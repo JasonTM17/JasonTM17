@@ -103,6 +103,26 @@ The archive currently follows **20 public learning projects** from GitHub. New p
 <table>
   <tr>
     <td width="76%" valign="top">
+      <strong><a href="https://github.com/JasonTM17/Ecommerce_BookStore">BookStore</a></strong><br />
+      <sub>Full-stack bookstore learning project with Next.js and Spring Boot, including storefront, authentication, tests, CI/CD, Docker, and Render deployment.</sub>
+    </td>
+    <td width="24%" valign="top" align="right">
+      <code>TypeScript</code><br />
+      <sub>2026-07-15</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="76%" valign="top">
+      <strong><a href="https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices">DevHire Cloud</a></strong><br />
+      <sub>Java 21 Spring Boot microservices learning platform for recruitment with Kafka, OpenSearch, Docker, Kubernetes, Terraform, observability, CI/CD, and a RAG assistant.</sub>
+    </td>
+    <td width="24%" valign="top" align="right">
+      <code>Java</code><br />
+      <sub>2026-07-15</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="76%" valign="top">
       <strong><a href="https://github.com/JasonTM17/FoodDelivery_App">FoodFlow</a></strong><br />
       <sub>FoodFlow realtime food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.</sub>
     </td>
@@ -131,26 +151,6 @@ The archive currently follows **20 public learning projects** from GitHub. New p
       <sub>2026-07-14</sub>
     </td>
   </tr>
-  <tr>
-    <td width="76%" valign="top">
-      <strong><a href="https://github.com/JasonTM17/Leetrank_Project">LeetRank</a></strong><br />
-      <sub>A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.</sub>
-    </td>
-    <td width="24%" valign="top" align="right">
-      <code>TypeScript</code><br />
-      <sub>2026-07-13</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="76%" valign="top">
-      <strong><a href="https://github.com/JasonTM17/MilkTea_Iku">MilkTea Iku</a></strong><br />
-      <sub>🧋 Premium Milk Tea E-Commerce Platform | Trà Sữa Cao Cấp | プレミアムミルクティー</sub>
-    </td>
-    <td width="24%" valign="top" align="right">
-      <code>TypeScript</code><br />
-      <sub>2026-07-13</sub>
-    </td>
-  </tr>
 </table>
 
 <details>
@@ -158,12 +158,13 @@ The archive currently follows **20 public learning projects** from GitHub. New p
 
 | Project | Main language | Updated |
 | --- | --- | --- |
+| [BookStore](https://github.com/JasonTM17/Ecommerce_BookStore) | TypeScript | 2026-07-15 |
+| [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-07-15 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-15 |
 | [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-15 |
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-07-14 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-07-13 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-07-13 |
-| [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-07-12 |
 | [LinguaFlow](https://github.com/JasonTM17/Language_App) | TypeScript | 2026-07-11 |
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-07-11 |
 | [Laptop Shop](https://github.com/JasonTM17/Laptopshop_Spring_Boot_MVC) | Java | 2026-07-02 |
@@ -175,7 +176,6 @@ The archive currently follows **20 public learning projects** from GitHub. New p
 | [Internal Developer Platform](https://github.com/JasonTM17/Internal_Developer_Platform_DevOps) | TypeScript | 2026-05-15 |
 | [WanderViet](https://github.com/JasonTM17/ChillTravel_NextJS) | TypeScript | 2026-05-15 |
 | [Wavestream](https://github.com/JasonTM17/Wavestream_Soundcloud) | TypeScript | 2026-05-06 |
-| [BookStore](https://github.com/JasonTM17/Ecommerce_BookStore) | TypeScript | 2026-05-02 |
 | [JobHunter](https://github.com/JasonTM17/JobHunter_SpringBoot_RestfulAPI_React) | TypeScript | 2026-05-02 |
 | [CampusCore](https://github.com/JasonTM17/CampusCore_FullStack_Individual) | TypeScript | 2026-04-25 |
 
