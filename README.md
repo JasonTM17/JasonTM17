@@ -103,21 +103,21 @@ The archive currently follows **20 public learning projects** from GitHub. New p
 <table>
   <tr>
     <td width="76%" valign="top">
-      <strong><a href="https://github.com/JasonTM17/Horror_Game_Funny">Horror Game Funny</a></strong><br />
-      <sub>A public learning project; open the repository for source code and progress notes.</sub>
-    </td>
-    <td width="24%" valign="top" align="right">
-      <code>GDScript</code><br />
-      <sub>2026-07-15</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="76%" valign="top">
       <strong><a href="https://github.com/JasonTM17/FoodDelivery_App">FoodFlow</a></strong><br />
       <sub>FoodFlow realtime food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.</sub>
     </td>
     <td width="24%" valign="top" align="right">
       <code>TypeScript</code><br />
+      <sub>2026-07-15</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="76%" valign="top">
+      <strong><a href="https://github.com/JasonTM17/Horror_Game_Funny">Horror Game Funny</a></strong><br />
+      <sub>A public learning project; open the repository for source code and progress notes.</sub>
+    </td>
+    <td width="24%" valign="top" align="right">
+      <code>GDScript</code><br />
       <sub>2026-07-15</sub>
     </td>
   </tr>
@@ -158,8 +158,8 @@ The archive currently follows **20 public learning projects** from GitHub. New p
 
 | Project | Main language | Updated |
 | --- | --- | --- |
-| [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-15 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-15 |
+| [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-15 |
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-07-14 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-07-13 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-07-13 |
