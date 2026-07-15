@@ -1,0 +1,49 @@
+name: Sync public project archive
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-project-sync
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    name: Refresh README from public GitHub projects
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out the profile repository
+        uses: actions/checkout@v4
+
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Test the project synchronizer
+        run: node --test scripts/sync-public-projects.test.mjs
+
+      - name: Refresh managed README sections
+        run: node scripts/sync-public-projects.mjs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit a changed archive
+        shell: bash
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "README already matches the public repository snapshot."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "feat(profile): sync public project archive"
+          git push

@@ -1,55 +1,54 @@
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=28&amp;duration=2600&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Nguyen+Son.;I+build+full-stack+products+from+real+projects."
-    alt="Xin chào, mình là Nguyen Son. I build full-stack products from real projects."
-  />
-</p>
+<p align="center"><code>IT STUDENT · SOFTWARE ENGINEERING · DEVOPS · SYSTEMS</code></p>
 
 <h1 align="center">Hi, I'm Nguyen Son 👋</h1>
 
 <p align="center">
-  <strong>Software Engineer by craft. DevOps by mindset. I build, ship, and evolve reliable systems.</strong>
+  <strong>Learning Software Engineering by building. Learning DevOps by shipping thoughtfully.</strong>
 </p>
 
 <p align="center">
-  I turn product ideas into connected web, mobile, AI, and platform systems.
+  I connect web, mobile, AI, Java, and platform ideas through public study projects.
 </p>
 
 <p align="center">
-  <sub>I'm continuously learning, and I genuinely welcome everyone's feedback, ideas, and constructive suggestions.</sub>
+  <sub>I'm still learning, and I sincerely welcome feedback, suggestions, and constructive guidance from everyone.</sub>
 </p>
 
+<!-- AUTO:PROJECT_BADGES:START -->
 <p align="center">
   <a href="https://nguyen-son-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F172A?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" />
   </a>
   <a href="https://github.com/JasonTM17?tab=repositories">
-    <img src="https://img.shields.io/badge/19%20Public%20Projects-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 19 public project repositories" />
+    <img src="https://img.shields.io/badge/20%20Public%20Projects-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 20 public learning-project repositories" />
   </a>
 </p>
+<!-- AUTO:PROJECT_BADGES:END -->
 
 <p align="center">
   <img src="./assets/nguyen-son-systems-atlas.svg" alt="Nguyen Son systems atlas covering product systems, realtime operations, applied AI, and platform engineering." width="100%" />
 </p>
 
+<!-- AUTO:PROJECT_STATS:START -->
 <table>
   <tr>
-    <td width="33%" align="center"><strong>19</strong><br /><sub>public project repositories</sub></td>
-    <td width="33%" align="center"><strong>4</strong><br /><sub>connected build tracks</sub></td>
+    <td width="33%" align="center"><strong>20</strong><br /><sub>public learning projects</sub></td>
+    <td width="33%" align="center"><strong>4</strong><br /><sub>connected learning tracks</sub></td>
     <td width="33%" align="center"><strong>1</strong><br /><sub>interactive 3D portfolio</sub></td>
   </tr>
 </table>
+<!-- AUTO:PROJECT_STATS:END -->
 
-## What I build
+## What I'm learning to build
 
-Every line below is backed by a public repository. The tools appear with the systems that make them meaningful.
+Every focus area below is grounded in public study repositories. The tools appear beside the systems where I am learning to use them.
 
 - <strong>Connected product experiences</strong> &mdash; web, mobile, admin, and API surfaces that solve one workflow together.
 - <strong>Real-time operations</strong> &mdash; delivery, ride-hailing, location-aware, and back-office systems.
 - <strong>Applied AI</strong> &mdash; trip planning, computer vision, algorithm visualisation, and hardware/software bridges.
 - <strong>Platform-minded delivery</strong> &mdash; containers, CI, observability, cloud infrastructure, and developer portals.
 
-## Build tracks — proven in public
+## Build tracks — learning in public
 
 <table>
   <tr>
@@ -96,32 +95,94 @@ Every line below is backed by a public repository. The tools appear with the sys
 
 ## Public project archive
 
-The eight projects in the build tracks plus the eleven repositories below make up the current 19-project public archive.
+<!-- AUTO:PROJECT_ARCHIVE:START -->
+The archive currently follows **20 public learning projects** from GitHub. New public repositories appear automatically; private, forked, disabled, profile, and portfolio-metadata repositories stay out of this list.
+
+### Recently updated
+
+<table>
+  <tr>
+    <td width="76%" valign="top">
+      <strong><a href="https://github.com/JasonTM17/Horror_Game_Funny">Horror Game Funny</a></strong><br />
+      <sub>A public learning project; open the repository for source code and progress notes.</sub>
+    </td>
+    <td width="24%" valign="top" align="right">
+      <code>GDScript</code><br />
+      <sub>2026-07-15</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="76%" valign="top">
+      <strong><a href="https://github.com/JasonTM17/FoodDelivery_App">FoodFlow</a></strong><br />
+      <sub>FoodFlow realtime food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.</sub>
+    </td>
+    <td width="24%" valign="top" align="right">
+      <code>TypeScript</code><br />
+      <sub>2026-07-15</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="76%" valign="top">
+      <strong><a href="https://github.com/JasonTM17/Money_Management_App">Money Management</a></strong><br />
+      <sub>Offline-first Flutter personal finance app with PIN/biometrics, SQLite, Riverpod 3, Node 26 Fastify/PostgreSQL API, OpenAPI, Docker Hub/GHCR packages, and n8n HMAC automation.</sub>
+    </td>
+    <td width="24%" valign="top" align="right">
+      <code>Dart</code><br />
+      <sub>2026-07-14</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="76%" valign="top">
+      <strong><a href="https://github.com/JasonTM17/Leetrank_Project">LeetRank</a></strong><br />
+      <sub>A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.</sub>
+    </td>
+    <td width="24%" valign="top" align="right">
+      <code>TypeScript</code><br />
+      <sub>2026-07-13</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="76%" valign="top">
+      <strong><a href="https://github.com/JasonTM17/MilkTea_Iku">MilkTea Iku</a></strong><br />
+      <sub>🧋 Premium Milk Tea E-Commerce Platform | Trà Sữa Cao Cấp | プレミアムミルクティー</sub>
+    </td>
+    <td width="24%" valign="top" align="right">
+      <code>TypeScript</code><br />
+      <sub>2026-07-13</sub>
+    </td>
+  </tr>
+</table>
 
 <details>
-  <summary><strong>Product platforms</strong> &mdash; 9 repositories</summary>
+  <summary><strong>Browse all 20 public learning projects</strong></summary>
 
-| Project | Public project focus |
-| --- | --- |
-| [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | Algorithm and data-structure practice platform with Next.js, React, a Go judge service, and Docker. |
-| [Wavestream](https://github.com/JasonTM17/Wavestream_Soundcloud) | SoundCloud-inspired platform built with Next.js, NestJS, PostgreSQL, Redis, MinIO, Docker, and GitHub Actions. |
-| [LinguaFlow](https://github.com/JasonTM17/Language_App) | Vietnamese language-learning platform with spaced repetition, gamification, and personalised paths. |
-| [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | Premium milk-tea e-commerce platform. |
-| [ON/OFF](https://github.com/JasonTM17/ON-OFF_JS) | Fashion e-commerce with Next.js, Prisma, PWA support, an admin dashboard, and Docker deployment. |
-| [WanderViet](https://github.com/JasonTM17/ChillTravel_NextJS) | Vietnam travel platform spanning NestJS, Next.js, FastAPI AI, Flutter, and a Turborepo monorepo. |
-| [Laptop Shop](https://github.com/JasonTM17/Laptopshop_Spring_Boot_MVC) | Spring Boot MVC e-commerce with storefront, checkout, admin, tests, Docker, and CI. |
-| [BookStore](https://github.com/JasonTM17/Ecommerce_BookStore) | Full-stack online bookstore built with Next.js and Spring Boot. |
-| [JobHunter](https://github.com/JasonTM17/JobHunter_SpringBoot_RestfulAPI_React) | IT recruitment platform with Spring Boot, Next.js, MySQL, Docker, RBAC, and end-to-end coverage. |
+| Project | Main language | Updated |
+| --- | --- | --- |
+| [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-15 |
+| [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-15 |
+| [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-07-14 |
+| [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-07-13 |
+| [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-07-13 |
+| [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-07-12 |
+| [LinguaFlow](https://github.com/JasonTM17/Language_App) | TypeScript | 2026-07-11 |
+| [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-07-11 |
+| [Laptop Shop](https://github.com/JasonTM17/Laptopshop_Spring_Boot_MVC) | Java | 2026-07-02 |
+| [15-puzzle AI Lab](https://github.com/JasonTM17/AI_Algothrithm_Study_University) | Python | 2026-07-01 |
+| [AI-powered waste sorting](https://github.com/JasonTM17/App_AI_powered_waste_sorting) | Python | 2026-06-30 |
+| [8-puzzle AI Lab](https://github.com/JasonTM17/AI_Algothrithm_Invidual_Study_University) | Python | 2026-06-30 |
+| [Crab](https://github.com/JasonTM17/Crab_Mobile_Flutter) | Dart | 2026-05-28 |
+| [ON/OFF](https://github.com/JasonTM17/ON-OFF_JS) | TypeScript | 2026-05-16 |
+| [WanderViet](https://github.com/JasonTM17/ChillTravel_NextJS) | TypeScript | 2026-05-15 |
+| [Internal Developer Platform](https://github.com/JasonTM17/Internal_Developer_Platform_DevOps) | TypeScript | 2026-05-15 |
+| [Wavestream](https://github.com/JasonTM17/Wavestream_Soundcloud) | TypeScript | 2026-05-06 |
+| [BookStore](https://github.com/JasonTM17/Ecommerce_BookStore) | TypeScript | 2026-05-02 |
+| [JobHunter](https://github.com/JasonTM17/JobHunter_SpringBoot_RestfulAPI_React) | TypeScript | 2026-05-02 |
+| [CampusCore](https://github.com/JasonTM17/CampusCore_FullStack_Individual) | TypeScript | 2026-04-25 |
+
 </details>
 
-<details>
-  <summary><strong>AI and learning systems</strong> &mdash; 2 repositories</summary>
-
-| Project | Public project focus |
-| --- | --- |
-| [15-puzzle AI Lab](https://github.com/JasonTM17/AI_Algothrithm_Study_University) | Interactive search visualisation with auditable traces, benchmarks, gameplay, and CSP map colouring. |
-| [8-puzzle AI Lab](https://github.com/JasonTM17/AI_Algothrithm_Invidual_Study_University) | Streamlit lab for BFS, UCS, A*, IDA*, local search, CSP, adversarial demos, and trace playback. |
-</details>
+<sub>Automatically refreshed from GitHub every six hours. The four learning tracks above remain curated so the profile keeps a clear story.</sub>
+<!-- AUTO:PROJECT_ARCHIVE:END -->
 
 ## GitHub activity
 
@@ -136,5 +197,5 @@ The eight projects in the build tracks plus the eleven repositories below make u
 </p>
 
 <p align="center">
-  <sub>Projects first. Systems-minded. Always building the next connection.</sub>
+  <sub>Learning deliberately. Systems-minded. Building the next connection.</sub>
 </p>
