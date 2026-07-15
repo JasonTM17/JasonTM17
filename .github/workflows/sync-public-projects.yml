@@ -2,7 +2,7 @@ name: Sync public project archive
 
 on:
   schedule:
-    - cron: "23 */6 * * *"
+    - cron: "23 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -19,10 +19,10 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Check out the profile repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
 
       - name: Use Node.js
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6.5.0
         with:
           node-version: 22
           package-manager-cache: false
@@ -35,16 +35,25 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit a changed archive
+      - name: Commit changes or keep the schedule active
         shell: bash
         run: |
-          if git diff --quiet -- README.md; then
-            echo "README already matches the public repository snapshot."
+          now="$(date +%s)"
+          last_commit="$(git log -1 --format=%ct)"
+          age_days="$(( (now - last_commit) / 86400 ))"
+
+          if ! git diff --quiet -- README.md; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "feat(profile): sync public project archive"
+          elif (( age_days >= 45 )); then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit --allow-empty -m "ci(profile): keep scheduled sync active"
+          else
+            echo "README already matches the public repository snapshot; next heartbeat is not due."
             exit 0
           fi
 
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "feat(profile): sync public project archive"
           git push

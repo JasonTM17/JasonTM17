@@ -75,9 +75,19 @@ function truncateDescription(description) {
   return `${end.trimEnd()}…`;
 }
 
-function normalizedDate(value) {
+function sortableDate(value) {
   const date = new Date(value);
-  return Number.isNaN(date.getTime()) ? "—" : date.toISOString().slice(0, 10);
+  return Number.isNaN(date.getTime()) ? "" : date.toISOString().slice(0, 10);
+}
+
+function normalizedDate(value) {
+  return sortableDate(value) || "—";
+}
+
+function compareText(left, right) {
+  if (left < right) return -1;
+  if (left > right) return 1;
+  return 0;
 }
 
 function normalizedDescription(repository) {
@@ -113,7 +123,11 @@ export function normalizeRepositories(payload) {
       pushedAt: repositoryTimestamp(repository),
       title: friendlyRepositoryName(repository.name),
     }))
-    .sort((left, right) => right.pushedAt.localeCompare(left.pushedAt) || left.name.localeCompare(right.name));
+    .sort((left, right) => (
+      compareText(sortableDate(right.pushedAt), sortableDate(left.pushedAt))
+      || compareText(left.title, right.title)
+      || compareText(left.name, right.name)
+    ));
 
   return [...new Map(repositories.map((repository) => [repository.name.toLowerCase(), repository])).values()];
 }
@@ -186,7 +200,7 @@ ${projectIndexTable(repositories)}
 
 </details>
 
-<sub>Automatically refreshed from GitHub every six hours. The four learning tracks above remain curated so the profile keeps a clear story.</sub>`;
+<sub>Automatically refreshed from GitHub every hour. The four learning tracks above remain curated so the profile keeps a clear story.</sub>`;
 }
 
 export function replaceManagedSection(source, name, body) {

@@ -103,16 +103,6 @@ The archive currently follows **20 public learning projects** from GitHub. New p
 <table>
   <tr>
     <td width="76%" valign="top">
-      <strong><a href="https://github.com/JasonTM17/Horror_Game_Funny">Horror Game Funny</a></strong><br />
-      <sub>A public learning project; open the repository for source code and progress notes.</sub>
-    </td>
-    <td width="24%" valign="top" align="right">
-      <code>GDScript</code><br />
-      <sub>2026-07-15</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="76%" valign="top">
       <strong><a href="https://github.com/JasonTM17/FoodDelivery_App">FoodFlow</a></strong><br />
       <sub>FoodFlow realtime food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.</sub>
     </td>
@@ -123,8 +113,18 @@ The archive currently follows **20 public learning projects** from GitHub. New p
   </tr>
   <tr>
     <td width="76%" valign="top">
+      <strong><a href="https://github.com/JasonTM17/Horror_Game_Funny">Horror Game Funny</a></strong><br />
+      <sub>ROOM 407: THE LAST SHIFT — a source-only first-person psychological horror game built with Godot 4.7.1 and GDScript.</sub>
+    </td>
+    <td width="24%" valign="top" align="right">
+      <code>GDScript</code><br />
+      <sub>2026-07-15</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="76%" valign="top">
       <strong><a href="https://github.com/JasonTM17/Money_Management_App">Money Management</a></strong><br />
-      <sub>Offline-first Flutter personal finance app with PIN/biometrics, SQLite, Riverpod 3, Node 26 Fastify/PostgreSQL API, OpenAPI, Docker Hub/GHCR packages, and n8n HMAC automation.</sub>
+      <sub>Offline-first Flutter personal finance learning app with PIN/biometrics, SQLite, Riverpod 3, Fastify/PostgreSQL API, OpenAPI, containers, and n8n automation.</sub>
     </td>
     <td width="24%" valign="top" align="right">
       <code>Dart</code><br />
@@ -158,8 +158,8 @@ The archive currently follows **20 public learning projects** from GitHub. New p
 
 | Project | Main language | Updated |
 | --- | --- | --- |
-| [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-15 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-15 |
+| [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-15 |
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-07-14 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-07-13 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-07-13 |
@@ -168,12 +168,12 @@ The archive currently follows **20 public learning projects** from GitHub. New p
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-07-11 |
 | [Laptop Shop](https://github.com/JasonTM17/Laptopshop_Spring_Boot_MVC) | Java | 2026-07-02 |
 | [15-puzzle AI Lab](https://github.com/JasonTM17/AI_Algothrithm_Study_University) | Python | 2026-07-01 |
-| [AI-powered waste sorting](https://github.com/JasonTM17/App_AI_powered_waste_sorting) | Python | 2026-06-30 |
 | [8-puzzle AI Lab](https://github.com/JasonTM17/AI_Algothrithm_Invidual_Study_University) | Python | 2026-06-30 |
+| [AI-powered waste sorting](https://github.com/JasonTM17/App_AI_powered_waste_sorting) | Python | 2026-06-30 |
 | [Crab](https://github.com/JasonTM17/Crab_Mobile_Flutter) | Dart | 2026-05-28 |
 | [ON/OFF](https://github.com/JasonTM17/ON-OFF_JS) | TypeScript | 2026-05-16 |
-| [WanderViet](https://github.com/JasonTM17/ChillTravel_NextJS) | TypeScript | 2026-05-15 |
 | [Internal Developer Platform](https://github.com/JasonTM17/Internal_Developer_Platform_DevOps) | TypeScript | 2026-05-15 |
+| [WanderViet](https://github.com/JasonTM17/ChillTravel_NextJS) | TypeScript | 2026-05-15 |
 | [Wavestream](https://github.com/JasonTM17/Wavestream_Soundcloud) | TypeScript | 2026-05-06 |
 | [BookStore](https://github.com/JasonTM17/Ecommerce_BookStore) | TypeScript | 2026-05-02 |
 | [JobHunter](https://github.com/JasonTM17/JobHunter_SpringBoot_RestfulAPI_React) | TypeScript | 2026-05-02 |
@@ -181,7 +181,7 @@ The archive currently follows **20 public learning projects** from GitHub. New p
 
 </details>
 
-<sub>Automatically refreshed from GitHub every six hours. The four learning tracks above remain curated so the profile keeps a clear story.</sub>
+<sub>Automatically refreshed from GitHub every hour. The four learning tracks above remain curated so the profile keeps a clear story.</sub>
 <!-- AUTO:PROJECT_ARCHIVE:END -->
 
 ## GitHub activity

@@ -1,4 +1,5 @@
 import assert from "node:assert/strict";
+import { readFile } from "node:fs/promises";
 import test from "node:test";
 import {
   applyRepositorySnapshot,
@@ -67,6 +68,50 @@ test("repository descriptions stay concise and student focused", () => {
   assert.match(project.description, /…$/);
 });
 
+test("repositories updated on the same day keep a stable display order", () => {
+  const sameDayPayload = [
+    repository({ name: "FoodDelivery_App", pushed_at: "2026-07-15T01:00:00Z" }),
+    repository({ name: "Horror_Game_Funny", pushed_at: "2026-07-15T23:00:00Z" }),
+  ];
+  const earlyFoodFlow = normalizeRepositories([
+    ...sameDayPayload,
+  ]);
+  const lateFoodFlow = normalizeRepositories([
+    repository({ name: "FoodDelivery_App", pushed_at: "2026-07-15T23:30:00Z" }),
+    repository({ name: "Horror_Game_Funny", pushed_at: "2026-07-15T00:30:00Z" }),
+  ]);
+
+  assert.deepEqual(
+    earlyFoodFlow.map((project) => project.name),
+    ["FoodDelivery_App", "Horror_Game_Funny"],
+  );
+  assert.deepEqual(
+    lateFoodFlow.map((project) => project.name),
+    ["FoodDelivery_App", "Horror_Game_Funny"],
+  );
+  assert.deepEqual(
+    normalizeRepositories([...sameDayPayload].reverse()).map((project) => project.name),
+    ["FoodDelivery_App", "Horror_Game_Funny"],
+  );
+  assert.equal(
+    applyRepositorySnapshot(TEMPLATE, normalizeRepositories(sameDayPayload)),
+    applyRepositorySnapshot(TEMPLATE, normalizeRepositories([...sameDayPayload].reverse())),
+  );
+});
+
+test("newer calendar dates rank first and invalid dates remain deterministic", () => {
+  const projects = normalizeRepositories([
+    repository({ name: "FoodDelivery_App", pushed_at: "not-a-date" }),
+    repository({ name: "Horror_Game_Funny", pushed_at: "2026-07-15T00:00:01Z" }),
+    repository({ name: "Language_App", pushed_at: "2026-07-14T23:59:59Z" }),
+  ]);
+
+  assert.deepEqual(
+    projects.map((project) => project.name),
+    ["Horror_Game_Funny", "Language_App", "FoodDelivery_App"],
+  );
+});
+
 test("snapshot adds a new repository, updates counts, and is idempotent", () => {
   const projects = normalizeRepositories([
     repository(),
@@ -77,6 +122,7 @@ test("snapshot adds a new repository, updates counts, and is idempotent", () => 
   assert.match(updated, /2%20Public%20Projects/);
   assert.match(updated, /<strong>2<\/strong><br \/><sub>public learning projects/);
   assert.match(updated, /Horror Game Funny/);
+  assert.match(updated, /Automatically refreshed from GitHub every hour\./);
   assert.doesNotMatch(updated, /old badges|old stats|old archive/);
   assert.equal(applyRepositorySnapshot(updated, projects), updated);
 });
@@ -135,4 +181,39 @@ test("GitHub pagination combines every page", async () => {
 
   assert.deepEqual(requestedPages, ["1", "2"]);
   assert.deepEqual(projects.map((project) => project.name), ["Horror_Game_Funny", "FoodDelivery_App"]);
+});
+
+test("GitHub requests use the versioned API contract and authenticated owner query", async () => {
+  let request;
+  await fetchPublicRepositories({
+    token: "test-token",
+    fetchImpl: async (url, options) => {
+      request = { url, options };
+      return {
+        headers: new Headers(),
+        json: async () => [repository()],
+        ok: true,
+        status: 200,
+      };
+    },
+  });
+
+  assert.equal(request.url.pathname, "/users/JasonTM17/repos");
+  assert.equal(request.url.searchParams.get("type"), "owner");
+  assert.equal(request.url.searchParams.get("sort"), "pushed");
+  assert.equal(request.url.searchParams.get("per_page"), "100");
+  assert.equal(request.options.headers.Authorization, "Bearer test-token");
+  assert.equal(request.options.headers["X-GitHub-Api-Version"], "2026-03-10");
+});
+
+test("the profile workflow polls hourly, stays active, and keeps manual dispatch available", async () => {
+  const workflowUrl = new URL("../.github/workflows/sync-public-projects.yml", import.meta.url);
+  const workflow = await readFile(workflowUrl, "utf8");
+
+  assert.match(workflow, /cron: "23 \* \* \* \*"/);
+  assert.match(workflow, /workflow_dispatch:/);
+  assert.match(workflow, /actions\/checkout@[0-9a-f]{40} # v6\.0\.3/);
+  assert.match(workflow, /actions\/setup-node@[0-9a-f]{40} # v6\.5\.0/);
+  assert.match(workflow, /age_days >= 45/);
+  assert.match(workflow, /git commit --allow-empty -m "ci\(profile\): keep scheduled sync active"/);
 });
