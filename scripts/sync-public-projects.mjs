@@ -136,11 +136,11 @@ function recentProjectTable(repositories) {
   const rows = repositories.map((repository) => `  <tr>
     <td width="76%" valign="top">
       <strong><a href="${repository.href}">${escapeHtml(repository.title)}</a></strong><br />
-      <sub>${escapeHtml(repository.description)}</sub>
+      ${escapeHtml(repository.description)}
     </td>
     <td width="24%" valign="top" align="right">
-      <code>${escapeHtml(repository.language)}</code><br />
-      <sub>${normalizedDate(repository.pushedAt)}</sub>
+      <strong>${escapeHtml(repository.language)}</strong><br />
+      ${normalizedDate(repository.pushedAt)}
     </td>
   </tr>`);
 
@@ -172,9 +172,9 @@ export function renderProjectBadges(repositories) {
 export function renderProjectStats(repositories) {
   return `<table>
   <tr>
-    <td width="33%" align="center"><strong>${repositories.length}</strong><br /><sub>public learning projects</sub></td>
-    <td width="33%" align="center"><strong>4</strong><br /><sub>connected learning tracks</sub></td>
-    <td width="33%" align="center"><strong>1</strong><br /><sub>interactive 3D portfolio</sub></td>
+    <td width="33%" align="center"><strong>${repositories.length}</strong><br />public learning projects</td>
+    <td width="33%" align="center"><strong>4</strong><br />connected learning tracks</td>
+    <td width="33%" align="center"><strong>1</strong><br />interactive 3D portfolio</td>
   </tr>
 </table>`;
 }
@@ -196,7 +196,7 @@ ${projectIndexTable(repositories)}
 
 </details>
 
-<sub>Automatically refreshed from GitHub every hour. The four learning tracks above remain curated so the profile keeps a clear story.</sub>`;
+<em>Automatically refreshed from GitHub about every 30 minutes. The four learning tracks above remain curated so the profile keeps a clear story.</em>`;
 }
 
 export function replaceManagedSection(source, name, body) {
