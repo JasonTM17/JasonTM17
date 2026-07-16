@@ -103,22 +103,12 @@ The archive currently follows **20 public learning projects** from GitHub. New p
 <table>
   <tr>
     <td width="76%" valign="top">
-      <strong><a href="https://github.com/JasonTM17/VN_TravelAI">VN TravelAI</a></strong><br />
-      <sub>TravelAI — Traveloka-style Vietnam travel marketplace + AI trip planner (Next.js, Fastify, DeepSeek V4 Flash, Docker monorepo)</sub>
-    </td>
-    <td width="24%" valign="top" align="right">
-      <code>TypeScript</code><br />
-      <sub>2026-07-16</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="76%" valign="top">
       <strong><a href="https://github.com/JasonTM17/Ecommerce_BookStore">BookStore</a></strong><br />
       <sub>Full-stack bookstore learning project with Next.js and Spring Boot, including storefront, authentication, tests, CI/CD, Docker, and Render deployment.</sub>
     </td>
     <td width="24%" valign="top" align="right">
       <code>TypeScript</code><br />
-      <sub>2026-07-15</sub>
+      <sub>2026-07-16</sub>
     </td>
   </tr>
   <tr>
@@ -128,7 +118,7 @@ The archive currently follows **20 public learning projects** from GitHub. New p
     </td>
     <td width="24%" valign="top" align="right">
       <code>Java</code><br />
-      <sub>2026-07-15</sub>
+      <sub>2026-07-16</sub>
     </td>
   </tr>
   <tr>
@@ -138,7 +128,7 @@ The archive currently follows **20 public learning projects** from GitHub. New p
     </td>
     <td width="24%" valign="top" align="right">
       <code>TypeScript</code><br />
-      <sub>2026-07-15</sub>
+      <sub>2026-07-16</sub>
     </td>
   </tr>
   <tr>
@@ -148,7 +138,17 @@ The archive currently follows **20 public learning projects** from GitHub. New p
     </td>
     <td width="24%" valign="top" align="right">
       <code>GDScript</code><br />
-      <sub>2026-07-15</sub>
+      <sub>2026-07-16</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="76%" valign="top">
+      <strong><a href="https://github.com/JasonTM17/VN_TravelAI">VN TravelAI</a></strong><br />
+      <sub>TravelAI — Traveloka-style Vietnam travel marketplace + AI trip planner (Next.js, Fastify, DeepSeek V4 Flash, Docker monorepo)</sub>
+    </td>
+    <td width="24%" valign="top" align="right">
+      <code>TypeScript</code><br />
+      <sub>2026-07-16</sub>
     </td>
   </tr>
 </table>
@@ -158,11 +158,11 @@ The archive currently follows **20 public learning projects** from GitHub. New p
 
 | Project | Main language | Updated |
 | --- | --- | --- |
+| [BookStore](https://github.com/JasonTM17/Ecommerce_BookStore) | TypeScript | 2026-07-16 |
+| [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-07-16 |
+| [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-16 |
+| [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-16 |
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-07-16 |
-| [BookStore](https://github.com/JasonTM17/Ecommerce_BookStore) | TypeScript | 2026-07-15 |
-| [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-07-15 |
-| [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-15 |
-| [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-15 |
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-07-14 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-07-13 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-07-13 |
