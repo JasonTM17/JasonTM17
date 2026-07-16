@@ -103,6 +103,16 @@ The archive currently follows **20 public learning projects** from GitHub. New p
 <table>
   <tr>
     <td width="76%" valign="top">
+      <strong><a href="https://github.com/JasonTM17/VN_TravelAI">VN TravelAI</a></strong><br />
+      <sub>TravelAI — Traveloka-style Vietnam travel marketplace + AI trip planner (Next.js, Fastify, DeepSeek V4 Flash, Docker monorepo)</sub>
+    </td>
+    <td width="24%" valign="top" align="right">
+      <code>TypeScript</code><br />
+      <sub>2026-07-16</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="76%" valign="top">
       <strong><a href="https://github.com/JasonTM17/Ecommerce_BookStore">BookStore</a></strong><br />
       <sub>Full-stack bookstore learning project with Next.js and Spring Boot, including storefront, authentication, tests, CI/CD, Docker, and Render deployment.</sub>
     </td>
@@ -141,16 +151,6 @@ The archive currently follows **20 public learning projects** from GitHub. New p
       <sub>2026-07-15</sub>
     </td>
   </tr>
-  <tr>
-    <td width="76%" valign="top">
-      <strong><a href="https://github.com/JasonTM17/Money_Management_App">Money Management</a></strong><br />
-      <sub>Offline-first Flutter personal finance learning app with PIN/biometrics, SQLite, Riverpod 3, Fastify/PostgreSQL API, OpenAPI, containers, and n8n automation.</sub>
-    </td>
-    <td width="24%" valign="top" align="right">
-      <code>Dart</code><br />
-      <sub>2026-07-14</sub>
-    </td>
-  </tr>
 </table>
 
 <details>
@@ -158,6 +158,7 @@ The archive currently follows **20 public learning projects** from GitHub. New p
 
 | Project | Main language | Updated |
 | --- | --- | --- |
+| [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-07-16 |
 | [BookStore](https://github.com/JasonTM17/Ecommerce_BookStore) | TypeScript | 2026-07-15 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-07-15 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-15 |
@@ -166,7 +167,6 @@ The archive currently follows **20 public learning projects** from GitHub. New p
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-07-13 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-07-13 |
 | [LinguaFlow](https://github.com/JasonTM17/Language_App) | TypeScript | 2026-07-11 |
-| [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-07-11 |
 | [Laptop Shop](https://github.com/JasonTM17/Laptopshop_Spring_Boot_MVC) | Java | 2026-07-02 |
 | [15-puzzle AI Lab](https://github.com/JasonTM17/AI_Algothrithm_Study_University) | Python | 2026-07-01 |
 | [8-puzzle AI Lab](https://github.com/JasonTM17/AI_Algothrithm_Invidual_Study_University) | Python | 2026-06-30 |
