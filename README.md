@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-  I connect web, mobile, AI, Java, and platform ideas through public study projects.
+  I connect web, mobile, AI, Java, and platform ideas through public learning projects.
 </p>
 
 <p align="center">
-  <sub>I'm still learning, and I sincerely welcome feedback, suggestions, and constructive guidance from everyone.</sub>
+  <em>I'm still learning, and thoughtful feedback, suggestions, and constructive guidance are always welcome.</em>
 </p>
 
 <!-- AUTO:PROJECT_BADGES:START -->
@@ -28,16 +28,16 @@
 <!-- AUTO:PROJECT_STATS:START -->
 <table>
   <tr>
-    <td width="33%" align="center"><strong>20</strong><br /><sub>public learning projects</sub></td>
-    <td width="33%" align="center"><strong>4</strong><br /><sub>connected learning tracks</sub></td>
-    <td width="33%" align="center"><strong>1</strong><br /><sub>interactive 3D portfolio</sub></td>
+    <td width="33%" align="center"><strong>20</strong><br />public learning projects</td>
+    <td width="33%" align="center"><strong>4</strong><br />connected learning tracks</td>
+    <td width="33%" align="center"><strong>1</strong><br />interactive 3D portfolio</td>
   </tr>
 </table>
 <!-- AUTO:PROJECT_STATS:END -->
 
 ## What I'm learning to build
 
-Every focus area below is grounded in public study repositories. The tools appear beside the systems where I am learning to use them.
+Every focus area below is grounded in public learning projects. The tools appear beside the systems where I am learning to use them.
 
 - <strong>Connected product experiences</strong> &mdash; web, mobile, admin, and API surfaces that solve one workflow together.
 - <strong>Real-time operations</strong> &mdash; delivery, ride-hailing, location-aware, and back-office systems.
@@ -49,18 +49,18 @@ Every focus area below is grounded in public study repositories. The tools appea
 <table>
   <tr>
     <td width="50%" valign="top">
-      <sub><strong>01 / PRODUCT OPERATIONS</strong></sub><br /><br />
+      <strong>01 / PRODUCT OPERATIONS</strong><br /><br />
       <strong><a href="https://github.com/JasonTM17/FoodDelivery_App">FoodFlow</a> + <a href="https://github.com/JasonTM17/Crab_Mobile_Flutter">Crab</a></strong><br />
-      <sub>Delivery, ride-hailing, wallet, chat, location-aware flows, and the admin surfaces that keep them running.</sub><br /><br />
+      Delivery, ride-hailing, wallet, chat, location-aware flows, and the admin surfaces that keep them running.<br /><br />
       <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript used in FoodFlow and Crab" />
       <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js used in FoodFlow and Crab" />
       <img src="https://img.shields.io/badge/NestJS-0F172A?style=flat-square&amp;logo=nestjs&amp;logoColor=E0234E" alt="NestJS used in FoodFlow and Crab" />
       <img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&amp;logo=flutter&amp;logoColor=54C5F8" alt="Flutter used in FoodFlow and Crab" />
     </td>
     <td width="50%" valign="top">
-      <sub><strong>02 / MOBILE FINANCE</strong></sub><br /><br />
+      <strong>02 / MOBILE FINANCE</strong><br /><br />
       <strong><a href="https://github.com/JasonTM17/Money_Management_App">Money Management</a></strong><br />
-      <sub>Offline-first finance with PIN and biometric protection, local SQLite state, and a Fastify/PostgreSQL sync API.</sub><br /><br />
+      Offline-first finance with PIN and biometric protection, local SQLite state, and a Fastify/PostgreSQL sync API.<br /><br />
       <img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&amp;logo=flutter&amp;logoColor=54C5F8" alt="Flutter used in Money Management" />
       <img src="https://img.shields.io/badge/Dart-0F172A?style=flat-square&amp;logo=dart&amp;logoColor=54C5F8" alt="Dart used in Money Management" />
       <img src="https://img.shields.io/badge/SQLite-0F172A?style=flat-square&amp;logo=sqlite&amp;logoColor=54C5F8" alt="SQLite used in Money Management" />
@@ -69,18 +69,18 @@ Every focus area below is grounded in public study repositories. The tools appea
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub><strong>03 / APPLIED AI</strong></sub><br /><br />
+      <strong>03 / APPLIED AI</strong><br /><br />
       <strong><a href="https://github.com/JasonTM17/VN_TravelAI">VN TravelAI</a> + <a href="https://github.com/JasonTM17/App_AI_powered_waste_sorting">Waste Sorting</a></strong><br />
-      <sub>AI trip planning and computer vision brought into product and physical-control workflows.</sub><br /><br />
+      AI trip planning and computer vision brought into product and physical-control workflows.<br /><br />
       <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&amp;logo=python&amp;logoColor=FFD343" alt="Python used in applied AI projects" />
       <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js used in applied AI projects" />
       <img src="https://img.shields.io/badge/Computer%20Vision-0F172A?style=flat-square&amp;logoColor=38BDF8" alt="Computer vision used in waste sorting" />
       <img src="https://img.shields.io/badge/AI%20Planning-0F172A?style=flat-square&amp;logoColor=A78BFA" alt="AI planning used in VN TravelAI" />
     </td>
     <td width="50%" valign="top">
-      <sub><strong>04 / PLATFORM DELIVERY</strong></sub><br /><br />
+      <strong>04 / PLATFORM DELIVERY</strong><br /><br />
       <strong><a href="https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices">DevHire Cloud</a> + <a href="https://github.com/JasonTM17/Internal_Developer_Platform_DevOps">Internal Developer Platform</a> + <a href="https://github.com/JasonTM17/CampusCore_FullStack_Individual">CampusCore</a></strong><br />
-      <sub>Microservices, self-service delivery, GitOps, infrastructure as code, observability, and cloud operations.</sub><br /><br />
+      Microservices, self-service delivery, GitOps, infrastructure as code, observability, and cloud operations.<br /><br />
       <img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java used in DevHire Cloud" />
       <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker used in platform delivery projects" />
       <img src="https://img.shields.io/badge/Kubernetes-0F172A?style=flat-square&amp;logo=kubernetes&amp;logoColor=326CE5" alt="Kubernetes used in platform delivery projects" />
@@ -100,51 +100,51 @@ The archive currently follows **20 public learning projects** from GitHub. New p
   <tr>
     <td width="76%" valign="top">
       <strong><a href="https://github.com/JasonTM17/Ecommerce_BookStore">BookStore</a></strong><br />
-      <sub>Full-stack bookstore learning project with Next.js and Spring Boot, including storefront, authentication, tests, CI/CD, Docker, and Render deployment.</sub>
+      Full-stack bookstore learning project with Next.js and Spring Boot, including storefront, authentication, tests, CI/CD, Docker, and Render deployment.
     </td>
     <td width="24%" valign="top" align="right">
-      <code>TypeScript</code><br />
-      <sub>2026-07-16</sub>
+      <strong>TypeScript</strong><br />
+      2026-07-16
     </td>
   </tr>
   <tr>
     <td width="76%" valign="top">
       <strong><a href="https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices">DevHire Cloud</a></strong><br />
-      <sub>Java 21 Spring Boot microservices learning platform for recruitment with Kafka, OpenSearch, Docker, Kubernetes, Terraform, observability, CI/CD, and a RAG assistant.</sub>
+      Java 21 Spring Boot microservices learning platform for recruitment with Kafka, OpenSearch, Docker, Kubernetes, Terraform, observability, CI/CD, and a RAG assistant.
     </td>
     <td width="24%" valign="top" align="right">
-      <code>Java</code><br />
-      <sub>2026-07-16</sub>
+      <strong>Java</strong><br />
+      2026-07-16
     </td>
   </tr>
   <tr>
     <td width="76%" valign="top">
       <strong><a href="https://github.com/JasonTM17/FoodDelivery_App">FoodFlow</a></strong><br />
-      <sub>FoodFlow realtime food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.</sub>
+      FoodFlow realtime food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.
     </td>
     <td width="24%" valign="top" align="right">
-      <code>TypeScript</code><br />
-      <sub>2026-07-16</sub>
+      <strong>TypeScript</strong><br />
+      2026-07-16
     </td>
   </tr>
   <tr>
     <td width="76%" valign="top">
       <strong><a href="https://github.com/JasonTM17/Horror_Game_Funny">Horror Game Funny</a></strong><br />
-      <sub>ROOM 407: THE LAST SHIFT — a source-only first-person psychological horror game built with Godot 4.7.1 and GDScript.</sub>
+      ROOM 407: THE LAST SHIFT — a source-only first-person psychological horror game built with Godot 4.7.1 and GDScript.
     </td>
     <td width="24%" valign="top" align="right">
-      <code>GDScript</code><br />
-      <sub>2026-07-16</sub>
+      <strong>GDScript</strong><br />
+      2026-07-16
     </td>
   </tr>
   <tr>
     <td width="76%" valign="top">
       <strong><a href="https://github.com/JasonTM17/VN_TravelAI">VN TravelAI</a></strong><br />
-      <sub>TravelAI — Traveloka-style Vietnam travel marketplace + AI trip planner (Next.js, Fastify, DeepSeek V4 Flash, Docker monorepo)</sub>
+      TravelAI — Traveloka-style Vietnam travel marketplace + AI trip planner (Next.js, Fastify, DeepSeek V4 Flash, Docker monorepo)
     </td>
     <td width="24%" valign="top" align="right">
-      <code>TypeScript</code><br />
-      <sub>2026-07-16</sub>
+      <strong>TypeScript</strong><br />
+      2026-07-16
     </td>
   </tr>
 </table>
@@ -177,7 +177,7 @@ The archive currently follows **20 public learning projects** from GitHub. New p
 
 </details>
 
-<sub>Automatically refreshed from GitHub every hour. The four learning tracks above remain curated so the profile keeps a clear story.</sub>
+<em>Automatically refreshed from GitHub about every 30 minutes. The four learning tracks above remain curated so the profile keeps a clear story.</em>
 <!-- AUTO:PROJECT_ARCHIVE:END -->
 
 ## GitHub activity
@@ -193,5 +193,5 @@ The archive currently follows **20 public learning projects** from GitHub. New p
 </p>
 
 <p align="center">
-  <sub>Learning deliberately. Systems-minded. Building the next connection.</sub>
+  <em>Learning deliberately. Systems-minded. Building the next connection.</em>
 </p>

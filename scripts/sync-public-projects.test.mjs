@@ -121,9 +121,10 @@ test("snapshot adds a new repository, updates counts, and is idempotent", () => 
   const updated = applyRepositorySnapshot(TEMPLATE, projects);
 
   assert.match(updated, /2%20Public%20Projects/);
-  assert.match(updated, /<strong>2<\/strong><br \/><sub>public learning projects/);
+  assert.match(updated, /<strong>2<\/strong><br \/>public learning projects/);
   assert.match(updated, /Horror Game Funny/);
-  assert.match(updated, /Automatically refreshed from GitHub every hour\./);
+  assert.match(updated, /Automatically refreshed from GitHub about every 30 minutes\./);
+  assert.doesNotMatch(updated, /<sub>/);
   assert.doesNotMatch(updated, /old badges|old stats|old archive/);
   assert.equal(applyRepositorySnapshot(updated, projects), updated);
 });
@@ -149,7 +150,7 @@ test("project badges use dynamic counts, distinct CTA colors, and inline images"
 test("README project badges match the current renderer output", async () => {
   const readmeUrl = new URL("../README.md", import.meta.url);
   const readme = await readFile(readmeUrl, "utf8");
-  const countMatch = readme.match(/<strong>(\d+)<\/strong><br \/><sub>public learning projects<\/sub>/);
+  const countMatch = readme.match(/<strong>(\d+)<\/strong><br \/>public learning projects/);
 
   assert.ok(countMatch, "README project count should remain inside the managed stats section");
   const expectedBadges = renderProjectBadges(Array.from({ length: Number(countMatch[1]) }));
@@ -243,11 +244,11 @@ test("GitHub requests use the versioned API contract and authenticated owner que
   assert.equal(request.options.headers["X-GitHub-Api-Version"], "2026-03-10");
 });
 
-test("the profile workflow polls hourly, stays active, and keeps manual dispatch available", async () => {
+test("the profile workflow polls twice hourly, stays active, and keeps manual dispatch available", async () => {
   const workflowUrl = new URL("../.github/workflows/sync-public-projects.yml", import.meta.url);
   const workflow = await readFile(workflowUrl, "utf8");
 
-  assert.match(workflow, /cron: "23 \* \* \* \*"/);
+  assert.match(workflow, /cron: "23,53 \* \* \* \*"/);
   assert.match(workflow, /workflow_dispatch:/);
   assert.match(workflow, /actions\/checkout@[0-9a-f]{40} # v6\.0\.3/);
   assert.match(workflow, /actions\/setup-node@[0-9a-f]{40} # v6\.5\.0/);
