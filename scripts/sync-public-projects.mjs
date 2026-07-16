@@ -164,12 +164,8 @@ function projectIndexTable(repositories) {
 export function renderProjectBadges(repositories) {
   const count = repositories.length;
   return `<p align="center">
-  <a href="https://nguyen-son-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F172A?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" />
-  </a>
-  <a href="https://github.com/${OWNER}?tab=repositories">
-    <img src="https://img.shields.io/badge/${count}%20Public%20Projects-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's ${count} public learning-project repositories" />
-  </a>
+  <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
+  <a href="https://github.com/${OWNER}?tab=repositories"><img src="https://img.shields.io/badge/${count}%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's ${count} public learning-project repositories" /></a>
 </p>`;
 }
 

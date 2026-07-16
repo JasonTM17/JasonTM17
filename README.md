@@ -1,6 +1,6 @@
 <p align="center"><code>IT STUDENT · SOFTWARE ENGINEERING · DEVOPS · SYSTEMS</code></p>
 
-<h1 align="center">Hi, I'm Nguyen Son 👋</h1>
+<h1 align="center">Hi, I'm Nguyễn Tiến Sơn 👋</h1>
 
 <p align="center">
   <strong>Learning Software Engineering by building. Learning DevOps by shipping thoughtfully.</strong>
@@ -16,12 +16,8 @@
 
 <!-- AUTO:PROJECT_BADGES:START -->
 <p align="center">
-  <a href="https://nguyen-son-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F172A?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" />
-  </a>
-  <a href="https://github.com/JasonTM17?tab=repositories">
-    <img src="https://img.shields.io/badge/20%20Public%20Projects-0F172A?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 20 public learning-project repositories" />
-  </a>
+  <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
+  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/20%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 20 public learning-project repositories" /></a>
 </p>
 <!-- AUTO:PROJECT_BADGES:END -->
 

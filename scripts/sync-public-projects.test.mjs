@@ -5,6 +5,7 @@ import {
   applyRepositorySnapshot,
   fetchPublicRepositories,
   normalizeRepositories,
+  renderProjectBadges,
   replaceManagedSection,
 } from "./sync-public-projects.mjs";
 
@@ -125,6 +126,42 @@ test("snapshot adds a new repository, updates counts, and is idempotent", () => 
   assert.match(updated, /Automatically refreshed from GitHub every hour\./);
   assert.doesNotMatch(updated, /old badges|old stats|old archive/);
   assert.equal(applyRepositorySnapshot(updated, projects), updated);
+});
+
+test("project badges use dynamic counts, distinct CTA colors, and inline images", () => {
+  const badges = renderProjectBadges([
+    repository(),
+    repository({ name: "Horror_Game_Funny" }),
+    repository({ name: "Language_App" }),
+  ]);
+
+  assert.match(badges, /Live%203D%20Portfolio-0F766E\?/);
+  assert.match(badges, /3%20Public%20Projects-1D4ED8\?/);
+
+  const badgeAnchors = [...badges.matchAll(/<a\b[^>]*>([\s\S]*?)<\/a>/g)];
+  assert.equal(badgeAnchors.length, 2);
+  for (const [, content] of badgeAnchors) {
+    assert.doesNotMatch(content, /[\r\n]/);
+    assert.match(content, /^<img\b[^>]* \/>$/);
+  }
+});
+
+test("README project badges match the current renderer output", async () => {
+  const readmeUrl = new URL("../README.md", import.meta.url);
+  const readme = await readFile(readmeUrl, "utf8");
+  const countMatch = readme.match(/<strong>(\d+)<\/strong><br \/><sub>public learning projects<\/sub>/);
+
+  assert.ok(countMatch, "README project count should remain inside the managed stats section");
+  const expectedBadges = renderProjectBadges(Array.from({ length: Number(countMatch[1]) }));
+  const renderedBadges = readme.match(
+    /<!-- AUTO:PROJECT_BADGES:START -->\r?\n([\s\S]*?)\r?\n<!-- AUTO:PROJECT_BADGES:END -->/,
+  );
+
+  assert.ok(renderedBadges, "README should retain the managed project badge markers");
+  assert.equal(
+    renderedBadges[1].replace(/\r\n?/g, "\n"),
+    expectedBadges.replace(/\r\n?/g, "\n"),
+  );
 });
 
 test("snapshot removes repositories absent from the next public response", () => {
