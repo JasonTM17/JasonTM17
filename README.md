@@ -50,10 +50,12 @@ Every focus area below is grounded in public learning projects. The tools appear
 
 Delivery, ride-hailing, wallet, chat, location-aware flows, and the admin surfaces that keep them running.
 
-<img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript used in FoodFlow and Crab" />
-<img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js used in FoodFlow and Crab" />
-<img src="https://img.shields.io/badge/NestJS-0F172A?style=flat-square&amp;logo=nestjs&amp;logoColor=E0234E" alt="NestJS used in FoodFlow and Crab" />
-<img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&amp;logo=flutter&amp;logoColor=54C5F8" alt="Flutter used in FoodFlow and Crab" />
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript used in FoodFlow and Crab" />
+  <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js used in FoodFlow and Crab" />
+  <img src="https://img.shields.io/badge/NestJS-0F172A?style=flat-square&amp;logo=nestjs&amp;logoColor=E0234E" alt="NestJS used in FoodFlow and Crab" />
+  <img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&amp;logo=flutter&amp;logoColor=54C5F8" alt="Flutter used in FoodFlow and Crab" />
+</p>
 
 ### 02 / Mobile Finance
 
@@ -61,10 +63,12 @@ Delivery, ride-hailing, wallet, chat, location-aware flows, and the admin surfac
 
 Offline-first finance with PIN and biometric protection, local SQLite state, and a Fastify/PostgreSQL sync API.
 
-<img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&amp;logo=flutter&amp;logoColor=54C5F8" alt="Flutter used in Money Management" />
-<img src="https://img.shields.io/badge/Dart-0F172A?style=flat-square&amp;logo=dart&amp;logoColor=54C5F8" alt="Dart used in Money Management" />
-<img src="https://img.shields.io/badge/SQLite-0F172A?style=flat-square&amp;logo=sqlite&amp;logoColor=54C5F8" alt="SQLite used in Money Management" />
-<img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostgreSQL used in Money Management" />
+<p>
+  <img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&amp;logo=flutter&amp;logoColor=54C5F8" alt="Flutter used in Money Management" />
+  <img src="https://img.shields.io/badge/Dart-0F172A?style=flat-square&amp;logo=dart&amp;logoColor=54C5F8" alt="Dart used in Money Management" />
+  <img src="https://img.shields.io/badge/SQLite-0F172A?style=flat-square&amp;logo=sqlite&amp;logoColor=54C5F8" alt="SQLite used in Money Management" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostgreSQL used in Money Management" />
+</p>
 
 ### 03 / Applied AI
 
@@ -72,10 +76,12 @@ Offline-first finance with PIN and biometric protection, local SQLite state, and
 
 AI trip planning and computer vision brought into product and physical-control workflows.
 
-<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&amp;logo=python&amp;logoColor=FFD343" alt="Python used in applied AI projects" />
-<img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js used in applied AI projects" />
-<img src="https://img.shields.io/badge/Computer%20Vision-0F172A?style=flat-square&amp;logoColor=38BDF8" alt="Computer vision used in waste sorting" />
-<img src="https://img.shields.io/badge/AI%20Planning-0F172A?style=flat-square&amp;logoColor=A78BFA" alt="AI planning used in VN TravelAI" />
+<p>
+  <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&amp;logo=python&amp;logoColor=FFD343" alt="Python used in applied AI projects" />
+  <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js used in applied AI projects" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-0F172A?style=flat-square&amp;logoColor=38BDF8" alt="Computer vision used in waste sorting" />
+  <img src="https://img.shields.io/badge/AI%20Planning-0F172A?style=flat-square&amp;logoColor=A78BFA" alt="AI planning used in VN TravelAI" />
+</p>
 
 ### 04 / Platform Delivery
 
@@ -83,10 +89,12 @@ AI trip planning and computer vision brought into product and physical-control w
 
 Microservices, self-service delivery, GitOps, infrastructure as code, observability, and cloud operations.
 
-<img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java used in DevHire Cloud" />
-<img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker used in platform delivery projects" />
-<img src="https://img.shields.io/badge/Kubernetes-0F172A?style=flat-square&amp;logo=kubernetes&amp;logoColor=326CE5" alt="Kubernetes used in platform delivery projects" />
-<img src="https://img.shields.io/badge/Terraform-0F172A?style=flat-square&amp;logo=terraform&amp;logoColor=844FBA" alt="Terraform used in platform delivery projects" />
+<p>
+  <img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java used in DevHire Cloud" />
+  <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker used in platform delivery projects" />
+  <img src="https://img.shields.io/badge/Kubernetes-0F172A?style=flat-square&amp;logo=kubernetes&amp;logoColor=326CE5" alt="Kubernetes used in platform delivery projects" />
+  <img src="https://img.shields.io/badge/Terraform-0F172A?style=flat-square&amp;logo=terraform&amp;logoColor=844FBA" alt="Terraform used in platform delivery projects" />
+</p>
 
 ## Public Project Archive
 
