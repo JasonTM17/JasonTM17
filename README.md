@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I connect web, mobile, AI, Java, and platform ideas through public learning projects.
+  I connect web, mobile, AI, Java, and platform ideas through hands-on projects.
 </p>
 
 <p align="center">
@@ -27,22 +27,22 @@
 
 <!-- AUTO:PROJECT_STATS:START -->
 <p align="center">
-  <strong>21</strong> public learning projects &nbsp;&middot;&nbsp;
-  <strong>4</strong> connected learning tracks &nbsp;&middot;&nbsp;
+  <strong>21</strong> public projects &nbsp;&middot;&nbsp;
+  <strong>4</strong> project focus areas &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>
 <!-- AUTO:PROJECT_STATS:END -->
 
 ## What I'm Learning to Build
 
-Every focus area below is grounded in public learning projects. The tools appear beside the systems where I am learning to use them.
+These focus areas reflect the systems I am actively studying, designing, and building.
 
 - <strong>Connected product experiences</strong> &mdash; web, mobile, admin, and API surfaces that solve one workflow together.
 - <strong>Real-time operations</strong> &mdash; delivery, ride-hailing, location-aware, and back-office systems.
 - <strong>Applied AI</strong> &mdash; trip planning, computer vision, algorithm visualisation, and hardware/software bridges.
 - <strong>Platform-minded delivery</strong> &mdash; containers, CI, observability, cloud infrastructure, and developer portals.
 
-## Build Tracks — Learning in Public
+## Project Focus — Learning in Public
 
 ### 01 / Product Operations
 
@@ -96,20 +96,20 @@ Microservices, self-service delivery, GitOps, infrastructure as code, observabil
   <img src="https://img.shields.io/badge/Terraform-0F172A?style=flat-square&amp;logo=terraform&amp;logoColor=844FBA" alt="Terraform used in platform delivery projects" />
 </p>
 
-## Public Project Archive
+## Project Portfolio
 
 <!-- AUTO:PROJECT_ARCHIVE:START -->
-The archive currently follows **21 public learning projects** from GitHub. New public repositories appear automatically; private, forked, disabled, profile, and portfolio-metadata repositories stay out of this list.
+Explore **21 public projects** across product engineering, mobile development, applied AI, and platform delivery.
 
 ### Recently Updated
 
-- **[AgriCore SpringBoot Microservices](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-07-17
+- **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-07-17
 
-  A public learning project; open the repository for source code and progress notes.
+  Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
 
 - **[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App)** · TypeScript · 2026-07-17
 
-  FoodFlow realtime food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.
+  FoodFlow real-time food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.
 
 - **[Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny)** · GDScript · 2026-07-17
 
@@ -124,11 +124,11 @@ The archive currently follows **21 public learning projects** from GitHub. New p
   Java 21 Spring Boot microservices learning platform for recruitment with Kafka, OpenSearch, Docker, Kubernetes, Terraform, observability, CI/CD, and a RAG assistant.
 
 <details>
-  <summary><strong>Browse All 21 Public Learning Projects</strong></summary>
+  <summary><strong>Browse All 21 Projects</strong></summary>
 
-| Project | Main language | Updated |
+| Project | Technology / Status | Updated |
 | --- | --- | --- |
-| [AgriCore SpringBoot Microservices](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-07-17 |
+| [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-07-17 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-17 |
 | [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-17 |
 | [BookStore](https://github.com/JasonTM17/Ecommerce_BookStore) | TypeScript | 2026-07-16 |
@@ -151,8 +151,6 @@ The archive currently follows **21 public learning projects** from GitHub. New p
 | [CampusCore](https://github.com/JasonTM17/CampusCore_FullStack_Individual) | TypeScript | 2026-04-25 |
 
 </details>
-
-<em>Checked automatically twice each hour. New qualifying public repositories appear after the next successful GitHub Actions sync; scheduled runs can be delayed slightly.</em>
 <!-- AUTO:PROJECT_ARCHIVE:END -->
 
 ## GitHub Activity

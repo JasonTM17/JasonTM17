@@ -12,6 +12,7 @@ const ROOT_DIRECTORY = path.resolve(path.dirname(fileURLToPath(import.meta.url))
 const README_PATH = path.join(ROOT_DIRECTORY, "README.md");
 
 const CURATED_TITLES = new Map([
+  ["AgriCore_SpringBoot_Microservices", "AgriCore"],
   ["AI_Algothrithm_Invidual_Study_University", "8-puzzle AI Lab"],
   ["AI_Algothrithm_Study_University", "15-puzzle AI Lab"],
   ["App_AI_powered_waste_sorting", "AI-powered waste sorting"],
@@ -31,6 +32,13 @@ const CURATED_TITLES = new Map([
   ["ON-OFF_JS", "ON/OFF"],
   ["VN_TravelAI", "VN TravelAI"],
   ["Wavestream_Soundcloud", "Wavestream"],
+]);
+
+const CURATED_DESCRIPTIONS = new Map([
+  [
+    "AgriCore_SpringBoot_Microservices",
+    "Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.",
+  ],
 ]);
 
 function managedMarker(name, boundary) {
@@ -91,13 +99,15 @@ function compareText(left, right) {
 }
 
 function normalizedDescription(repository) {
-  const description = repository.description
-    ?.replace(/\b(?:professional(?:ly)?(?:\s+built)?|production[- ](?:grade|ready|like)|enterprise[- ]grade|real[- ]world)\b\s*/gi, "")
+  const sourceDescription = CURATED_DESCRIPTIONS.get(repository.name) ?? repository.description;
+  const description = sourceDescription
+    ?.replace(/\b(?:professional(?:ly)?(?:\s+built)?|portfolio[- ]grade|production[- ](?:grade|ready|like)|enterprise[- ]grade|real[- ]world)\b\s*/gi, "")
+    .replace(/\brealtime\b/g, "real-time")
     .replace(/\s+/g, " ")
     .trim();
 
   if (!description) {
-    return "A public learning project; open the repository for source code and progress notes.";
+    return "An early-stage learning project currently taking shape.";
   }
 
   const studentFocusedDescription = description[0].toUpperCase() + description.slice(1);
@@ -118,7 +128,7 @@ export function normalizeRepositories(payload) {
     .map((repository) => ({
       description: normalizedDescription(repository),
       href: repository.html_url,
-      language: repository.language?.trim() || "—",
+      language: repository.language?.trim() || "In progress",
       name: repository.name,
       pushedAt: repositoryTimestamp(repository),
       title: friendlyRepositoryName(repository.name),
@@ -144,7 +154,7 @@ function projectIndexTable(repositories) {
   ));
 
   return [
-    "| Project | Main language | Updated |",
+    "| Project | Technology / Status | Updated |",
     "| --- | --- | --- |",
     ...rows,
   ].join("\n");
@@ -160,8 +170,8 @@ export function renderProjectBadges(repositories) {
 
 export function renderProjectStats(repositories) {
   return `<p align="center">
-  <strong>${repositories.length}</strong> public learning projects &nbsp;&middot;&nbsp;
-  <strong>4</strong> connected learning tracks &nbsp;&middot;&nbsp;
+  <strong>${repositories.length}</strong> public projects &nbsp;&middot;&nbsp;
+  <strong>4</strong> project focus areas &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>`;
 }
@@ -170,20 +180,18 @@ export function renderProjectArchive(repositories) {
   const count = repositories.length;
   const recentRepositories = repositories.slice(0, 5);
 
-  return `The archive currently follows **${count} public learning projects** from GitHub. New public repositories appear automatically; private, forked, disabled, profile, and portfolio-metadata repositories stay out of this list.
+  return `Explore **${count} public projects** across product engineering, mobile development, applied AI, and platform delivery.
 
 ### Recently Updated
 
 ${recentProjectList(recentRepositories)}
 
 <details>
-  <summary><strong>Browse All ${count} Public Learning Projects</strong></summary>
+  <summary><strong>Browse All ${count} Projects</strong></summary>
 
 ${projectIndexTable(repositories)}
 
-</details>
-
-<em>Checked automatically twice each hour. New qualifying public repositories appear after the next successful GitHub Actions sync; scheduled runs can be delayed slightly.</em>`;
+</details>`;
 }
 
 export function replaceManagedSection(source, name, body) {

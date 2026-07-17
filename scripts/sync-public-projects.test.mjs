@@ -53,17 +53,42 @@ test("normalization keeps only owned public learning projects", () => {
   ]);
 
   assert.deepEqual(projects.map((project) => project.name), ["Horror_Game_Funny", "FoodDelivery_App"]);
-  assert.match(projects[0].description, /public learning project/i);
+  assert.match(projects[0].description, /early-stage learning project/i);
+});
+
+test("repositories without detected technology use a polished in-progress state", () => {
+  const [project] = normalizeRepositories([
+    repository({ description: null, language: null, name: "New_Study_Project" }),
+  ]);
+
+  assert.equal(project.language, "In progress");
+  assert.equal(project.description, "An early-stage learning project currently taking shape.");
+});
+
+test("curated project copy stays concise and evidence based", () => {
+  const [project] = normalizeRepositories([
+    repository({
+      description: "Portfolio-grade enterprise agricultural platform",
+      language: "Java",
+      name: "AgriCore_SpringBoot_Microservices",
+    }),
+  ]);
+
+  assert.equal(project.title, "AgriCore");
+  assert.equal(
+    project.description,
+    "Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.",
+  );
 });
 
 test("repository descriptions stay concise and student focused", () => {
   const [project] = normalizeRepositories([
     repository({
-      description: `Professionally built production-grade real-world ${"learning system ".repeat(20)}`,
+      description: `Professionally built portfolio-grade production-grade real-world ${"learning system ".repeat(20)}`,
     }),
   ]);
 
-  assert.doesNotMatch(project.description, /professional|production-grade|real-world/i);
+  assert.doesNotMatch(project.description, /professional|portfolio-grade|production-grade|real-world/i);
   assert.match(project.description, /^Learning system/);
   assert.ok(Array.from(project.description).length <= 180);
   assert.match(project.description, /…$/);
@@ -121,9 +146,11 @@ test("snapshot adds a new repository, updates counts, and is idempotent", () => 
   const updated = applyRepositorySnapshot(TEMPLATE, projects);
 
   assert.match(updated, /2%20Public%20Projects/);
-  assert.match(updated, /<strong>2<\/strong> public learning projects/);
+  assert.match(updated, /<strong>2<\/strong> public projects/);
   assert.match(updated, /Horror Game Funny/);
-  assert.match(updated, /Checked automatically twice each hour\./);
+  assert.match(updated, /Explore \*\*2 public projects\*\*/);
+  assert.match(updated, /Browse All 2 Projects/);
+  assert.doesNotMatch(updated, /GitHub Actions sync|Checked automatically|scheduled runs|private, forked|portfolio-metadata/i);
   assert.doesNotMatch(updated, /<td width="76%"/);
   assert.doesNotMatch(updated, /<sub>/);
   assert.doesNotMatch(updated, /old badges|old stats|old archive/);
@@ -151,7 +178,7 @@ test("project badges use dynamic counts, distinct CTA colors, and inline images"
 test("README project badges match the current renderer output", async () => {
   const readmeUrl = new URL("../README.md", import.meta.url);
   const readme = await readFile(readmeUrl, "utf8");
-  const countMatch = readme.match(/<strong>(\d+)<\/strong> public learning projects/);
+  const countMatch = readme.match(/<strong>(\d+)<\/strong> public projects/);
 
   assert.ok(countMatch, "README project count should remain inside the managed stats section");
   const expectedBadges = renderProjectBadges(Array.from({ length: Number(countMatch[1]) }));
@@ -163,6 +190,17 @@ test("README project badges match the current renderer output", async () => {
   assert.equal(
     renderedBadges[1].replace(/\r\n?/g, "\n"),
     expectedBadges.replace(/\r\n?/g, "\n"),
+  );
+});
+
+test("rendered Overview hides synchronization and filtering implementation details", async () => {
+  const readmeUrl = new URL("../README.md", import.meta.url);
+  const readme = await readFile(readmeUrl, "utf8");
+  const renderedCopy = readme.replace(/<!--[\s\S]*?-->/g, "");
+
+  assert.doesNotMatch(
+    renderedCopy,
+    /GitHub Actions sync|Checked automatically|scheduled runs|private, forked|portfolio-metadata|appear automatically/i,
   );
 });
 
