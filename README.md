@@ -103,7 +103,7 @@ The archive currently follows **21 public learning projects** from GitHub. New p
 
 ### Recently Updated
 
-- **[AgriCore SpringBoot Microservices](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · — · 2026-07-17
+- **[AgriCore SpringBoot Microservices](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-07-17
 
   A public learning project; open the repository for source code and progress notes.
 
@@ -128,7 +128,7 @@ The archive currently follows **21 public learning projects** from GitHub. New p
 
 | Project | Main language | Updated |
 | --- | --- | --- |
-| [AgriCore SpringBoot Microservices](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | — | 2026-07-17 |
+| [AgriCore SpringBoot Microservices](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-07-17 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-17 |
 | [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-17 |
 | [BookStore](https://github.com/JasonTM17/Ecommerce_BookStore) | TypeScript | 2026-07-16 |
