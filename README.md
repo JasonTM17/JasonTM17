@@ -17,7 +17,7 @@
 <!-- AUTO:PROJECT_BADGES:START -->
 <p align="center">
   <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
-  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/20%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 20 public learning-project repositories" /></a>
+  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/21%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 21 public learning-project repositories" /></a>
 </p>
 <!-- AUTO:PROJECT_BADGES:END -->
 
@@ -27,7 +27,7 @@
 
 <!-- AUTO:PROJECT_STATS:START -->
 <p align="center">
-  <strong>20</strong> public learning projects &nbsp;&middot;&nbsp;
+  <strong>21</strong> public learning projects &nbsp;&middot;&nbsp;
   <strong>4</strong> connected learning tracks &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>
@@ -99,13 +99,21 @@ Microservices, self-service delivery, GitOps, infrastructure as code, observabil
 ## Public Project Archive
 
 <!-- AUTO:PROJECT_ARCHIVE:START -->
-The archive currently follows **20 public learning projects** from GitHub. New public repositories appear automatically; private, forked, disabled, profile, and portfolio-metadata repositories stay out of this list.
+The archive currently follows **21 public learning projects** from GitHub. New public repositories appear automatically; private, forked, disabled, profile, and portfolio-metadata repositories stay out of this list.
 
 ### Recently Updated
+
+- **[AgriCore SpringBoot Microservices](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · — · 2026-07-17
+
+  A public learning project; open the repository for source code and progress notes.
 
 - **[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App)** · TypeScript · 2026-07-17
 
   FoodFlow realtime food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.
+
+- **[Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny)** · GDScript · 2026-07-17
+
+  ROOM 407: THE LAST SHIFT — a source-only first-person psychological horror game built with Godot 4.7.1 and GDScript.
 
 - **[BookStore](https://github.com/JasonTM17/Ecommerce_BookStore)** · TypeScript · 2026-07-16
 
@@ -115,23 +123,16 @@ The archive currently follows **20 public learning projects** from GitHub. New p
 
   Java 21 Spring Boot microservices learning platform for recruitment with Kafka, OpenSearch, Docker, Kubernetes, Terraform, observability, CI/CD, and a RAG assistant.
 
-- **[Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny)** · GDScript · 2026-07-16
-
-  ROOM 407: THE LAST SHIFT — a source-only first-person psychological horror game built with Godot 4.7.1 and GDScript.
-
-- **[VN TravelAI](https://github.com/JasonTM17/VN_TravelAI)** · TypeScript · 2026-07-16
-
-  TravelAI — Traveloka-style Vietnam travel marketplace + AI trip planner (Next.js, Fastify, DeepSeek V4 Flash, Docker monorepo)
-
 <details>
-  <summary><strong>Browse All 20 Public Learning Projects</strong></summary>
+  <summary><strong>Browse All 21 Public Learning Projects</strong></summary>
 
 | Project | Main language | Updated |
 | --- | --- | --- |
+| [AgriCore SpringBoot Microservices](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | — | 2026-07-17 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-17 |
+| [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-17 |
 | [BookStore](https://github.com/JasonTM17/Ecommerce_BookStore) | TypeScript | 2026-07-16 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-07-16 |
-| [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-16 |
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-07-16 |
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-07-14 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-07-13 |
