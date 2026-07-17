@@ -26,16 +26,14 @@
 </p>
 
 <!-- AUTO:PROJECT_STATS:START -->
-<table>
-  <tr>
-    <td width="33%" align="center"><strong>20</strong><br />public learning projects</td>
-    <td width="33%" align="center"><strong>4</strong><br />connected learning tracks</td>
-    <td width="33%" align="center"><strong>1</strong><br />interactive 3D portfolio</td>
-  </tr>
-</table>
+<p align="center">
+  <strong>20</strong> public learning projects &nbsp;&middot;&nbsp;
+  <strong>4</strong> connected learning tracks &nbsp;&middot;&nbsp;
+  <strong>1</strong> interactive 3D portfolio
+</p>
 <!-- AUTO:PROJECT_STATS:END -->
 
-## What I'm learning to build
+## What I'm Learning to Build
 
 Every focus area below is grounded in public learning projects. The tools appear beside the systems where I am learning to use them.
 
@@ -44,119 +42,95 @@ Every focus area below is grounded in public learning projects. The tools appear
 - <strong>Applied AI</strong> &mdash; trip planning, computer vision, algorithm visualisation, and hardware/software bridges.
 - <strong>Platform-minded delivery</strong> &mdash; containers, CI, observability, cloud infrastructure, and developer portals.
 
-## Build tracks — learning in public
+## Build Tracks — Learning in Public
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>01 / PRODUCT OPERATIONS</strong><br /><br />
-      <strong><a href="https://github.com/JasonTM17/FoodDelivery_App">FoodFlow</a> + <a href="https://github.com/JasonTM17/Crab_Mobile_Flutter">Crab</a></strong><br />
-      Delivery, ride-hailing, wallet, chat, location-aware flows, and the admin surfaces that keep them running.<br /><br />
-      <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript used in FoodFlow and Crab" />
-      <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js used in FoodFlow and Crab" />
-      <img src="https://img.shields.io/badge/NestJS-0F172A?style=flat-square&amp;logo=nestjs&amp;logoColor=E0234E" alt="NestJS used in FoodFlow and Crab" />
-      <img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&amp;logo=flutter&amp;logoColor=54C5F8" alt="Flutter used in FoodFlow and Crab" />
-    </td>
-    <td width="50%" valign="top">
-      <strong>02 / MOBILE FINANCE</strong><br /><br />
-      <strong><a href="https://github.com/JasonTM17/Money_Management_App">Money Management</a></strong><br />
-      Offline-first finance with PIN and biometric protection, local SQLite state, and a Fastify/PostgreSQL sync API.<br /><br />
-      <img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&amp;logo=flutter&amp;logoColor=54C5F8" alt="Flutter used in Money Management" />
-      <img src="https://img.shields.io/badge/Dart-0F172A?style=flat-square&amp;logo=dart&amp;logoColor=54C5F8" alt="Dart used in Money Management" />
-      <img src="https://img.shields.io/badge/SQLite-0F172A?style=flat-square&amp;logo=sqlite&amp;logoColor=54C5F8" alt="SQLite used in Money Management" />
-      <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostgreSQL used in Money Management" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>03 / APPLIED AI</strong><br /><br />
-      <strong><a href="https://github.com/JasonTM17/VN_TravelAI">VN TravelAI</a> + <a href="https://github.com/JasonTM17/App_AI_powered_waste_sorting">Waste Sorting</a></strong><br />
-      AI trip planning and computer vision brought into product and physical-control workflows.<br /><br />
-      <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&amp;logo=python&amp;logoColor=FFD343" alt="Python used in applied AI projects" />
-      <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js used in applied AI projects" />
-      <img src="https://img.shields.io/badge/Computer%20Vision-0F172A?style=flat-square&amp;logoColor=38BDF8" alt="Computer vision used in waste sorting" />
-      <img src="https://img.shields.io/badge/AI%20Planning-0F172A?style=flat-square&amp;logoColor=A78BFA" alt="AI planning used in VN TravelAI" />
-    </td>
-    <td width="50%" valign="top">
-      <strong>04 / PLATFORM DELIVERY</strong><br /><br />
-      <strong><a href="https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices">DevHire Cloud</a> + <a href="https://github.com/JasonTM17/Internal_Developer_Platform_DevOps">Internal Developer Platform</a> + <a href="https://github.com/JasonTM17/CampusCore_FullStack_Individual">CampusCore</a></strong><br />
-      Microservices, self-service delivery, GitOps, infrastructure as code, observability, and cloud operations.<br /><br />
-      <img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java used in DevHire Cloud" />
-      <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker used in platform delivery projects" />
-      <img src="https://img.shields.io/badge/Kubernetes-0F172A?style=flat-square&amp;logo=kubernetes&amp;logoColor=326CE5" alt="Kubernetes used in platform delivery projects" />
-      <img src="https://img.shields.io/badge/Terraform-0F172A?style=flat-square&amp;logo=terraform&amp;logoColor=844FBA" alt="Terraform used in platform delivery projects" />
-    </td>
-  </tr>
-</table>
+### 01 / Product Operations
 
-## Public project archive
+**[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) + [Crab](https://github.com/JasonTM17/Crab_Mobile_Flutter)**
+
+Delivery, ride-hailing, wallet, chat, location-aware flows, and the admin surfaces that keep them running.
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript used in FoodFlow and Crab" />
+  <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js used in FoodFlow and Crab" />
+  <img src="https://img.shields.io/badge/NestJS-0F172A?style=flat-square&amp;logo=nestjs&amp;logoColor=E0234E" alt="NestJS used in FoodFlow and Crab" />
+  <img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&amp;logo=flutter&amp;logoColor=54C5F8" alt="Flutter used in FoodFlow and Crab" />
+</p>
+
+### 02 / Mobile Finance
+
+**[Money Management](https://github.com/JasonTM17/Money_Management_App)**
+
+Offline-first finance with PIN and biometric protection, local SQLite state, and a Fastify/PostgreSQL sync API.
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&amp;logo=flutter&amp;logoColor=54C5F8" alt="Flutter used in Money Management" />
+  <img src="https://img.shields.io/badge/Dart-0F172A?style=flat-square&amp;logo=dart&amp;logoColor=54C5F8" alt="Dart used in Money Management" />
+  <img src="https://img.shields.io/badge/SQLite-0F172A?style=flat-square&amp;logo=sqlite&amp;logoColor=54C5F8" alt="SQLite used in Money Management" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostgreSQL used in Money Management" />
+</p>
+
+### 03 / Applied AI
+
+**[VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) + [Waste Sorting](https://github.com/JasonTM17/App_AI_powered_waste_sorting)**
+
+AI trip planning and computer vision brought into product and physical-control workflows.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&amp;logo=python&amp;logoColor=FFD343" alt="Python used in applied AI projects" />
+  <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js used in applied AI projects" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-0F172A?style=flat-square&amp;logoColor=38BDF8" alt="Computer vision used in waste sorting" />
+  <img src="https://img.shields.io/badge/AI%20Planning-0F172A?style=flat-square&amp;logoColor=A78BFA" alt="AI planning used in VN TravelAI" />
+</p>
+
+### 04 / Platform Delivery
+
+**[DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) + [Internal Developer Platform](https://github.com/JasonTM17/Internal_Developer_Platform_DevOps) + [CampusCore](https://github.com/JasonTM17/CampusCore_FullStack_Individual)**
+
+Microservices, self-service delivery, GitOps, infrastructure as code, observability, and cloud operations.
+
+<p>
+  <img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java used in DevHire Cloud" />
+  <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker used in platform delivery projects" />
+  <img src="https://img.shields.io/badge/Kubernetes-0F172A?style=flat-square&amp;logo=kubernetes&amp;logoColor=326CE5" alt="Kubernetes used in platform delivery projects" />
+  <img src="https://img.shields.io/badge/Terraform-0F172A?style=flat-square&amp;logo=terraform&amp;logoColor=844FBA" alt="Terraform used in platform delivery projects" />
+</p>
+
+## Public Project Archive
 
 <!-- AUTO:PROJECT_ARCHIVE:START -->
 The archive currently follows **20 public learning projects** from GitHub. New public repositories appear automatically; private, forked, disabled, profile, and portfolio-metadata repositories stay out of this list.
 
-### Recently updated
+### Recently Updated
 
-<table>
-  <tr>
-    <td width="76%" valign="top">
-      <strong><a href="https://github.com/JasonTM17/Ecommerce_BookStore">BookStore</a></strong><br />
-      Full-stack bookstore learning project with Next.js and Spring Boot, including storefront, authentication, tests, CI/CD, Docker, and Render deployment.
-    </td>
-    <td width="24%" valign="top" align="right">
-      <strong>TypeScript</strong><br />
-      2026-07-16
-    </td>
-  </tr>
-  <tr>
-    <td width="76%" valign="top">
-      <strong><a href="https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices">DevHire Cloud</a></strong><br />
-      Java 21 Spring Boot microservices learning platform for recruitment with Kafka, OpenSearch, Docker, Kubernetes, Terraform, observability, CI/CD, and a RAG assistant.
-    </td>
-    <td width="24%" valign="top" align="right">
-      <strong>Java</strong><br />
-      2026-07-16
-    </td>
-  </tr>
-  <tr>
-    <td width="76%" valign="top">
-      <strong><a href="https://github.com/JasonTM17/FoodDelivery_App">FoodFlow</a></strong><br />
-      FoodFlow realtime food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.
-    </td>
-    <td width="24%" valign="top" align="right">
-      <strong>TypeScript</strong><br />
-      2026-07-16
-    </td>
-  </tr>
-  <tr>
-    <td width="76%" valign="top">
-      <strong><a href="https://github.com/JasonTM17/Horror_Game_Funny">Horror Game Funny</a></strong><br />
-      ROOM 407: THE LAST SHIFT — a source-only first-person psychological horror game built with Godot 4.7.1 and GDScript.
-    </td>
-    <td width="24%" valign="top" align="right">
-      <strong>GDScript</strong><br />
-      2026-07-16
-    </td>
-  </tr>
-  <tr>
-    <td width="76%" valign="top">
-      <strong><a href="https://github.com/JasonTM17/VN_TravelAI">VN TravelAI</a></strong><br />
-      TravelAI — Traveloka-style Vietnam travel marketplace + AI trip planner (Next.js, Fastify, DeepSeek V4 Flash, Docker monorepo)
-    </td>
-    <td width="24%" valign="top" align="right">
-      <strong>TypeScript</strong><br />
-      2026-07-16
-    </td>
-  </tr>
-</table>
+- **[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App)** · TypeScript · 2026-07-17
+
+  FoodFlow realtime food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.
+
+- **[BookStore](https://github.com/JasonTM17/Ecommerce_BookStore)** · TypeScript · 2026-07-16
+
+  Full-stack bookstore learning project with Next.js and Spring Boot, including storefront, authentication, tests, CI/CD, Docker, and Render deployment.
+
+- **[DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices)** · Java · 2026-07-16
+
+  Java 21 Spring Boot microservices learning platform for recruitment with Kafka, OpenSearch, Docker, Kubernetes, Terraform, observability, CI/CD, and a RAG assistant.
+
+- **[Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny)** · GDScript · 2026-07-16
+
+  ROOM 407: THE LAST SHIFT — a source-only first-person psychological horror game built with Godot 4.7.1 and GDScript.
+
+- **[VN TravelAI](https://github.com/JasonTM17/VN_TravelAI)** · TypeScript · 2026-07-16
+
+  TravelAI — Traveloka-style Vietnam travel marketplace + AI trip planner (Next.js, Fastify, DeepSeek V4 Flash, Docker monorepo)
 
 <details>
-  <summary><strong>Browse all 20 public learning projects</strong></summary>
+  <summary><strong>Browse All 20 Public Learning Projects</strong></summary>
 
 | Project | Main language | Updated |
 | --- | --- | --- |
+| [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-17 |
 | [BookStore](https://github.com/JasonTM17/Ecommerce_BookStore) | TypeScript | 2026-07-16 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-07-16 |
-| [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-16 |
 | [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-16 |
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-07-16 |
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-07-14 |
@@ -177,10 +151,10 @@ The archive currently follows **20 public learning projects** from GitHub. New p
 
 </details>
 
-<em>Automatically refreshed from GitHub about every 30 minutes. The four learning tracks above remain curated so the profile keeps a clear story.</em>
+<em>Checked automatically twice each hour. New qualifying public repositories appear after the next successful GitHub Actions sync; scheduled runs can be delayed slightly.</em>
 <!-- AUTO:PROJECT_ARCHIVE:END -->
 
-## GitHub activity
+## GitHub Activity
 
 <p align="center">
   <a href="https://github.com/JasonTM17?tab=overview">

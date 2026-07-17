@@ -132,21 +132,10 @@ export function normalizeRepositories(payload) {
   return [...new Map(repositories.map((repository) => [repository.name.toLowerCase(), repository])).values()];
 }
 
-function recentProjectTable(repositories) {
-  const rows = repositories.map((repository) => `  <tr>
-    <td width="76%" valign="top">
-      <strong><a href="${repository.href}">${escapeHtml(repository.title)}</a></strong><br />
-      ${escapeHtml(repository.description)}
-    </td>
-    <td width="24%" valign="top" align="right">
-      <strong>${escapeHtml(repository.language)}</strong><br />
-      ${normalizedDate(repository.pushedAt)}
-    </td>
-  </tr>`);
-
-  return `<table>
-${rows.join("\n")}
-</table>`;
+function recentProjectList(repositories) {
+  return repositories.map((repository) => (
+    `- **[${escapeMarkdownCell(repository.title)}](${repository.href})** · ${escapeMarkdownCell(repository.language)} · ${normalizedDate(repository.pushedAt)}\n\n  ${escapeMarkdownCell(repository.description)}`
+  )).join("\n\n");
 }
 
 function projectIndexTable(repositories) {
@@ -170,13 +159,11 @@ export function renderProjectBadges(repositories) {
 }
 
 export function renderProjectStats(repositories) {
-  return `<table>
-  <tr>
-    <td width="33%" align="center"><strong>${repositories.length}</strong><br />public learning projects</td>
-    <td width="33%" align="center"><strong>4</strong><br />connected learning tracks</td>
-    <td width="33%" align="center"><strong>1</strong><br />interactive 3D portfolio</td>
-  </tr>
-</table>`;
+  return `<p align="center">
+  <strong>${repositories.length}</strong> public learning projects &nbsp;&middot;&nbsp;
+  <strong>4</strong> connected learning tracks &nbsp;&middot;&nbsp;
+  <strong>1</strong> interactive 3D portfolio
+</p>`;
 }
 
 export function renderProjectArchive(repositories) {
@@ -185,18 +172,18 @@ export function renderProjectArchive(repositories) {
 
   return `The archive currently follows **${count} public learning projects** from GitHub. New public repositories appear automatically; private, forked, disabled, profile, and portfolio-metadata repositories stay out of this list.
 
-### Recently updated
+### Recently Updated
 
-${recentProjectTable(recentRepositories)}
+${recentProjectList(recentRepositories)}
 
 <details>
-  <summary><strong>Browse all ${count} public learning projects</strong></summary>
+  <summary><strong>Browse All ${count} Public Learning Projects</strong></summary>
 
 ${projectIndexTable(repositories)}
 
 </details>
 
-<em>Automatically refreshed from GitHub about every 30 minutes. The four learning tracks above remain curated so the profile keeps a clear story.</em>`;
+<em>Checked automatically twice each hour. New qualifying public repositories appear after the next successful GitHub Actions sync; scheduled runs can be delayed slightly.</em>`;
 }
 
 export function replaceManagedSection(source, name, body) {

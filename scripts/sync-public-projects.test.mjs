@@ -121,9 +121,10 @@ test("snapshot adds a new repository, updates counts, and is idempotent", () => 
   const updated = applyRepositorySnapshot(TEMPLATE, projects);
 
   assert.match(updated, /2%20Public%20Projects/);
-  assert.match(updated, /<strong>2<\/strong><br \/>public learning projects/);
+  assert.match(updated, /<strong>2<\/strong> public learning projects/);
   assert.match(updated, /Horror Game Funny/);
-  assert.match(updated, /Automatically refreshed from GitHub about every 30 minutes\./);
+  assert.match(updated, /Checked automatically twice each hour\./);
+  assert.doesNotMatch(updated, /<td width="76%"/);
   assert.doesNotMatch(updated, /<sub>/);
   assert.doesNotMatch(updated, /old badges|old stats|old archive/);
   assert.equal(applyRepositorySnapshot(updated, projects), updated);
@@ -150,7 +151,7 @@ test("project badges use dynamic counts, distinct CTA colors, and inline images"
 test("README project badges match the current renderer output", async () => {
   const readmeUrl = new URL("../README.md", import.meta.url);
   const readme = await readFile(readmeUrl, "utf8");
-  const countMatch = readme.match(/<strong>(\d+)<\/strong><br \/>public learning projects/);
+  const countMatch = readme.match(/<strong>(\d+)<\/strong> public learning projects/);
 
   assert.ok(countMatch, "README project count should remain inside the managed stats section");
   const expectedBadges = renderProjectBadges(Array.from({ length: Number(countMatch[1]) }));
