@@ -17,7 +17,7 @@
 <!-- AUTO:PROJECT_BADGES:START -->
 <p align="center">
   <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
-  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/22%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 22 public learning-project repositories" /></a>
+  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/24%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 24 public learning-project repositories" /></a>
 </p>
 <!-- AUTO:PROJECT_BADGES:END -->
 
@@ -27,7 +27,7 @@
 
 <!-- AUTO:PROJECT_STATS:START -->
 <p align="center">
-  <strong>22</strong> public projects &nbsp;&middot;&nbsp;
+  <strong>24</strong> public projects &nbsp;&middot;&nbsp;
   <strong>4</strong> project focus areas &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>
@@ -99,9 +99,13 @@ Microservices, self-service delivery, GitOps, infrastructure as code, observabil
 ## Project Portfolio
 
 <!-- AUTO:PROJECT_ARCHIVE:START -->
-Explore **22 public projects** across product engineering, mobile development, applied AI, and platform delivery.
+Explore **24 public projects** across product engineering, mobile development, applied AI, and platform delivery.
 
 ### Recently Updated
+
+- **[Aethera ChillTimeWeb](https://github.com/JasonTM17/Aethera_ChillTimeWeb)** · In progress · 2026-07-18
+
+  An early-stage learning project currently taking shape.
 
 - **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-07-18
 
@@ -119,20 +123,18 @@ Explore **22 public projects** across product engineering, mobile development, a
 
   ROOM 407: THE LAST SHIFT — a source-only first-person psychological horror game built with Godot 4.7.1 and GDScript.
 
-- **[LinguaFlow](https://github.com/JasonTM17/Language_App)** · TypeScript · 2026-07-18
-
-  LinguaFlow — Nền tảng học ngôn ngữ thông minh dành cho người Việt. Học Tiếng Anh, Nhật, Trung, Hàn với spaced repetition, gamification và lộ trình cá nhân hóa. Built with Next.js…
-
 <details>
-  <summary><strong>Browse All 22 Projects</strong></summary>
+  <summary><strong>Browse All 24 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [Aethera ChillTimeWeb](https://github.com/JasonTM17/Aethera_ChillTimeWeb) | In progress | 2026-07-18 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-07-18 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | In progress | 2026-07-18 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-18 |
 | [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-18 |
 | [LinguaFlow](https://github.com/JasonTM17/Language_App) | TypeScript | 2026-07-18 |
+| [Velorah Dream](https://github.com/JasonTM17/Velorah_Dream) | In progress | 2026-07-18 |
 | [BookStore](https://github.com/JasonTM17/Ecommerce_BookStore) | TypeScript | 2026-07-16 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-07-16 |
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-07-16 |
