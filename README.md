@@ -17,7 +17,7 @@
 <!-- AUTO:PROJECT_BADGES:START -->
 <p align="center">
   <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
-  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/24%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 24 public learning-project repositories" /></a>
+  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/25%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 25 public learning-project repositories" /></a>
 </p>
 <!-- AUTO:PROJECT_BADGES:END -->
 
@@ -27,7 +27,7 @@
 
 <!-- AUTO:PROJECT_STATS:START -->
 <p align="center">
-  <strong>24</strong> public projects &nbsp;&middot;&nbsp;
+  <strong>25</strong> public projects &nbsp;&middot;&nbsp;
   <strong>4</strong> project focus areas &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>
@@ -99,7 +99,7 @@ Microservices, self-service delivery, GitOps, infrastructure as code, observabil
 ## Project Portfolio
 
 <!-- AUTO:PROJECT_ARCHIVE:START -->
-Explore **24 public projects** across product engineering, mobile development, applied AI, and platform delivery.
+Explore **25 public projects** across product engineering, mobile development, applied AI, and platform delivery.
 
 ### Recently Updated
 
@@ -111,6 +111,10 @@ Explore **24 public projects** across product engineering, mobile development, a
 
   ROOM 407: THE LAST SHIFT — a source-only first-person psychological horror game built with Godot 4.7.1 and GDScript.
 
+- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · In progress · 2026-07-19
+
+  An early-stage learning project currently taking shape.
+
 - **[Velorah Dream](https://github.com/JasonTM17/Velorah_Dream)** · TypeScript · 2026-07-19
 
   Cinematic React + TypeScript studio site with responsive editorial sections, accessible navigation, and viewport-managed motion.
@@ -119,17 +123,14 @@ Explore **24 public projects** across product engineering, mobile development, a
 
   Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
 
-- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · In progress · 2026-07-18
-
-  An early-stage learning project currently taking shape.
-
 <details>
-  <summary><strong>Browse All 24 Projects</strong></summary>
+  <summary><strong>Browse All 25 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [Aethera ChillTimeWeb](https://github.com/JasonTM17/Aethera_ChillTimeWeb) | TypeScript | 2026-07-19 |
 | [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-19 |
+| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | In progress | 2026-07-19 |
 | [Velorah Dream](https://github.com/JasonTM17/Velorah_Dream) | TypeScript | 2026-07-19 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-07-18 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | In progress | 2026-07-18 |
