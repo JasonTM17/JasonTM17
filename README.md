@@ -107,6 +107,10 @@ Explore **25 public projects** across product engineering, mobile development, a
 
   A cinematic editorial studio experience built with React, Vite, Tailwind CSS, and TypeScript.
 
+- **[DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices)** · Java · 2026-07-19
+
+  Java 21 Spring Boot microservices learning platform for recruitment with Kafka, OpenSearch, Docker, Kubernetes, Terraform, observability, CI/CD, and a RAG assistant.
+
 - **[Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny)** · GDScript · 2026-07-19
 
   ROOM 407: THE LAST SHIFT — a source-only first-person psychological horror game built with Godot 4.7.1 and GDScript.
@@ -119,16 +123,13 @@ Explore **25 public projects** across product engineering, mobile development, a
 
   Cinematic React + TypeScript studio site with responsive editorial sections, accessible navigation, and viewport-managed motion.
 
-- **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-07-18
-
-  Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
-
 <details>
   <summary><strong>Browse All 25 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [Aethera ChillTimeWeb](https://github.com/JasonTM17/Aethera_ChillTimeWeb) | TypeScript | 2026-07-19 |
+| [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-07-19 |
 | [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-19 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | In progress | 2026-07-19 |
 | [Velorah Dream](https://github.com/JasonTM17/Velorah_Dream) | TypeScript | 2026-07-19 |
@@ -137,7 +138,6 @@ Explore **25 public projects** across product engineering, mobile development, a
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-18 |
 | [LinguaFlow](https://github.com/JasonTM17/Language_App) | TypeScript | 2026-07-18 |
 | [BookStore](https://github.com/JasonTM17/Ecommerce_BookStore) | TypeScript | 2026-07-16 |
-| [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-07-16 |
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-07-16 |
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-07-14 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-07-13 |
