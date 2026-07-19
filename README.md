@@ -1,4 +1,4 @@
-<p align="center"><code>IT STUDENT · SOFTWARE ENGINEERING · DEVOPS · SYSTEMS</code></p>
+<p align="center"><code>SOFTWARE ENGINEERING · DEVOPS · SYSTEMS</code></p>
 
 <h1 align="center">Hi, I'm Nguyễn Tiến Sơn 👋</h1>
 
