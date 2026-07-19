@@ -103,9 +103,13 @@ Explore **24 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
-- **[Aethera ChillTimeWeb](https://github.com/JasonTM17/Aethera_ChillTimeWeb)** · In progress · 2026-07-18
+- **[Aethera ChillTimeWeb](https://github.com/JasonTM17/Aethera_ChillTimeWeb)** · TypeScript · 2026-07-19
 
-  An early-stage learning project currently taking shape.
+  A cinematic editorial studio experience built with React, Vite, Tailwind CSS, and TypeScript.
+
+- **[Velorah Dream](https://github.com/JasonTM17/Velorah_Dream)** · TypeScript · 2026-07-19
+
+  Cinematic React + TypeScript studio site with responsive editorial sections, accessible navigation, and viewport-managed motion.
 
 - **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-07-18
 
@@ -119,22 +123,18 @@ Explore **24 public projects** across product engineering, mobile development, a
 
   FoodFlow real-time food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.
 
-- **[Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny)** · GDScript · 2026-07-18
-
-  ROOM 407: THE LAST SHIFT — a source-only first-person psychological horror game built with Godot 4.7.1 and GDScript.
-
 <details>
   <summary><strong>Browse All 24 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
-| [Aethera ChillTimeWeb](https://github.com/JasonTM17/Aethera_ChillTimeWeb) | In progress | 2026-07-18 |
+| [Aethera ChillTimeWeb](https://github.com/JasonTM17/Aethera_ChillTimeWeb) | TypeScript | 2026-07-19 |
+| [Velorah Dream](https://github.com/JasonTM17/Velorah_Dream) | TypeScript | 2026-07-19 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-07-18 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | In progress | 2026-07-18 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-18 |
 | [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-18 |
 | [LinguaFlow](https://github.com/JasonTM17/Language_App) | TypeScript | 2026-07-18 |
-| [Velorah Dream](https://github.com/JasonTM17/Velorah_Dream) | TypeScript | 2026-07-18 |
 | [BookStore](https://github.com/JasonTM17/Ecommerce_BookStore) | TypeScript | 2026-07-16 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-07-16 |
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-07-16 |
