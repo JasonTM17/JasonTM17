@@ -115,13 +115,13 @@ Explore **25 public projects** across product engineering, mobile development, a
 
   🧋 Premium Milk Tea E-Commerce Platform \| Trà Sữa Cao Cấp \| プレミアムミルクティー
 
+- **[Money Management](https://github.com/JasonTM17/Money_Management_App)** · Dart · 2026-07-20
+
+  Offline-first Flutter personal finance learning app with PIN/biometrics, SQLite, Riverpod 3, Fastify/PostgreSQL API, OpenAPI, containers, and n8n automation.
+
 - **[Aethera ChillTimeWeb](https://github.com/JasonTM17/Aethera_ChillTimeWeb)** · TypeScript · 2026-07-19
 
   A cinematic editorial studio experience built with React, Vite, Tailwind CSS, and TypeScript.
-
-- **[DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices)** · Java · 2026-07-19
-
-  Java 21 Spring Boot microservices learning platform for recruitment with Kafka, OpenSearch, Docker, Kubernetes, Terraform, observability, CI/CD, and a RAG assistant.
 
 <details>
   <summary><strong>Browse All 25 Projects</strong></summary>
@@ -131,6 +131,7 @@ Explore **25 public projects** across product engineering, mobile development, a
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-07-20 |
 | [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-20 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-07-20 |
+| [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-07-20 |
 | [Aethera ChillTimeWeb](https://github.com/JasonTM17/Aethera_ChillTimeWeb) | TypeScript | 2026-07-19 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-07-19 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | In progress | 2026-07-19 |
@@ -140,7 +141,6 @@ Explore **25 public projects** across product engineering, mobile development, a
 | [LinguaFlow](https://github.com/JasonTM17/Language_App) | TypeScript | 2026-07-18 |
 | [BookStore](https://github.com/JasonTM17/Ecommerce_BookStore) | TypeScript | 2026-07-16 |
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-07-16 |
-| [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-07-14 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-07-13 |
 | [Laptop Shop](https://github.com/JasonTM17/Laptopshop_Spring_Boot_MVC) | Java | 2026-07-02 |
 | [15-puzzle AI Lab](https://github.com/JasonTM17/AI_Algothrithm_Study_University) | Python | 2026-07-01 |
