@@ -103,6 +103,10 @@ Explore **25 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku)** · TypeScript · 2026-07-20
+
+  🧋 Premium Milk Tea E-Commerce Platform \| Trà Sữa Cao Cấp \| プレミアムミルクティー
+
 - **[Aethera ChillTimeWeb](https://github.com/JasonTM17/Aethera_ChillTimeWeb)** · TypeScript · 2026-07-19
 
   A cinematic editorial studio experience built with React, Vite, Tailwind CSS, and TypeScript.
@@ -119,15 +123,12 @@ Explore **25 public projects** across product engineering, mobile development, a
 
   An early-stage learning project currently taking shape.
 
-- **[Velorah Dream](https://github.com/JasonTM17/Velorah_Dream)** · TypeScript · 2026-07-19
-
-  Cinematic React + TypeScript studio site with responsive editorial sections, accessible navigation, and viewport-managed motion.
-
 <details>
   <summary><strong>Browse All 25 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-07-20 |
 | [Aethera ChillTimeWeb](https://github.com/JasonTM17/Aethera_ChillTimeWeb) | TypeScript | 2026-07-19 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-07-19 |
 | [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-19 |
@@ -141,7 +142,6 @@ Explore **25 public projects** across product engineering, mobile development, a
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-07-16 |
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-07-14 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-07-13 |
-| [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-07-13 |
 | [Laptop Shop](https://github.com/JasonTM17/Laptopshop_Spring_Boot_MVC) | Java | 2026-07-02 |
 | [15-puzzle AI Lab](https://github.com/JasonTM17/AI_Algothrithm_Study_University) | Python | 2026-07-01 |
 | [8-puzzle AI Lab](https://github.com/JasonTM17/AI_Algothrithm_Invidual_Study_University) | Python | 2026-06-30 |
