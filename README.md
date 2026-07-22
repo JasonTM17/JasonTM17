@@ -105,7 +105,7 @@ Explore **25 public projects** across product engineering, mobile development, a
 
 - **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-07-22
 
-  Enterprise agriculture analytics platform combining operational APIs, tenant-safe RBAC/RLS, inventory intelligence, and Bronze-Silver-Gold analytics.
+  Enterprise agriculture analytics platform: Bronze-Silver-Gold data products, tenant-safe Java 21 APIs with RBAC/RLS, big-data demos, transactional outbox, and delivery.
 
 - **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Python · 2026-07-22
 
