@@ -103,6 +103,10 @@ Explore **25 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[VN TravelAI](https://github.com/JasonTM17/VN_TravelAI)** · TypeScript · 2026-07-23
+
+  TravelAI — Traveloka-style Vietnam travel marketplace + AI trip planner (Next.js, Fastify, DeepSeek V4 Flash, Docker monorepo)
+
 - **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-07-22
 
   Enterprise agriculture analytics platform: Bronze-Silver-Gold data products, tenant-safe Java 21 APIs with RBAC/RLS, big-data demos, transactional outbox, and delivery.
@@ -119,15 +123,12 @@ Explore **25 public projects** across product engineering, mobile development, a
 
   ROOM 407: THE LAST SHIFT — a source-only first-person psychological horror game built with Godot 4.7.1 and GDScript.
 
-- **[MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku)** · TypeScript · 2026-07-20
-
-  🧋 Premium Milk Tea E-Commerce Platform \| Trà Sữa Cao Cấp \| プレミアムミルクティー
-
 <details>
   <summary><strong>Browse All 25 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-07-23 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-07-22 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-07-22 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-07-20 |
@@ -140,7 +141,6 @@ Explore **25 public projects** across product engineering, mobile development, a
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-18 |
 | [LinguaFlow](https://github.com/JasonTM17/Language_App) | TypeScript | 2026-07-18 |
 | [BookStore](https://github.com/JasonTM17/Ecommerce_BookStore) | TypeScript | 2026-07-16 |
-| [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-07-16 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-07-13 |
 | [Laptop Shop](https://github.com/JasonTM17/Laptopshop_Spring_Boot_MVC) | Java | 2026-07-02 |
 | [15-puzzle AI Lab](https://github.com/JasonTM17/AI_Algothrithm_Study_University) | Python | 2026-07-01 |
