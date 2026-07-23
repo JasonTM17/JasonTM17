@@ -103,17 +103,17 @@ Explore **25 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
-- **[VN TravelAI](https://github.com/JasonTM17/VN_TravelAI)** · TypeScript · 2026-07-23
-
-  TravelAI — Traveloka-style Vietnam travel marketplace + AI trip planner (Next.js, Fastify, DeepSeek V4 Flash, Docker monorepo)
-
-- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-07-22
+- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-07-23
 
   Enterprise agriculture analytics platform: Bronze-Silver-Gold data products, tenant-safe Java 21 APIs with RBAC/RLS, big-data demos, transactional outbox, and delivery.
 
-- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Python · 2026-07-22
+- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Python · 2026-07-23
 
   Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
+
+- **[VN TravelAI](https://github.com/JasonTM17/VN_TravelAI)** · TypeScript · 2026-07-23
+
+  TravelAI — Traveloka-style Vietnam travel marketplace + AI trip planner (Next.js, Fastify, DeepSeek V4 Flash, Docker monorepo)
 
 - **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-07-20
 
@@ -128,9 +128,9 @@ Explore **25 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-07-23 |
+| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-07-23 |
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-07-23 |
-| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-07-22 |
-| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-07-22 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-07-20 |
 | [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-20 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-07-20 |
