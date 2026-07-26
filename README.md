@@ -103,6 +103,10 @@ Explore **26 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-07-26
+
+  Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
+
 - **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-07-26
 
   Enterprise agriculture analytics platform: Bronze-Silver-Gold data products, tenant-safe Java 21 APIs with RBAC/RLS, big-data demos, transactional outbox, and delivery.
@@ -115,10 +119,6 @@ Explore **26 public projects** across product engineering, mobile development, a
 
   An early-stage learning project currently taking shape.
 
-- **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-07-24
-
-  Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
-
 - **[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App)** · TypeScript · 2026-07-23
 
   FoodFlow real-time food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.
@@ -128,10 +128,10 @@ Explore **26 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-07-26 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-07-26 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-07-26 |
 | [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-07-25 |
-| [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-07-24 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-23 |
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-07-23 |
 | [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-20 |
