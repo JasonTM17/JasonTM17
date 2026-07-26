@@ -109,7 +109,7 @@ Explore **26 public projects** across product engineering, mobile development, a
 
 - **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-07-26
 
-  Enterprise agriculture analytics platform: Bronze-Silver-Gold data products, tenant-safe Java 21 APIs with RBAC/RLS, big-data demos, transactional outbox, and delivery.
+  Enterprise agriculture analytics platform chaining a deterministic Bronze-Silver-Gold Python pipeline and star-schema Gold KPI contracts into a Java 21 Spring Boot modular…
 
 - **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Python · 2026-07-26
 
