@@ -103,38 +103,39 @@ Explore **27 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-07-27
+
+  Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
+
 - **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-07-27
 
   Enterprise agriculture analytics platform chaining a deterministic Bronze-Silver-Gold Python pipeline and star-schema Gold KPI contracts into a Java 21 Spring Boot modular…
 
+- **[Distill LLM](https://github.com/JasonTM17/Distill_LLM)** · Python · 2026-07-27
+
+  Knowledge distillation from GPT-5.5-xhigh into Qwen2.5-1.5B-Instruct: bf16 LoRA trained on a 6GB RTX 3060, served as a containerized OpenAI-compatible API (FastAPI + llama.cpp)…
+
+- **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-07-27
+
+  A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
+
 - **[MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku)** · TypeScript · 2026-07-27
 
   🧋 Premium Milk Tea E-Commerce Platform \| Trà Sữa Cao Cấp \| プレミアムミルクティー
-
-- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Python · 2026-07-27
-
-  Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
-
-- **[minecraft adventure](https://github.com/JasonTM17/minecraft-adventure)** · TypeScript · 2026-07-27
-
-  Browser voxel adventure game with an infinite procedural world and a fire-breathing dragon boss — TypeScript + Three.js, zero external assets
-
-- **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-07-26
-
-  Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
 
 <details>
   <summary><strong>Browse All 27 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-07-27 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-07-27 |
+| [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-07-27 |
+| [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-07-27 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-07-27 |
+| [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-07-27 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-07-27 |
-| [minecraft adventure](https://github.com/JasonTM17/minecraft-adventure) | TypeScript | 2026-07-27 |
-| [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-07-26 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-07-26 |
-| [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-07-25 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-23 |
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-07-23 |
 | [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-20 |
@@ -143,7 +144,6 @@ Explore **27 public projects** across product engineering, mobile development, a
 | [Velorah Dream](https://github.com/JasonTM17/Velorah_Dream) | TypeScript | 2026-07-19 |
 | [LinguaFlow](https://github.com/JasonTM17/Language_App) | TypeScript | 2026-07-18 |
 | [BookStore](https://github.com/JasonTM17/Ecommerce_BookStore) | TypeScript | 2026-07-16 |
-| [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-07-13 |
 | [Laptop Shop](https://github.com/JasonTM17/Laptopshop_Spring_Boot_MVC) | Java | 2026-07-02 |
 | [15-puzzle AI Lab](https://github.com/JasonTM17/AI_Algothrithm_Study_University) | Python | 2026-07-01 |
 | [8-puzzle AI Lab](https://github.com/JasonTM17/AI_Algothrithm_Invidual_Study_University) | Python | 2026-06-30 |
