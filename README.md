@@ -17,7 +17,7 @@
 <!-- AUTO:PROJECT_BADGES:START -->
 <p align="center">
   <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
-  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/26%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 26 public learning-project repositories" /></a>
+  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/27%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 27 public learning-project repositories" /></a>
 </p>
 <!-- AUTO:PROJECT_BADGES:END -->
 
@@ -27,7 +27,7 @@
 
 <!-- AUTO:PROJECT_STATS:START -->
 <p align="center">
-  <strong>26</strong> public projects &nbsp;&middot;&nbsp;
+  <strong>27</strong> public projects &nbsp;&middot;&nbsp;
   <strong>4</strong> project focus areas &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>
@@ -99,46 +99,47 @@ Microservices, self-service delivery, GitOps, infrastructure as code, observabil
 ## Project Portfolio
 
 <!-- AUTO:PROJECT_ARCHIVE:START -->
-Explore **26 public projects** across product engineering, mobile development, applied AI, and platform delivery.
+Explore **27 public projects** across product engineering, mobile development, applied AI, and platform delivery.
 
 ### Recently Updated
+
+- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-07-27
+
+  Enterprise agriculture analytics platform chaining a deterministic Bronze-Silver-Gold Python pipeline and star-schema Gold KPI contracts into a Java 21 Spring Boot modular…
+
+- **[MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku)** · TypeScript · 2026-07-27
+
+  🧋 Premium Milk Tea E-Commerce Platform \| Trà Sữa Cao Cấp \| プレミアムミルクティー
+
+- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Python · 2026-07-27
+
+  Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
+
+- **[minecraft adventure](https://github.com/JasonTM17/minecraft-adventure)** · TypeScript · 2026-07-27
+
+  Browser voxel adventure game with an infinite procedural world and a fire-breathing dragon boss — TypeScript + Three.js, zero external assets
 
 - **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-07-26
 
   Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
 
-- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-07-26
-
-  Enterprise agriculture analytics platform chaining a deterministic Bronze-Silver-Gold Python pipeline and star-schema Gold KPI contracts into a Java 21 Spring Boot modular…
-
-- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Python · 2026-07-26
-
-  Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
-
-- **[Distill LLM](https://github.com/JasonTM17/Distill_LLM)** · Python · 2026-07-25
-
-  An early-stage learning project currently taking shape.
-
-- **[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App)** · TypeScript · 2026-07-23
-
-  FoodFlow real-time food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.
-
 <details>
-  <summary><strong>Browse All 26 Projects</strong></summary>
+  <summary><strong>Browse All 27 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-07-27 |
+| [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-07-27 |
+| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-07-27 |
+| [minecraft adventure](https://github.com/JasonTM17/minecraft-adventure) | TypeScript | 2026-07-27 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-07-26 |
-| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-07-26 |
-| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-07-26 |
+| [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-07-26 |
 | [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-07-25 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-23 |
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-07-23 |
 | [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-20 |
-| [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-07-20 |
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-07-20 |
 | [Aethera ChillTimeWeb](https://github.com/JasonTM17/Aethera_ChillTimeWeb) | TypeScript | 2026-07-19 |
-| [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-07-19 |
 | [Velorah Dream](https://github.com/JasonTM17/Velorah_Dream) | TypeScript | 2026-07-19 |
 | [LinguaFlow](https://github.com/JasonTM17/Language_App) | TypeScript | 2026-07-18 |
 | [BookStore](https://github.com/JasonTM17/Ecommerce_BookStore) | TypeScript | 2026-07-16 |
