@@ -109,7 +109,7 @@ Explore **27 public projects** across product engineering, mobile development, a
 
 - **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-07-27
 
-  Enterprise agriculture analytics platform chaining a deterministic Bronze-Silver-Gold Python pipeline and star-schema Gold KPI contracts into a Java 21 Spring Boot modular…
+  Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, and deterministic Bronze-Silver-Gold pipelines.
 
 - **[Distill LLM](https://github.com/JasonTM17/Distill_LLM)** · Python · 2026-07-27
 
