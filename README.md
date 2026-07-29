@@ -107,6 +107,10 @@ Explore **27 public projects** across product engineering, mobile development, a
 
   Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
 
+- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Python · 2026-07-29
+
+  Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
+
 - **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-07-28
 
   Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
@@ -114,10 +118,6 @@ Explore **27 public projects** across product engineering, mobile development, a
 - **[Distill LLM](https://github.com/JasonTM17/Distill_LLM)** · Python · 2026-07-28
 
   Knowledge distillation from GPT-5.5-xhigh into Qwen2.5-1.5B-Instruct: bf16 LoRA trained on a 6GB RTX 3060, served as a containerized OpenAI-compatible API (FastAPI + llama.cpp)…
-
-- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Python · 2026-07-28
-
-  Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
 
 - **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-07-27
 
@@ -129,9 +129,9 @@ Explore **27 public projects** across product engineering, mobile development, a
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-07-29 |
+| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-07-29 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-07-28 |
 | [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-07-28 |
-| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-07-28 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-07-27 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-07-27 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-07-27 |
