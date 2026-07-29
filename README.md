@@ -17,7 +17,7 @@
 <!-- AUTO:PROJECT_BADGES:START -->
 <p align="center">
   <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
-  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/27%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 27 public learning-project repositories" /></a>
+  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/28%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 28 public learning-project repositories" /></a>
 </p>
 <!-- AUTO:PROJECT_BADGES:END -->
 
@@ -27,7 +27,7 @@
 
 <!-- AUTO:PROJECT_STATS:START -->
 <p align="center">
-  <strong>27</strong> public projects &nbsp;&middot;&nbsp;
+  <strong>28</strong> public projects &nbsp;&middot;&nbsp;
   <strong>4</strong> project focus areas &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>
@@ -99,13 +99,17 @@ Microservices, self-service delivery, GitOps, infrastructure as code, observabil
 ## Project Portfolio
 
 <!-- AUTO:PROJECT_ARCHIVE:START -->
-Explore **27 public projects** across product engineering, mobile development, applied AI, and platform delivery.
+Explore **28 public projects** across product engineering, mobile development, applied AI, and platform delivery.
 
 ### Recently Updated
 
 - **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-07-29
 
   Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
+
+- **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · In progress · 2026-07-29
+
+  An early-stage learning project currently taking shape.
 
 - **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Python · 2026-07-29
 
@@ -119,16 +123,13 @@ Explore **27 public projects** across product engineering, mobile development, a
 
   Knowledge distillation from GPT-5.5-xhigh into Qwen2.5-1.5B-Instruct: bf16 LoRA trained on a 6GB RTX 3060, served as a containerized OpenAI-compatible API (FastAPI + llama.cpp)…
 
-- **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-07-27
-
-  A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
-
 <details>
-  <summary><strong>Browse All 27 Projects</strong></summary>
+  <summary><strong>Browse All 28 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-07-29 |
+| [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | In progress | 2026-07-29 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-07-29 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-07-28 |
 | [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-07-28 |
