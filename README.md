@@ -103,13 +103,13 @@ Explore **27 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-07-29
+
+  Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
+
 - **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-07-28
 
   Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
-
-- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-07-28
-
-  Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
 
 - **[Distill LLM](https://github.com/JasonTM17/Distill_LLM)** · Python · 2026-07-28
 
@@ -128,8 +128,8 @@ Explore **27 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-07-29 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-07-28 |
-| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-07-28 |
 | [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-07-28 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-07-28 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-07-27 |
