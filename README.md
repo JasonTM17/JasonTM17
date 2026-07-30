@@ -103,17 +103,17 @@ Explore **28 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
-- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-07-29
+- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-07-30
 
   Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
+
+- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Python · 2026-07-30
+
+  Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
 
 - **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · PLpgSQL · 2026-07-29
 
   An early-stage learning project currently taking shape.
-
-- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Python · 2026-07-29
-
-  Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
 
 - **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-07-28
 
@@ -128,9 +128,9 @@ Explore **28 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
-| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-07-29 |
+| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-07-30 |
+| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-07-30 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | PLpgSQL | 2026-07-29 |
-| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-07-29 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-07-28 |
 | [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-07-28 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-07-27 |
