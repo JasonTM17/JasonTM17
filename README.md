@@ -17,7 +17,7 @@
 <!-- AUTO:PROJECT_BADGES:START -->
 <p align="center">
   <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
-  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/28%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 28 public learning-project repositories" /></a>
+  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/30%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 30 public learning-project repositories" /></a>
 </p>
 <!-- AUTO:PROJECT_BADGES:END -->
 
@@ -27,7 +27,7 @@
 
 <!-- AUTO:PROJECT_STATS:START -->
 <p align="center">
-  <strong>28</strong> public projects &nbsp;&middot;&nbsp;
+  <strong>30</strong> public projects &nbsp;&middot;&nbsp;
   <strong>4</strong> project focus areas &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>
@@ -99,40 +99,42 @@ Microservices, self-service delivery, GitOps, infrastructure as code, observabil
 ## Project Portfolio
 
 <!-- AUTO:PROJECT_ARCHIVE:START -->
-Explore **28 public projects** across product engineering, mobile development, applied AI, and platform delivery.
+Explore **30 public projects** across product engineering, mobile development, applied AI, and platform delivery.
 
 ### Recently Updated
 
-- **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-07-31
-
-  Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
-
-- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-07-30
+- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-08-01
 
   Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
 
-- **[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App)** · TypeScript · 2026-07-30
-
-  FoodFlow real-time food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.
-
-- **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-07-30
+- **[Eventory](https://github.com/JasonTM17/Eventory)** · In progress · 2026-08-01
 
   An early-stage learning project currently taking shape.
 
-- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Python · 2026-07-30
+- **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-08-01
+
+  An early-stage learning project currently taking shape.
+
+- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Python · 2026-08-01
 
   Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
 
+- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · In progress · 2026-08-01
+
+  An early-stage learning project currently taking shape.
+
 <details>
-  <summary><strong>Browse All 28 Projects</strong></summary>
+  <summary><strong>Browse All 30 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-01 |
+| [Eventory](https://github.com/JasonTM17/Eventory) | In progress | 2026-08-01 |
+| [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-01 |
+| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-08-01 |
+| [PipeForge](https://github.com/JasonTM17/PipeForge) | In progress | 2026-08-01 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-07-31 |
-| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-07-30 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-30 |
-| [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-07-30 |
-| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-07-30 |
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-07-30 |
 | [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-07-28 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-07-27 |
