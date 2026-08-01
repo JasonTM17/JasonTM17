@@ -113,15 +113,15 @@ Explore **30 public projects** across product engineering, mobile development, a
 
 - **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-08-01
 
-  An early-stage learning project currently taking shape.
+  Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
+
+- **[LinguaFlow](https://github.com/JasonTM17/Language_App)** · TypeScript · 2026-08-01
+
+  LinguaFlow — Nền tảng học ngôn ngữ thông minh dành cho người Việt. Học Tiếng Anh, Nhật, Trung, Hàn với spaced repetition, gamification và lộ trình cá nhân hóa. Built with Next.js…
 
 - **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Python · 2026-08-01
 
   Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
-
-- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · In progress · 2026-08-01
-
-  An early-stage learning project currently taking shape.
 
 <details>
   <summary><strong>Browse All 30 Projects</strong></summary>
@@ -131,6 +131,7 @@ Explore **30 public projects** across product engineering, mobile development, a
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-01 |
 | [Eventory](https://github.com/JasonTM17/Eventory) | In progress | 2026-08-01 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-01 |
+| [LinguaFlow](https://github.com/JasonTM17/Language_App) | TypeScript | 2026-08-01 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-08-01 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | In progress | 2026-08-01 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-07-31 |
@@ -145,7 +146,6 @@ Explore **30 public projects** across product engineering, mobile development, a
 | [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-20 |
 | [Aethera ChillTimeWeb](https://github.com/JasonTM17/Aethera_ChillTimeWeb) | TypeScript | 2026-07-19 |
 | [Velorah Dream](https://github.com/JasonTM17/Velorah_Dream) | TypeScript | 2026-07-19 |
-| [LinguaFlow](https://github.com/JasonTM17/Language_App) | TypeScript | 2026-07-18 |
 | [BookStore](https://github.com/JasonTM17/Ecommerce_BookStore) | TypeScript | 2026-07-16 |
 | [Laptop Shop](https://github.com/JasonTM17/Laptopshop_Spring_Boot_MVC) | Java | 2026-07-02 |
 | [15-puzzle AI Lab](https://github.com/JasonTM17/AI_Algothrithm_Study_University) | Python | 2026-07-01 |
