@@ -107,9 +107,9 @@ Explore **30 public projects** across product engineering, mobile development, a
 
   Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
 
-- **[Eventory](https://github.com/JasonTM17/Eventory)** · In progress · 2026-08-01
+- **[Eventory](https://github.com/JasonTM17/Eventory)** · TypeScript · 2026-08-01
 
-  An early-stage learning project currently taking shape.
+  Production-oriented full-stack event ticketing platform with atomic seat holds, signed QR check-in, transactional payments, notifications, analytics, and delivery automation.
 
 - **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-08-01
 
@@ -129,7 +129,7 @@ Explore **30 public projects** across product engineering, mobile development, a
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-01 |
-| [Eventory](https://github.com/JasonTM17/Eventory) | In progress | 2026-08-01 |
+| [Eventory](https://github.com/JasonTM17/Eventory) | TypeScript | 2026-08-01 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-01 |
 | [LinguaFlow](https://github.com/JasonTM17/Language_App) | TypeScript | 2026-08-01 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-08-01 |
