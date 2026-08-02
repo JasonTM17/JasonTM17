@@ -107,21 +107,21 @@ Explore **30 public projects** across product engineering, mobile development, a
 
   Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
 
-- **[Eventory](https://github.com/JasonTM17/Eventory)** · TypeScript · 2026-08-01
-
-  Production-oriented full-stack event ticketing platform with atomic seat holds, signed QR check-in, transactional payments, notifications, analytics, and delivery automation.
-
-- **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-08-01
+- **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-08-02
 
   Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
 
-- **[LinguaFlow](https://github.com/JasonTM17/Language_App)** · TypeScript · 2026-08-01
-
-  LinguaFlow — Nền tảng học ngôn ngữ thông minh dành cho người Việt. Học Tiếng Anh, Nhật, Trung, Hàn với spaced repetition, gamification và lộ trình cá nhân hóa. Built with Next.js…
-
-- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Python · 2026-08-01
+- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Python · 2026-08-02
 
   Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
+
+- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-08-02
+
+  An early-stage learning project currently taking shape.
+
+- **[Eventory](https://github.com/JasonTM17/Eventory)** · TypeScript · 2026-08-01
+
+  Production-oriented full-stack event ticketing platform with atomic seat holds, signed QR check-in, transactional payments, notifications, analytics, and delivery automation.
 
 <details>
   <summary><strong>Browse All 30 Projects</strong></summary>
@@ -129,11 +129,11 @@ Explore **30 public projects** across product engineering, mobile development, a
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-02 |
+| [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-02 |
+| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-08-02 |
+| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-02 |
 | [Eventory](https://github.com/JasonTM17/Eventory) | TypeScript | 2026-08-01 |
-| [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-01 |
 | [LinguaFlow](https://github.com/JasonTM17/Language_App) | TypeScript | 2026-08-01 |
-| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-08-01 |
-| [PipeForge](https://github.com/JasonTM17/PipeForge) | In progress | 2026-08-01 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-07-31 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-30 |
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-07-30 |
