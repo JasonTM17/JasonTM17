@@ -103,7 +103,7 @@ Explore **30 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
-- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-08-01
+- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-08-02
 
   Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
 
@@ -128,7 +128,7 @@ Explore **30 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
-| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-01 |
+| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-02 |
 | [Eventory](https://github.com/JasonTM17/Eventory) | TypeScript | 2026-08-01 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-01 |
 | [LinguaFlow](https://github.com/JasonTM17/Language_App) | TypeScript | 2026-08-01 |
