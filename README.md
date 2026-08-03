@@ -115,13 +115,13 @@ Explore **30 public projects** across product engineering, mobile development, a
 
   Knowledge distillation from GPT-5.5-xhigh into Qwen2.5-1.5B-Instruct: bf16 LoRA trained on a 6GB RTX 3060, served as a containerized OpenAI-compatible API (FastAPI + llama.cpp)…
 
-- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Python · 2026-08-03
+- **[Eventory](https://github.com/JasonTM17/Eventory)** · TypeScript · 2026-08-03
 
-  Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
+  Production-oriented full-stack event ticketing platform with atomic seat holds, signed QR check-in, transactional payments, notifications, analytics, and delivery automation.
 
-- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-08-03
+- **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-08-03
 
-  Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
+  Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
 
 <details>
   <summary><strong>Browse All 30 Projects</strong></summary>
@@ -131,11 +131,11 @@ Explore **30 public projects** across product engineering, mobile development, a
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-03 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-03 |
 | [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-08-03 |
+| [Eventory](https://github.com/JasonTM17/Eventory) | TypeScript | 2026-08-03 |
+| [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-03 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-08-03 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-03 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-02 |
-| [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-02 |
-| [Eventory](https://github.com/JasonTM17/Eventory) | TypeScript | 2026-08-01 |
 | [LinguaFlow](https://github.com/JasonTM17/Language_App) | TypeScript | 2026-08-01 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-30 |
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-07-30 |
