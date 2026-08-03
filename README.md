@@ -113,7 +113,7 @@ Explore **30 public projects** across product engineering, mobile development, a
 
 - **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-08-03
 
-  An early-stage learning project currently taking shape.
+  Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
 
 - **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-08-02
 
