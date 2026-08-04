@@ -103,39 +103,39 @@ Explore **30 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
-- **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-08-03
-
-  Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
-
-- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-08-03
+- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-08-04
 
   Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
 
-- **[Distill LLM](https://github.com/JasonTM17/Distill_LLM)** · Python · 2026-08-03
-
-  Knowledge distillation from GPT-5.5-xhigh into Qwen2.5-1.5B-Instruct: bf16 LoRA trained on a 6GB RTX 3060, served as a containerized OpenAI-compatible API (FastAPI + llama.cpp)…
-
-- **[Eventory](https://github.com/JasonTM17/Eventory)** · TypeScript · 2026-08-03
+- **[Eventory](https://github.com/JasonTM17/Eventory)** · TypeScript · 2026-08-04
 
   Production-oriented full-stack event ticketing platform with atomic seat holds, signed QR check-in, transactional payments, notifications, analytics, and delivery automation.
 
-- **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-08-03
+- **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-08-04
 
   Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
+
+- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Python · 2026-08-04
+
+  Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
+
+- **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-08-03
+
+  Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
 
 <details>
   <summary><strong>Browse All 30 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-04 |
+| [Eventory](https://github.com/JasonTM17/Eventory) | TypeScript | 2026-08-04 |
+| [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-04 |
+| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-08-04 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-03 |
-| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-03 |
 | [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-08-03 |
-| [Eventory](https://github.com/JasonTM17/Eventory) | TypeScript | 2026-08-03 |
-| [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-03 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-08-03 |
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-08-03 |
-| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-08-03 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-03 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-02 |
 | [LinguaFlow](https://github.com/JasonTM17/Language_App) | TypeScript | 2026-08-01 |
