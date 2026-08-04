@@ -119,9 +119,9 @@ Explore **30 public projects** across product engineering, mobile development, a
 
   Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
 
-- **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-08-03
+- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-08-04
 
-  Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
+  Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
 
 <details>
   <summary><strong>Browse All 30 Projects</strong></summary>
@@ -132,11 +132,11 @@ Explore **30 public projects** across product engineering, mobile development, a
 | [Eventory](https://github.com/JasonTM17/Eventory) | TypeScript | 2026-08-04 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-04 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-08-04 |
+| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-04 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-03 |
 | [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-08-03 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-08-03 |
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-08-03 |
-| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-03 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-02 |
 | [LinguaFlow](https://github.com/JasonTM17/Language_App) | TypeScript | 2026-08-01 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-30 |
