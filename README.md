@@ -103,9 +103,13 @@ Explore **30 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
-- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-08-04
+- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-08-05
 
   Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
+
+- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Python · 2026-08-05
+
+  Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
 
 - **[Eventory](https://github.com/JasonTM17/Eventory)** · TypeScript · 2026-08-04
 
@@ -114,10 +118,6 @@ Explore **30 public projects** across product engineering, mobile development, a
 - **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-08-04
 
   Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
-
-- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Python · 2026-08-04
-
-  Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
 
 - **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-08-04
 
@@ -128,10 +128,10 @@ Explore **30 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
-| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-04 |
+| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-05 |
+| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-08-05 |
 | [Eventory](https://github.com/JasonTM17/Eventory) | TypeScript | 2026-08-04 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-04 |
-| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-08-04 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-04 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-03 |
 | [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-08-03 |
