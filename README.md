@@ -133,7 +133,7 @@ Explore **33 public projects** across product engineering, mobile development, a
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-05 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-08-05 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-05 |
-| [RepoMentor](https://github.com/JasonTM17/RepoMentor) | In progress | 2026-08-05 |
+| [RepoMentor](https://github.com/JasonTM17/RepoMentor) | TypeScript | 2026-08-05 |
 | [Voxel Pagoda Garden](https://github.com/JasonTM17/Voxel-Pagoda-Garden) | JavaScript | 2026-08-05 |
 | [Eventory](https://github.com/JasonTM17/Eventory) | TypeScript | 2026-08-04 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-03 |
