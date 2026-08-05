@@ -17,7 +17,7 @@
 <!-- AUTO:PROJECT_BADGES:START -->
 <p align="center">
   <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
-  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/30%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 30 public learning-project repositories" /></a>
+  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/31%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 31 public learning-project repositories" /></a>
 </p>
 <!-- AUTO:PROJECT_BADGES:END -->
 
@@ -27,7 +27,7 @@
 
 <!-- AUTO:PROJECT_STATS:START -->
 <p align="center">
-  <strong>30</strong> public projects &nbsp;&middot;&nbsp;
+  <strong>31</strong> public projects &nbsp;&middot;&nbsp;
   <strong>4</strong> project focus areas &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>
@@ -99,7 +99,7 @@ Microservices, self-service delivery, GitOps, infrastructure as code, observabil
 ## Project Portfolio
 
 <!-- AUTO:PROJECT_ARCHIVE:START -->
-Explore **30 public projects** across product engineering, mobile development, applied AI, and platform delivery.
+Explore **31 public projects** across product engineering, mobile development, applied AI, and platform delivery.
 
 ### Recently Updated
 
@@ -111,28 +111,29 @@ Explore **30 public projects** across product engineering, mobile development, a
 
   Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
 
+- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-08-05
+
+  Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
+
+- **[Voxel Pagoda Garden](https://github.com/JasonTM17/Voxel-Pagoda-Garden)** · JavaScript · 2026-08-05
+
+  A serene voxel pagoda garden diorama in Three.js - five-tier pagoda, koi pond, blossom rain, zen garden and a lantern-lit dusk mode. 11.5k voxels, ~30 draw calls.
+
 - **[Eventory](https://github.com/JasonTM17/Eventory)** · TypeScript · 2026-08-04
 
   Production-oriented full-stack event ticketing platform with atomic seat holds, signed QR check-in, transactional payments, notifications, analytics, and delivery automation.
 
-- **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-08-04
-
-  Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
-
-- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-08-04
-
-  Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
-
 <details>
-  <summary><strong>Browse All 30 Projects</strong></summary>
+  <summary><strong>Browse All 31 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-05 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-08-05 |
+| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-05 |
+| [Voxel Pagoda Garden](https://github.com/JasonTM17/Voxel-Pagoda-Garden) | JavaScript | 2026-08-05 |
 | [Eventory](https://github.com/JasonTM17/Eventory) | TypeScript | 2026-08-04 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-04 |
-| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-04 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-03 |
 | [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-08-03 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-08-03 |
