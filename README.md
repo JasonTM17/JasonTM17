@@ -17,7 +17,7 @@
 <!-- AUTO:PROJECT_BADGES:START -->
 <p align="center">
   <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
-  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/32%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 32 public learning-project repositories" /></a>
+  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/33%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 33 public learning-project repositories" /></a>
 </p>
 <!-- AUTO:PROJECT_BADGES:END -->
 
@@ -27,7 +27,7 @@
 
 <!-- AUTO:PROJECT_STATS:START -->
 <p align="center">
-  <strong>32</strong> public projects &nbsp;&middot;&nbsp;
+  <strong>33</strong> public projects &nbsp;&middot;&nbsp;
   <strong>4</strong> project focus areas &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>
@@ -99,7 +99,7 @@ Microservices, self-service delivery, GitOps, infrastructure as code, observabil
 ## Project Portfolio
 
 <!-- AUTO:PROJECT_ARCHIVE:START -->
-Explore **32 public projects** across product engineering, mobile development, applied AI, and platform delivery.
+Explore **33 public projects** across product engineering, mobile development, applied AI, and platform delivery.
 
 ### Recently Updated
 
@@ -124,7 +124,7 @@ Explore **32 public projects** across product engineering, mobile development, a
   Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
 
 <details>
-  <summary><strong>Browse All 32 Projects</strong></summary>
+  <summary><strong>Browse All 33 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
@@ -133,6 +133,7 @@ Explore **32 public projects** across product engineering, mobile development, a
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-05 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-08-05 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-05 |
+| [RepoMentor](https://github.com/JasonTM17/RepoMentor) | In progress | 2026-08-05 |
 | [Voxel Pagoda Garden](https://github.com/JasonTM17/Voxel-Pagoda-Garden) | JavaScript | 2026-08-05 |
 | [Eventory](https://github.com/JasonTM17/Eventory) | TypeScript | 2026-08-04 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-03 |
