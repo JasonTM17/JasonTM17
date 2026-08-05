@@ -107,9 +107,9 @@ Explore **32 public projects** across product engineering, mobile development, a
 
   Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
 
-- **[Flappy Bird Clone](https://github.com/JasonTM17/Flappy_Bird_Clone)** · In progress · 2026-08-05
+- **[Flappy Bird Clone](https://github.com/JasonTM17/Flappy_Bird_Clone)** · TypeScript · 2026-08-05
 
-  An early-stage learning project currently taking shape.
+  🐤 Sky Hopper — an original Flappy-style arcade game built with Phaser 3, TypeScript and Vite. Tap to fly, dodge pipes, beat your best score. 100% procedural art &amp; synthesized…
 
 - **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-08-05
 
@@ -129,7 +129,7 @@ Explore **32 public projects** across product engineering, mobile development, a
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-05 |
-| [Flappy Bird Clone](https://github.com/JasonTM17/Flappy_Bird_Clone) | In progress | 2026-08-05 |
+| [Flappy Bird Clone](https://github.com/JasonTM17/Flappy_Bird_Clone) | TypeScript | 2026-08-05 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-05 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-08-05 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-05 |
