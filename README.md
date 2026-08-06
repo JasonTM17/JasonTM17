@@ -107,6 +107,14 @@ Explore **33 public projects** across product engineering, mobile development, a
 
   🐤 Sky Hopper — an original Flappy-style arcade game built with Phaser 3, TypeScript and Vite. Tap to fly, dodge pipes, beat your best score. 100% procedural art &amp; synthesized…
 
+- **[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App)** · TypeScript · 2026-08-06
+
+  FoodFlow real-time food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.
+
+- **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-08-06
+
+  A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
+
 - **[RepoMentor](https://github.com/JasonTM17/RepoMentor)** · TypeScript · 2026-08-06
 
   Secure AI code review and programming tutor with structured Luna analysis
@@ -115,20 +123,14 @@ Explore **33 public projects** across product engineering, mobile development, a
 
   TravelAI — Traveloka-style Vietnam travel marketplace + AI trip planner (Next.js, Fastify, DeepSeek V4 Flash, Docker monorepo)
 
-- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-08-05
-
-  Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
-
-- **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-08-05
-
-  Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
-
 <details>
   <summary><strong>Browse All 33 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [Flappy Bird Clone](https://github.com/JasonTM17/Flappy_Bird_Clone) | TypeScript | 2026-08-06 |
+| [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-08-06 |
+| [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-06 |
 | [RepoMentor](https://github.com/JasonTM17/RepoMentor) | TypeScript | 2026-08-06 |
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-08-06 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-05 |
@@ -143,8 +145,6 @@ Explore **33 public projects** across product engineering, mobile development, a
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-08-03 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-02 |
 | [LinguaFlow](https://github.com/JasonTM17/Language_App) | TypeScript | 2026-08-01 |
-| [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-07-30 |
-| [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-07-27 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-07-27 |
 | [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-20 |
 | [Aethera ChillTimeWeb](https://github.com/JasonTM17/Aethera_ChillTimeWeb) | TypeScript | 2026-07-19 |
