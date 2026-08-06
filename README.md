@@ -17,7 +17,7 @@
 <!-- AUTO:PROJECT_BADGES:START -->
 <p align="center">
   <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
-  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/33%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 33 public learning-project repositories" /></a>
+  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/34%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 34 public learning-project repositories" /></a>
 </p>
 <!-- AUTO:PROJECT_BADGES:END -->
 
@@ -27,7 +27,7 @@
 
 <!-- AUTO:PROJECT_STATS:START -->
 <p align="center">
-  <strong>33</strong> public projects &nbsp;&middot;&nbsp;
+  <strong>34</strong> public projects &nbsp;&middot;&nbsp;
   <strong>4</strong> project focus areas &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>
@@ -99,7 +99,7 @@ Microservices, self-service delivery, GitOps, infrastructure as code, observabil
 ## Project Portfolio
 
 <!-- AUTO:PROJECT_ARCHIVE:START -->
-Explore **33 public projects** across product engineering, mobile development, applied AI, and platform delivery.
+Explore **34 public projects** across product engineering, mobile development, applied AI, and platform delivery.
 
 ### Recently Updated
 
@@ -115,22 +115,23 @@ Explore **33 public projects** across product engineering, mobile development, a
 
   A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
 
+- **[RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI)** · TypeScript · 2026-08-06
+
+  RepoMedic AI: Local-first autonomous agentic system for bug triage and guarded patching with strict purity constraints.
+
 - **[RepoMentor](https://github.com/JasonTM17/RepoMentor)** · TypeScript · 2026-08-06
 
   Secure AI code review and programming tutor with structured Luna analysis
 
-- **[VN TravelAI](https://github.com/JasonTM17/VN_TravelAI)** · TypeScript · 2026-08-06
-
-  TravelAI — Traveloka-style Vietnam travel marketplace + AI trip planner (Next.js, Fastify, DeepSeek V4 Flash, Docker monorepo)
-
 <details>
-  <summary><strong>Browse All 33 Projects</strong></summary>
+  <summary><strong>Browse All 34 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [Flappy Bird Clone](https://github.com/JasonTM17/Flappy_Bird_Clone) | TypeScript | 2026-08-06 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-08-06 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-06 |
+| [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-08-06 |
 | [RepoMentor](https://github.com/JasonTM17/RepoMentor) | TypeScript | 2026-08-06 |
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-08-06 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-05 |
