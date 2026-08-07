@@ -103,6 +103,10 @@ Explore **34 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI)** · TypeScript · 2026-08-07
+
+  RepoMedic AI: Local-first autonomous agentic system for bug triage and guarded patching with strict purity constraints.
+
 - **[RepoMentor](https://github.com/JasonTM17/RepoMentor)** · TypeScript · 2026-08-07
 
   Secure AI code review and programming tutor with structured Luna analysis
@@ -119,20 +123,16 @@ Explore **34 public projects** across product engineering, mobile development, a
 
   A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
 
-- **[RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI)** · TypeScript · 2026-08-06
-
-  RepoMedic AI: Local-first autonomous agentic system for bug triage and guarded patching with strict purity constraints.
-
 <details>
   <summary><strong>Browse All 34 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-08-07 |
 | [RepoMentor](https://github.com/JasonTM17/RepoMentor) | TypeScript | 2026-08-07 |
 | [Flappy Bird Clone](https://github.com/JasonTM17/Flappy_Bird_Clone) | TypeScript | 2026-08-06 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-08-06 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-06 |
-| [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-08-06 |
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-08-06 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-05 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-05 |
