@@ -105,7 +105,7 @@ Explore **34 public projects** across product engineering, mobile development, a
 
 - **[RepoMentor](https://github.com/JasonTM17/RepoMentor)** · TypeScript · 2026-08-08
 
-  Secure AI code review and programming tutor with structured Luna analysis
+  Developer-first AI code review and programming tutor workspace.
 
 - **[RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI)** · TypeScript · 2026-08-07
 
