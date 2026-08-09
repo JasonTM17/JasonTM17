@@ -103,6 +103,10 @@ Explore **35 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices)** · Java · 2026-08-09
+
+  Java 21 Spring Boot microservices learning platform for recruitment with Kafka, OpenSearch, Docker, Kubernetes, Terraform, observability, CI/CD, and a RAG assistant.
+
 - **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-08-09
 
   Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
@@ -119,15 +123,12 @@ Explore **35 public projects** across product engineering, mobile development, a
 
   RepoMedic AI: Local-first autonomous agentic system for bug triage and guarded patching with strict purity constraints.
 
-- **[Flappy Bird Clone](https://github.com/JasonTM17/Flappy_Bird_Clone)** · TypeScript · 2026-08-06
-
-  🐤 Sky Hopper — an original Flappy-style arcade game built with Phaser 3, TypeScript and Vite. Tap to fly, dodge pipes, beat your best score. 100% procedural art &amp; synthesized…
-
 <details>
   <summary><strong>Browse All 35 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-09 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-09 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | In progress | 2026-08-09 |
 | [RepoMentor](https://github.com/JasonTM17/RepoMentor) | TypeScript | 2026-08-09 |
@@ -145,7 +146,6 @@ Explore **35 public projects** across product engineering, mobile development, a
 | [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-08-03 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-08-03 |
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-08-03 |
-| [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-02 |
 | [LinguaFlow](https://github.com/JasonTM17/Language_App) | TypeScript | 2026-08-01 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-07-27 |
 | [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-20 |
