@@ -103,7 +103,7 @@ Explore **34 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
-- **[RepoMentor](https://github.com/JasonTM17/RepoMentor)** · TypeScript · 2026-08-08
+- **[RepoMentor](https://github.com/JasonTM17/RepoMentor)** · TypeScript · 2026-08-09
 
   Developer-first AI code review and programming tutor workspace.
 
@@ -128,7 +128,7 @@ Explore **34 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
-| [RepoMentor](https://github.com/JasonTM17/RepoMentor) | TypeScript | 2026-08-08 |
+| [RepoMentor](https://github.com/JasonTM17/RepoMentor) | TypeScript | 2026-08-09 |
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-08-07 |
 | [Flappy Bird Clone](https://github.com/JasonTM17/Flappy_Bird_Clone) | TypeScript | 2026-08-06 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-08-06 |
