@@ -103,6 +103,10 @@ Explore **35 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-08-10
+
+  A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
+
 - **[MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku)** · TypeScript · 2026-08-10
 
   🧋 Premium Milk Tea E-Commerce Platform \| Trà Sữa Cao Cấp \| プレミアムミルクティー
@@ -119,15 +123,12 @@ Explore **35 public projects** across product engineering, mobile development, a
 
   An early-stage learning project currently taking shape.
 
-- **[RepoMentor](https://github.com/JasonTM17/RepoMentor)** · TypeScript · 2026-08-09
-
-  Developer-first AI code review and programming tutor workspace.
-
 <details>
   <summary><strong>Browse All 35 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-10 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-08-10 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-09 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-09 |
@@ -136,7 +137,6 @@ Explore **35 public projects** across product engineering, mobile development, a
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-08-07 |
 | [Flappy Bird Clone](https://github.com/JasonTM17/Flappy_Bird_Clone) | TypeScript | 2026-08-06 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-08-06 |
-| [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-06 |
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-08-06 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-05 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-08-05 |
