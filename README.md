@@ -133,6 +133,7 @@ Explore **35 public projects** across product engineering, mobile development, a
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-10 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-08-10 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-08-10 |
+| [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-08-10 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-09 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-09 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | In progress | 2026-08-09 |
@@ -146,7 +147,6 @@ Explore **35 public projects** across product engineering, mobile development, a
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-05 |
 | [Voxel Pagoda Garden](https://github.com/JasonTM17/Voxel-Pagoda-Garden) | JavaScript | 2026-08-05 |
 | [Eventory](https://github.com/JasonTM17/Eventory) | TypeScript | 2026-08-04 |
-| [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-08-03 |
 | [LinguaFlow](https://github.com/JasonTM17/Language_App) | TypeScript | 2026-08-01 |
 | [Horror Game Funny](https://github.com/JasonTM17/Horror_Game_Funny) | GDScript | 2026-07-20 |
 | [Aethera ChillTimeWeb](https://github.com/JasonTM17/Aethera_ChillTimeWeb) | TypeScript | 2026-07-19 |
