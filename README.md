@@ -103,6 +103,10 @@ Explore **35 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-08-10
+
+  Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
+
 - **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-08-10
 
   A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
@@ -119,15 +123,12 @@ Explore **35 public projects** across product engineering, mobile development, a
 
   Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
 
-- **[Nexora](https://github.com/JasonTM17/Nexora)** · In progress · 2026-08-09
-
-  An early-stage learning project currently taking shape.
-
 <details>
   <summary><strong>Browse All 35 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-10 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-10 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-08-10 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-09 |
@@ -143,7 +144,6 @@ Explore **35 public projects** across product engineering, mobile development, a
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-05 |
 | [Voxel Pagoda Garden](https://github.com/JasonTM17/Voxel-Pagoda-Garden) | JavaScript | 2026-08-05 |
 | [Eventory](https://github.com/JasonTM17/Eventory) | TypeScript | 2026-08-04 |
-| [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-03 |
 | [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-08-03 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-08-03 |
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-08-03 |
