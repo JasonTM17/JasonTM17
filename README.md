@@ -103,6 +103,14 @@ Explore **35 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-08-13
+
+  A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
+
+- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-08-13
+
+  Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
+
 - **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Python · 2026-08-12
 
   Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
@@ -115,23 +123,16 @@ Explore **35 public projects** across product engineering, mobile development, a
 
   Knowledge distillation from GPT-5.5-xhigh into Qwen2.5-1.5B-Instruct: bf16 LoRA trained on a 6GB RTX 3060, served as a containerized OpenAI-compatible API (FastAPI + llama.cpp)…
 
-- **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-08-10
-
-  A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
-
-- **[MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku)** · TypeScript · 2026-08-10
-
-  🧋 Premium Milk Tea E-Commerce Platform \| Trà Sữa Cao Cấp \| プレミアムミルクティー
-
 <details>
   <summary><strong>Browse All 35 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-13 |
+| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-13 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-08-12 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-10 |
 | [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-08-10 |
-| [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-10 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-08-10 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-08-10 |
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-08-10 |
@@ -144,7 +145,6 @@ Explore **35 public projects** across product engineering, mobile development, a
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-08-06 |
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-08-06 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-05 |
-| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-05 |
 | [Voxel Pagoda Garden](https://github.com/JasonTM17/Voxel-Pagoda-Garden) | JavaScript | 2026-08-05 |
 | [Eventory](https://github.com/JasonTM17/Eventory) | TypeScript | 2026-08-04 |
 | [LinguaFlow](https://github.com/JasonTM17/Language_App) | TypeScript | 2026-08-01 |
