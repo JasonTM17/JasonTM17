@@ -103,6 +103,10 @@ Explore **35 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-08-13
+
+  Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
+
 - **[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App)** · TypeScript · 2026-08-13
 
   FoodFlow real-time food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.
@@ -111,27 +115,24 @@ Explore **35 public projects** across product engineering, mobile development, a
 
   A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
 
-- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-08-13
-
-  Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
-
-- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Python · 2026-08-12
+- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Java · 2026-08-13
 
   Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
 
-- **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-08-10
+- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-08-13
 
-  Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
+  Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
 
 <details>
   <summary><strong>Browse All 35 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-13 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-08-13 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-13 |
+| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-08-13 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-13 |
-| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Python | 2026-08-12 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-10 |
 | [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-08-10 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-08-10 |
@@ -144,7 +145,6 @@ Explore **35 public projects** across product engineering, mobile development, a
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-08-07 |
 | [Flappy Bird Clone](https://github.com/JasonTM17/Flappy_Bird_Clone) | TypeScript | 2026-08-06 |
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-08-06 |
-| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-05 |
 | [Voxel Pagoda Garden](https://github.com/JasonTM17/Voxel-Pagoda-Garden) | JavaScript | 2026-08-05 |
 | [Eventory](https://github.com/JasonTM17/Eventory) | TypeScript | 2026-08-04 |
 | [LinguaFlow](https://github.com/JasonTM17/Language_App) | TypeScript | 2026-08-01 |
