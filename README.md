@@ -133,6 +133,7 @@ Explore **35 public projects** across product engineering, mobile development, a
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-13 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-08-13 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-13 |
+| [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-08-13 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-10 |
 | [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-08-10 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-08-10 |
@@ -142,7 +143,6 @@ Explore **35 public projects** across product engineering, mobile development, a
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-09 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | In progress | 2026-08-09 |
 | [RepoMentor](https://github.com/JasonTM17/RepoMentor) | TypeScript | 2026-08-09 |
-| [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-08-07 |
 | [Flappy Bird Clone](https://github.com/JasonTM17/Flappy_Bird_Clone) | TypeScript | 2026-08-06 |
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-08-06 |
 | [Voxel Pagoda Garden](https://github.com/JasonTM17/Voxel-Pagoda-Garden) | JavaScript | 2026-08-05 |
