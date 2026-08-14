@@ -103,6 +103,10 @@ Explore **35 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[Nexora](https://github.com/JasonTM17/Nexora)** · Java · 2026-08-14
+
+  Nexora — tenant-aware CMS and knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, private Realtime and secure RAG (M0-M3 integrated; M4…
+
 - **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-08-13
 
   Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
@@ -119,15 +123,12 @@ Explore **35 public projects** across product engineering, mobile development, a
 
   Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
 
-- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-08-13
-
-  Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
-
 <details>
   <summary><strong>Browse All 35 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-08-14 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-13 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-08-13 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-13 |
@@ -141,7 +142,6 @@ Explore **35 public projects** across product engineering, mobile development, a
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-08-10 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-09 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-09 |
-| [Nexora](https://github.com/JasonTM17/Nexora) | In progress | 2026-08-09 |
 | [RepoMentor](https://github.com/JasonTM17/RepoMentor) | TypeScript | 2026-08-09 |
 | [Flappy Bird Clone](https://github.com/JasonTM17/Flappy_Bird_Clone) | TypeScript | 2026-08-06 |
 | [VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) | TypeScript | 2026-08-06 |
