@@ -103,9 +103,9 @@ Explore **35 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
-- **[Nexora](https://github.com/JasonTM17/Nexora)** · Java · 2026-08-14
+- **[Nexora](https://github.com/JasonTM17/Nexora)** · Java · 2026-08-15
 
-  Nexora — tenant-aware CMS and knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, private Realtime and secure RAG (M0-M3 integrated; M4…
+  Nexora — tenant-aware CMS and knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, private Realtime and secure RAG (M0-M4 accepted on main).
 
 - **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-08-13
 
@@ -128,7 +128,7 @@ Explore **35 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
-| [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-08-14 |
+| [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-08-15 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-13 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-08-13 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-13 |
