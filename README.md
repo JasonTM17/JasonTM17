@@ -105,7 +105,7 @@ Explore **35 public projects** across product engineering, mobile development, a
 
 - **[Nexora](https://github.com/JasonTM17/Nexora)** · Java · 2026-08-15
 
-  Nexora — tenant-aware CMS and knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, private Realtime and secure RAG (M0-M4 accepted on main).
+  Nexora — tenant-aware CMS + knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, private Realtime, secure RAG, feature flags, analytics,…
 
 - **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-08-13
 
