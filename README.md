@@ -107,7 +107,7 @@ Explore **36 public projects** across product engineering, mobile development, a
 
   Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
 
-- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · In progress · 2026-08-17
+- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · CSS · 2026-08-17
 
   An early-stage learning project currently taking shape.
 
@@ -129,16 +129,16 @@ Explore **36 public projects** across product engineering, mobile development, a
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-17 |
-| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | In progress | 2026-08-17 |
+| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | CSS | 2026-08-17 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-17 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-08-17 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-08-17 |
+| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-17 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-16 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-16 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-13 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-08-13 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-08-13 |
-| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-13 |
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-08-13 |
 | [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-08-10 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-08-10 |
