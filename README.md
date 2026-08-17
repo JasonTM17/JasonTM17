@@ -103,6 +103,10 @@ Explore **36 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-08-17
+
+  Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
+
 - **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · In progress · 2026-08-17
 
   An early-stage learning project currently taking shape.
@@ -119,15 +123,12 @@ Explore **36 public projects** across product engineering, mobile development, a
 
   Nexora — tenant-aware CMS + knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, private Realtime, secure RAG, feature flags, analytics,…
 
-- **[DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices)** · Java · 2026-08-16
-
-  Java 21 Spring Boot microservices learning platform for recruitment with Kafka, OpenSearch, Docker, Kubernetes, Terraform, observability, CI/CD, and a RAG assistant.
-
 <details>
   <summary><strong>Browse All 36 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-17 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | In progress | 2026-08-17 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-17 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-08-17 |
@@ -139,7 +140,6 @@ Explore **36 public projects** across product engineering, mobile development, a
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-08-13 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-13 |
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-08-13 |
-| [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-10 |
 | [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-08-10 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-08-10 |
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-08-10 |
