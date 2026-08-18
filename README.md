@@ -107,7 +107,7 @@ Explore **37 public projects** across product engineering, mobile development, a
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
 
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · In progress · 2026-08-18
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · TypeScript · 2026-08-18
 
   An early-stage learning project currently taking shape.
 
@@ -129,7 +129,7 @@ Explore **37 public projects** across product engineering, mobile development, a
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-08-18 |
-| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | In progress | 2026-08-18 |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | TypeScript | 2026-08-18 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-17 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-17 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-08-17 |
