@@ -103,13 +103,13 @@ Explore **36 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · Java · 2026-08-18
+
+  Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
+
 - **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-08-17
 
   Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
-
-- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · Java · 2026-08-17
-
-  An early-stage learning project currently taking shape.
 
 - **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-08-17
 
@@ -128,8 +128,8 @@ Explore **36 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-08-18 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-17 |
-| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-08-17 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-17 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-08-17 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-08-17 |
