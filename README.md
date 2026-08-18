@@ -17,7 +17,7 @@
 <!-- AUTO:PROJECT_BADGES:START -->
 <p align="center">
   <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
-  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/36%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 36 public learning-project repositories" /></a>
+  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/37%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 37 public learning-project repositories" /></a>
 </p>
 <!-- AUTO:PROJECT_BADGES:END -->
 
@@ -27,7 +27,7 @@
 
 <!-- AUTO:PROJECT_STATS:START -->
 <p align="center">
-  <strong>36</strong> public projects &nbsp;&middot;&nbsp;
+  <strong>37</strong> public projects &nbsp;&middot;&nbsp;
   <strong>4</strong> project focus areas &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>
@@ -99,13 +99,17 @@ Microservices, self-service delivery, GitOps, infrastructure as code, observabil
 ## Project Portfolio
 
 <!-- AUTO:PROJECT_ARCHIVE:START -->
-Explore **36 public projects** across product engineering, mobile development, applied AI, and platform delivery.
+Explore **37 public projects** across product engineering, mobile development, applied AI, and platform delivery.
 
 ### Recently Updated
 
 - **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · Java · 2026-08-18
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
+
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · In progress · 2026-08-18
+
+  An early-stage learning project currently taking shape.
 
 - **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-08-17
 
@@ -119,16 +123,13 @@ Explore **36 public projects** across product engineering, mobile development, a
 
   🧋 Premium Milk Tea E-Commerce Platform \| Trà Sữa Cao Cấp \| プレミアムミルクティー
 
-- **[Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure)** · TypeScript · 2026-08-17
-
-  Browser voxel adventure game with an infinite procedural world and a fire-breathing dragon boss — TypeScript + Three.js, zero external assets
-
 <details>
-  <summary><strong>Browse All 36 Projects</strong></summary>
+  <summary><strong>Browse All 37 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-08-18 |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | In progress | 2026-08-18 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-17 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-17 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-08-17 |
