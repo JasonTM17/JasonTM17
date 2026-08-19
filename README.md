@@ -103,7 +103,11 @@ Explore **37 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
-- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · Java · 2026-08-18
+- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-08-19
+
+  Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
+
+- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · Java · 2026-08-19
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
 
@@ -119,16 +123,13 @@ Explore **37 public projects** across product engineering, mobile development, a
 
   A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
 
-- **[MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku)** · TypeScript · 2026-08-17
-
-  🧋 Premium Milk Tea E-Commerce Platform \| Trà Sữa Cao Cấp \| プレミアムミルクティー
-
 <details>
   <summary><strong>Browse All 37 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
-| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-08-18 |
+| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-19 |
+| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-08-19 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | TypeScript | 2026-08-18 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-17 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-17 |
@@ -139,7 +140,6 @@ Explore **37 public projects** across product engineering, mobile development, a
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-17 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-16 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-16 |
-| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-13 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-08-13 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-08-13 |
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-08-13 |
