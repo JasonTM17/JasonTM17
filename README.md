@@ -103,6 +103,10 @@ Explore **37 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App)** · TypeScript · 2026-08-20
+
+  FoodFlow real-time food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.
+
 - **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · Java · 2026-08-20
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
@@ -119,15 +123,12 @@ Explore **37 public projects** across product engineering, mobile development, a
 
   An early-stage learning project currently taking shape.
 
-- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-08-19
-
-  Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
-
 <details>
   <summary><strong>Browse All 37 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-08-20 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-08-20 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-20 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-20 |
@@ -141,7 +142,6 @@ Explore **37 public projects** across product engineering, mobile development, a
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-08-17 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-16 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-16 |
-| [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-08-13 |
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-08-13 |
 | [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-08-10 |
 | [RepoMentor](https://github.com/JasonTM17/RepoMentor) | TypeScript | 2026-08-09 |
