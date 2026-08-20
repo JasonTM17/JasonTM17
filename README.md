@@ -111,6 +111,10 @@ Explore **37 public projects** across product engineering, mobile development, a
 
   A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
 
+- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-08-20
+
+  Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
+
 - **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · TypeScript · 2026-08-20
 
   An early-stage learning project currently taking shape.
@@ -119,10 +123,6 @@ Explore **37 public projects** across product engineering, mobile development, a
 
   Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
 
-- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Java · 2026-08-19
-
-  Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
-
 <details>
   <summary><strong>Browse All 37 Projects</strong></summary>
 
@@ -130,6 +130,7 @@ Explore **37 public projects** across product engineering, mobile development, a
 | --- | --- | --- |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-08-20 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-20 |
+| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-20 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | TypeScript | 2026-08-20 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-19 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-08-19 |
@@ -138,7 +139,6 @@ Explore **37 public projects** across product engineering, mobile development, a
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-08-17 |
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-08-17 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-08-17 |
-| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-17 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-16 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-16 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-08-13 |
