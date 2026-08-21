@@ -107,6 +107,10 @@ Explore **37 public projects** across product engineering, mobile development, a
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
 
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · TypeScript · 2026-08-21
+
+  An early-stage learning project currently taking shape.
+
 - **[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App)** · TypeScript · 2026-08-20
 
   FoodFlow real-time food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.
@@ -119,21 +123,17 @@ Explore **37 public projects** across product engineering, mobile development, a
 
   Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
 
-- **[RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI)** · TypeScript · 2026-08-20
-
-  RepoMedic AI: Local-first autonomous agentic system for bug triage and guarded patching with strict purity constraints.
-
 <details>
   <summary><strong>Browse All 37 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-08-21 |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | TypeScript | 2026-08-21 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-08-20 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-20 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-20 |
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-08-20 |
-| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | TypeScript | 2026-08-20 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-19 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-08-19 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-17 |
