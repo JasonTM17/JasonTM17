@@ -105,7 +105,7 @@ Explore **38 public projects** across product engineering, mobile development, a
 
 - **[Arcade Hub Game](https://github.com/JasonTM17/Arcade_Hub_Game)** · TypeScript · 2026-08-22
 
-  An early-stage learning project currently taking shape.
+  🕹️ Arcade Hub — 12 original browser mini-games in a registry-driven Next.js 16 platform: real per-game code splitting, working pause + global mute, local high scores, 227 unit +…
 
 - **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · Java · 2026-08-22
 
