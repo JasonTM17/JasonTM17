@@ -103,6 +103,10 @@ Explore **38 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · Java · 2026-08-23
+
+  Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
+
 - **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · TypeScript · 2026-08-23
 
   An early-stage learning project currently taking shape.
@@ -110,10 +114,6 @@ Explore **38 public projects** across product engineering, mobile development, a
 - **[Arcade Hub Game](https://github.com/JasonTM17/Arcade_Hub_Game)** · TypeScript · 2026-08-22
 
   🕹️ Arcade Hub — 12 original browser mini-games in a registry-driven Next.js 16 platform: real per-game code splitting, working pause + global mute, local high scores, 227 unit +…
-
-- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · Java · 2026-08-22
-
-  Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
 
 - **[Nexora](https://github.com/JasonTM17/Nexora)** · Java · 2026-08-22
 
@@ -128,9 +128,9 @@ Explore **38 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-08-23 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | TypeScript | 2026-08-23 |
 | [Arcade Hub Game](https://github.com/JasonTM17/Arcade_Hub_Game) | TypeScript | 2026-08-22 |
-| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-08-22 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-08-22 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-08-20 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-20 |
