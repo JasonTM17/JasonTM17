@@ -107,6 +107,14 @@ Explore **38 public projects** across product engineering, mobile development, a
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
 
+- **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-08-24
+
+  A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
+
+- **[Nexora](https://github.com/JasonTM17/Nexora)** · Java · 2026-08-24
+
+  Nexora — tenant-aware CMS + knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, private Realtime, secure RAG, feature flags, analytics,…
+
 - **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-08-23
 
   Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
@@ -115,26 +123,18 @@ Explore **38 public projects** across product engineering, mobile development, a
 
   An early-stage learning project currently taking shape.
 
-- **[Arcade Hub Game](https://github.com/JasonTM17/Arcade_Hub_Game)** · TypeScript · 2026-08-22
-
-  🕹️ Arcade Hub — 12 original browser mini-games in a registry-driven Next.js 16 platform: real per-game code splitting, working pause + global mute, local high scores, 227 unit +…
-
-- **[Nexora](https://github.com/JasonTM17/Nexora)** · Java · 2026-08-22
-
-  Nexora — tenant-aware CMS + knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, private Realtime, secure RAG, feature flags, analytics,…
-
 <details>
   <summary><strong>Browse All 38 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-08-24 |
+| [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-24 |
+| [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-08-24 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-23 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | TypeScript | 2026-08-23 |
 | [Arcade Hub Game](https://github.com/JasonTM17/Arcade_Hub_Game) | TypeScript | 2026-08-22 |
-| [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-08-22 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-08-20 |
-| [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-20 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-20 |
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-08-20 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-19 |
