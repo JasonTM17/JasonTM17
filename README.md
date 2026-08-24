@@ -119,9 +119,9 @@ Explore **38 public projects** across product engineering, mobile development, a
 
   Nexora — tenant-aware CMS + knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, private Realtime, secure RAG, feature flags, analytics,…
 
-- **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-08-23
+- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-08-24
 
-  Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
+  Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
 
 <details>
   <summary><strong>Browse All 38 Projects</strong></summary>
@@ -132,11 +132,11 @@ Explore **38 public projects** across product engineering, mobile development, a
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-08-24 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-24 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-08-24 |
+| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-24 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-23 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | TypeScript | 2026-08-23 |
 | [Arcade Hub Game](https://github.com/JasonTM17/Arcade_Hub_Game) | TypeScript | 2026-08-22 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-08-20 |
-| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-20 |
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-08-20 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-19 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-08-19 |
