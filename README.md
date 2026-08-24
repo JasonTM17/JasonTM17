@@ -103,6 +103,10 @@ Explore **38 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-08-24
+
+  Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
+
 - **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · Java · 2026-08-24
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
@@ -119,15 +123,12 @@ Explore **38 public projects** across product engineering, mobile development, a
 
   Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
 
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · TypeScript · 2026-08-23
-
-  An early-stage learning project currently taking shape.
-
 <details>
   <summary><strong>Browse All 38 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-24 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-08-24 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-24 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-08-24 |
@@ -139,7 +140,6 @@ Explore **38 public projects** across product engineering, mobile development, a
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-08-20 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-19 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-08-19 |
-| [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-17 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-08-17 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-08-17 |
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-08-17 |
