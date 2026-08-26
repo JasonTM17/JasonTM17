@@ -107,6 +107,10 @@ Explore **38 public projects** across product engineering, mobile development, a
 
   Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
 
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · TypeScript · 2026-08-26
+
+  An early-stage learning project currently taking shape.
+
 - **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-08-24
 
   Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
@@ -119,16 +123,13 @@ Explore **38 public projects** across product engineering, mobile development, a
 
   A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
 
-- **[Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure)** · TypeScript · 2026-08-24
-
-  Browser voxel adventure game with an infinite procedural world and a fire-breathing dragon boss — TypeScript + Three.js, zero external assets
-
 <details>
   <summary><strong>Browse All 38 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-26 |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | TypeScript | 2026-08-26 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-24 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-08-24 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-24 |
@@ -136,7 +137,6 @@ Explore **38 public projects** across product engineering, mobile development, a
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-08-24 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-24 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-23 |
-| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | TypeScript | 2026-08-23 |
 | [Arcade Hub Game](https://github.com/JasonTM17/Arcade_Hub_Game) | TypeScript | 2026-08-22 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-08-20 |
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-08-20 |
