@@ -103,6 +103,10 @@ Explore **38 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-08-26
+
+  Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
+
 - **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-08-24
 
   Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
@@ -119,15 +123,12 @@ Explore **38 public projects** across product engineering, mobile development, a
 
   Browser voxel adventure game with an infinite procedural world and a fire-breathing dragon boss — TypeScript + Three.js, zero external assets
 
-- **[Nexora](https://github.com/JasonTM17/Nexora)** · Java · 2026-08-24
-
-  Nexora — tenant-aware CMS + knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, private Realtime, secure RAG, feature flags, analytics,…
-
 <details>
   <summary><strong>Browse All 38 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-26 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-24 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-08-24 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-08-24 |
@@ -139,7 +140,6 @@ Explore **38 public projects** across product engineering, mobile development, a
 | [Arcade Hub Game](https://github.com/JasonTM17/Arcade_Hub_Game) | TypeScript | 2026-08-22 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-08-20 |
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-08-20 |
-| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-19 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-08-19 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-08-17 |
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-08-17 |
