@@ -103,6 +103,10 @@ Explore **39 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · Java · 2026-08-30
+
+  Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
+
 - **[LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot)** · Python · 2026-08-29
 
   Personal Telegram assistant for public Locket links, safety checklists, SQLite usage tracking, and optional NextDNS setup.
@@ -110,10 +114,6 @@ Explore **39 public projects** across product engineering, mobile development, a
 - **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-08-28
 
   Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
-
-- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · Java · 2026-08-28
-
-  Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
 
 - **[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App)** · TypeScript · 2026-08-27
 
@@ -128,9 +128,9 @@ Explore **39 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-08-30 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-08-29 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-28 |
-| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-08-28 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-08-27 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-08-27 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-08-26 |
