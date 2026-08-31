@@ -103,6 +103,14 @@ Explore **39 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-08-31
+
+  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
+
+- **[DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices)** · Java · 2026-08-30
+
+  Java 21 Spring Boot microservices learning platform for recruitment with Kafka, OpenSearch, Docker, Kubernetes, Terraform, observability, CI/CD, and a RAG assistant.
+
 - **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · Java · 2026-08-30
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
@@ -111,26 +119,19 @@ Explore **39 public projects** across product engineering, mobile development, a
 
   Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
 
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-08-30
-
-  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
-
 - **[LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot)** · Python · 2026-08-29
 
   Personal Telegram assistant for public Locket links, safety checklists, SQLite usage tracking, and optional NextDNS setup.
-
-- **[AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices)** · Java · 2026-08-28
-
-  Java 21 and Spring Boot microservices learning platform for farms, crop cycles, field work, inventory, IoT, sales, and QR traceability.
 
 <details>
   <summary><strong>Browse All 39 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-08-31 |
+| [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-30 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-08-30 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-30 |
-| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-08-30 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-08-29 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-28 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-08-27 |
@@ -144,7 +145,6 @@ Explore **39 public projects** across product engineering, mobile development, a
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-08-20 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-08-17 |
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-08-17 |
-| [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-16 |
 | [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-08-10 |
 | [RepoMentor](https://github.com/JasonTM17/RepoMentor) | TypeScript | 2026-08-09 |
 | [Flappy Bird Clone](https://github.com/JasonTM17/Flappy_Bird_Clone) | TypeScript | 2026-08-06 |
