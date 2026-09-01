@@ -103,17 +103,17 @@ Explore **39 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
-- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · Java · 2026-08-31
+- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · Java · 2026-09-01
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
+
+- **[Nexora](https://github.com/JasonTM17/Nexora)** · Java · 2026-09-01
+
+  Nexora — tenant-aware CMS + knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, private Realtime, secure RAG, feature flags, analytics,…
 
 - **[Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure)** · TypeScript · 2026-08-31
 
   Browser voxel adventure game with an infinite procedural world and a fire-breathing dragon boss — TypeScript + Three.js, zero external assets
-
-- **[Nexora](https://github.com/JasonTM17/Nexora)** · Java · 2026-08-31
-
-  Nexora — tenant-aware CMS + knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, private Realtime, secure RAG, feature flags, analytics,…
 
 - **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-08-31
 
@@ -128,9 +128,9 @@ Explore **39 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
-| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-08-31 |
+| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-09-01 |
+| [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-09-01 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-08-31 |
-| [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-08-31 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-08-31 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-30 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-08-30 |
