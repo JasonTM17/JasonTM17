@@ -17,7 +17,7 @@
 <!-- AUTO:PROJECT_BADGES:START -->
 <p align="center">
   <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
-  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/39%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 39 public learning-project repositories" /></a>
+  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/40%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 40 public learning-project repositories" /></a>
 </p>
 <!-- AUTO:PROJECT_BADGES:END -->
 
@@ -27,7 +27,7 @@
 
 <!-- AUTO:PROJECT_STATS:START -->
 <p align="center">
-  <strong>39</strong> public projects &nbsp;&middot;&nbsp;
+  <strong>40</strong> public projects &nbsp;&middot;&nbsp;
   <strong>4</strong> project focus areas &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>
@@ -99,9 +99,13 @@ Microservices, self-service delivery, GitOps, infrastructure as code, observabil
 ## Project Portfolio
 
 <!-- AUTO:PROJECT_ARCHIVE:START -->
-Explore **39 public projects** across product engineering, mobile development, applied AI, and platform delivery.
+Explore **40 public projects** across product engineering, mobile development, applied AI, and platform delivery.
 
 ### Recently Updated
+
+- **[ForgeBase](https://github.com/JasonTM17/ForgeBase)** · In progress · 2026-09-01
+
+  An early-stage learning project currently taking shape.
 
 - **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · Java · 2026-09-01
 
@@ -119,15 +123,12 @@ Explore **39 public projects** across product engineering, mobile development, a
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
 
-- **[Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure)** · TypeScript · 2026-08-31
-
-  Browser voxel adventure game with an infinite procedural world and a fire-breathing dragon boss — TypeScript + Three.js, zero external assets
-
 <details>
-  <summary><strong>Browse All 39 Projects</strong></summary>
+  <summary><strong>Browse All 40 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [ForgeBase](https://github.com/JasonTM17/ForgeBase) | In progress | 2026-09-01 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-09-01 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-09-01 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-09-01 |
