@@ -119,9 +119,9 @@ Explore **40 public projects** across product engineering, mobile development, a
 
   A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
 
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-09-02
+- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Java · 2026-09-02
 
-  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
+  Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
 
 <details>
   <summary><strong>Browse All 40 Projects</strong></summary>
@@ -132,6 +132,7 @@ Explore **40 public projects** across product engineering, mobile development, a
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-09-02 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-09-02 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-09-02 |
+| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-09-02 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-09-02 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-09-01 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-09-01 |
@@ -140,7 +141,6 @@ Explore **40 public projects** across product engineering, mobile development, a
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-08-29 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-28 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-08-27 |
-| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-08-26 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-24 |
 | [Arcade Hub Game](https://github.com/JasonTM17/Arcade_Hub_Game) | TypeScript | 2026-08-22 |
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-08-20 |
