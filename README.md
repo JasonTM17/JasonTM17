@@ -111,6 +111,10 @@ Explore **40 public projects** across product engineering, mobile development, a
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
 
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-09-03
+
+  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
+
 - **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-09-02
 
   Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
@@ -119,10 +123,6 @@ Explore **40 public projects** across product engineering, mobile development, a
 
   An early-stage learning project currently taking shape.
 
-- **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-09-02
-
-  A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
-
 <details>
   <summary><strong>Browse All 40 Projects</strong></summary>
 
@@ -130,11 +130,11 @@ Explore **40 public projects** across product engineering, mobile development, a
 | --- | --- | --- |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-09-03 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-09-03 |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-09-03 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-09-02 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-09-02 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-09-02 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-09-02 |
-| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-09-02 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-09-01 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-09-01 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-08-31 |
