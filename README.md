@@ -17,7 +17,7 @@
 <!-- AUTO:PROJECT_BADGES:START -->
 <p align="center">
   <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
-  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/40%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 40 public learning-project repositories" /></a>
+  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/41%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 41 public learning-project repositories" /></a>
 </p>
 <!-- AUTO:PROJECT_BADGES:END -->
 
@@ -27,7 +27,7 @@
 
 <!-- AUTO:PROJECT_STATS:START -->
 <p align="center">
-  <strong>40</strong> public projects &nbsp;&middot;&nbsp;
+  <strong>41</strong> public projects &nbsp;&middot;&nbsp;
   <strong>4</strong> project focus areas &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>
@@ -99,17 +99,21 @@ Microservices, self-service delivery, GitOps, infrastructure as code, observabil
 ## Project Portfolio
 
 <!-- AUTO:PROJECT_ARCHIVE:START -->
-Explore **40 public projects** across product engineering, mobile development, applied AI, and platform delivery.
+Explore **41 public projects** across product engineering, mobile development, applied AI, and platform delivery.
 
 ### Recently Updated
+
+- **[CampusMate](https://github.com/JasonTM17/CampusMate)** · Python · 2026-09-06
+
+  An early-stage learning project currently taking shape.
+
+- **[ForgeBase](https://github.com/JasonTM17/ForgeBase)** · Python · 2026-09-06
+
+  Starter templates across 12 languages and 38 starters, with CI, Docker, and AgentKit-governed verification.
 
 - **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-09-06
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
-
-- **[ForgeBase](https://github.com/JasonTM17/ForgeBase)** · Python · 2026-09-05
-
-  An early-stage learning project currently taking shape.
 
 - **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · Java · 2026-09-05
 
@@ -119,17 +123,14 @@ Explore **40 public projects** across product engineering, mobile development, a
 
   Personal Telegram assistant for public Locket links, safety checklists, SQLite usage tracking, and optional NextDNS setup.
 
-- **[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App)** · TypeScript · 2026-09-03
-
-  FoodFlow real-time food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.
-
 <details>
-  <summary><strong>Browse All 40 Projects</strong></summary>
+  <summary><strong>Browse All 41 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [CampusMate](https://github.com/JasonTM17/CampusMate) | Python | 2026-09-06 |
+| [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-09-06 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-09-06 |
-| [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-09-05 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-09-05 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-09-05 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-09-03 |
