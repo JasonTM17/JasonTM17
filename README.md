@@ -17,7 +17,7 @@
 <!-- AUTO:PROJECT_BADGES:START -->
 <p align="center">
   <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
-  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/41%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 41 public learning-project repositories" /></a>
+  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/42%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 42 public learning-project repositories" /></a>
 </p>
 <!-- AUTO:PROJECT_BADGES:END -->
 
@@ -27,7 +27,7 @@
 
 <!-- AUTO:PROJECT_STATS:START -->
 <p align="center">
-  <strong>41</strong> public projects &nbsp;&middot;&nbsp;
+  <strong>42</strong> public projects &nbsp;&middot;&nbsp;
   <strong>4</strong> project focus areas &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>
@@ -99,7 +99,7 @@ Microservices, self-service delivery, GitOps, infrastructure as code, observabil
 ## Project Portfolio
 
 <!-- AUTO:PROJECT_ARCHIVE:START -->
-Explore **41 public projects** across product engineering, mobile development, applied AI, and platform delivery.
+Explore **42 public projects** across product engineering, mobile development, applied AI, and platform delivery.
 
 ### Recently Updated
 
@@ -111,6 +111,10 @@ Explore **41 public projects** across product engineering, mobile development, a
 
   Starter templates across 12 languages and 38 starters, with CI, Docker, and AgentKit-governed verification.
 
+- **[RAG LLM Services](https://github.com/JasonTM17/RAG_LLM_Services)** · In progress · 2026-09-06
+
+  An early-stage learning project currently taking shape.
+
 - **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-09-06
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
@@ -119,17 +123,14 @@ Explore **41 public projects** across product engineering, mobile development, a
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
 
-- **[LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot)** · Python · 2026-09-05
-
-  Personal Telegram assistant for public Locket links, safety checklists, SQLite usage tracking, and optional NextDNS setup.
-
 <details>
-  <summary><strong>Browse All 41 Projects</strong></summary>
+  <summary><strong>Browse All 42 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [CampusMate](https://github.com/JasonTM17/CampusMate) | Python | 2026-09-06 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-09-06 |
+| [RAG LLM Services](https://github.com/JasonTM17/RAG_LLM_Services) | In progress | 2026-09-06 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-09-06 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-09-05 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-09-05 |
