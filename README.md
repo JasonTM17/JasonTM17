@@ -111,6 +111,10 @@ Explore **42 public projects** across product engineering, mobile development, a
 
   Starter templates across 12 languages and 38 starters, with CI, Docker, and AgentKit-governed verification.
 
+- **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-09-06
+
+  Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
+
 - **[RAG LLM Services](https://github.com/JasonTM17/RAG_LLM_Services)** · In progress · 2026-09-06
 
   An early-stage learning project currently taking shape.
@@ -119,10 +123,6 @@ Explore **42 public projects** across product engineering, mobile development, a
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
 
-- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · Java · 2026-09-05
-
-  Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
-
 <details>
   <summary><strong>Browse All 42 Projects</strong></summary>
 
@@ -130,6 +130,7 @@ Explore **42 public projects** across product engineering, mobile development, a
 | --- | --- | --- |
 | [CampusMate](https://github.com/JasonTM17/CampusMate) | Python | 2026-09-06 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-09-06 |
+| [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-09-06 |
 | [RAG LLM Services](https://github.com/JasonTM17/RAG_LLM_Services) | In progress | 2026-09-06 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-09-06 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-09-05 |
@@ -138,7 +139,6 @@ Explore **42 public projects** across product engineering, mobile development, a
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-09-02 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-09-02 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-09-02 |
-| [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-09-01 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-09-01 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-08-31 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-30 |
