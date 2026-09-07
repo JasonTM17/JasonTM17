@@ -107,6 +107,14 @@ Explore **42 public projects** across product engineering, mobile development, a
 
   An early-stage learning project currently taking shape.
 
+- **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-09-07
+
+  A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
+
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-09-07
+
+  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
+
 - **[ForgeBase](https://github.com/JasonTM17/ForgeBase)** · Python · 2026-09-06
 
   Starter templates across 12 languages and 38 starters, with CI, Docker, and AgentKit-governed verification.
@@ -115,29 +123,21 @@ Explore **42 public projects** across product engineering, mobile development, a
 
   Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
 
-- **[RAG LLM Services](https://github.com/JasonTM17/RAG_LLM_Services)** · In progress · 2026-09-06
-
-  An early-stage learning project currently taking shape.
-
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-09-06
-
-  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
-
 <details>
   <summary><strong>Browse All 42 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [CampusMate](https://github.com/JasonTM17/CampusMate) | Python | 2026-09-07 |
+| [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-09-07 |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-09-07 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-09-06 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-09-06 |
 | [RAG LLM Services](https://github.com/JasonTM17/RAG_LLM_Services) | In progress | 2026-09-06 |
-| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-09-06 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-09-05 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-09-05 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-09-03 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-09-02 |
-| [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-09-02 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-09-02 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-09-01 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-08-31 |
