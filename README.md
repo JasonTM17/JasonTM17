@@ -103,6 +103,10 @@ Explore **42 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[CampusMate](https://github.com/JasonTM17/CampusMate)** · Python · 2026-09-08
+
+  CampusMate — Flutter + Serverpod student management, e-library, offline academic dashboard, and personalized AI assistant.
+
 - **[ForgeBase](https://github.com/JasonTM17/ForgeBase)** · Python · 2026-09-08
 
   Starter templates across 12 languages and 38 starters, with CI, Docker, and AgentKit-governed verification.
@@ -115,10 +119,6 @@ Explore **42 public projects** across product engineering, mobile development, a
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
 
-- **[CampusMate](https://github.com/JasonTM17/CampusMate)** · Python · 2026-09-07
-
-  CampusMate — Flutter + Serverpod student management, e-library, offline academic dashboard, and personalized AI assistant.
-
 - **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-09-07
 
   A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
@@ -128,10 +128,10 @@ Explore **42 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [CampusMate](https://github.com/JasonTM17/CampusMate) | Python | 2026-09-08 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-09-08 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-09-08 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-09-08 |
-| [CampusMate](https://github.com/JasonTM17/CampusMate) | Python | 2026-09-07 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-09-07 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-09-07 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-09-06 |
