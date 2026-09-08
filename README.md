@@ -115,13 +115,13 @@ Explore **42 public projects** across product engineering, mobile development, a
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
 
+- **[RAG LLM Services](https://github.com/JasonTM17/RAG_LLM_Services)** · Python · 2026-09-08
+
+  Production-shaped RAG/LLM learning platform: owner-scoped knowledge bases, hybrid pgvector retrieval with reranking, DeepSeek-compatible cited chat, study agents, Celery/Redis…
+
 - **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-09-08
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
-
-- **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-09-07
-
-  A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
 
 <details>
   <summary><strong>Browse All 42 Projects</strong></summary>
@@ -131,11 +131,11 @@ Explore **42 public projects** across product engineering, mobile development, a
 | [CampusMate](https://github.com/JasonTM17/CampusMate) | Python | 2026-09-08 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-09-08 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-09-08 |
+| [RAG LLM Services](https://github.com/JasonTM17/RAG_LLM_Services) | Python | 2026-09-08 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-09-08 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-09-07 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-09-07 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-09-06 |
-| [RAG LLM Services](https://github.com/JasonTM17/RAG_LLM_Services) | In progress | 2026-09-06 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-09-05 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-09-03 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-09-02 |
