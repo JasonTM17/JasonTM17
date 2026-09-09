@@ -119,9 +119,9 @@ Explore **43 public projects** across product engineering, mobile development, a
 
   An early-stage learning project currently taking shape.
 
-- **[RAG LLM Services](https://github.com/JasonTM17/RAG_LLM_Services)** · Python · 2026-09-09
+- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Java · 2026-09-09
 
-  Production-shaped RAG/LLM learning platform: owner-scoped knowledge bases, hybrid pgvector retrieval with reranking, DeepSeek-compatible cited chat, study agents, Celery/Redis…
+  Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
 
 <details>
   <summary><strong>Browse All 43 Projects</strong></summary>
@@ -132,6 +132,7 @@ Explore **43 public projects** across product engineering, mobile development, a
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-09-09 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-09-09 |
 | [Language Kotlin App](https://github.com/JasonTM17/Language_Kotlin_App) | In progress | 2026-09-09 |
+| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-09-09 |
 | [RAG LLM Services](https://github.com/JasonTM17/RAG_LLM_Services) | Python | 2026-09-09 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | TypeScript | 2026-09-09 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-09-07 |
@@ -140,7 +141,6 @@ Explore **43 public projects** across product engineering, mobile development, a
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-09-05 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-09-03 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-09-02 |
-| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-09-02 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-09-01 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-30 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-28 |
