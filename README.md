@@ -103,23 +103,23 @@ Explore **42 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
-- **[CampusMate](https://github.com/JasonTM17/CampusMate)** · Python · 2026-09-08
+- **[CampusMate](https://github.com/JasonTM17/CampusMate)** · Dart · 2026-09-09
 
   CampusMate — Flutter + Serverpod student management, e-library, offline academic dashboard, and personalized AI assistant.
 
-- **[ForgeBase](https://github.com/JasonTM17/ForgeBase)** · Python · 2026-09-08
+- **[ForgeBase](https://github.com/JasonTM17/ForgeBase)** · Python · 2026-09-09
 
-  Starter templates across 12 languages and 38 starters, with CI, Docker, and AgentKit-governed verification.
+  Starter templates across 12 languages and 38 starters, with CI, Docker
 
-- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · Java · 2026-09-08
+- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · JavaScript · 2026-09-09
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
 
-- **[RAG LLM Services](https://github.com/JasonTM17/RAG_LLM_Services)** · Python · 2026-09-08
+- **[RAG LLM Services](https://github.com/JasonTM17/RAG_LLM_Services)** · Python · 2026-09-09
 
   Production-shaped RAG/LLM learning platform: owner-scoped knowledge bases, hybrid pgvector retrieval with reranking, DeepSeek-compatible cited chat, study agents, Celery/Redis…
 
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-09-08
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · TypeScript · 2026-09-09
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
 
@@ -128,11 +128,11 @@ Explore **42 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
-| [CampusMate](https://github.com/JasonTM17/CampusMate) | Python | 2026-09-08 |
-| [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-09-08 |
-| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | Java | 2026-09-08 |
-| [RAG LLM Services](https://github.com/JasonTM17/RAG_LLM_Services) | Python | 2026-09-08 |
-| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-09-08 |
+| [CampusMate](https://github.com/JasonTM17/CampusMate) | Dart | 2026-09-09 |
+| [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-09-09 |
+| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-09-09 |
+| [RAG LLM Services](https://github.com/JasonTM17/RAG_LLM_Services) | Python | 2026-09-09 |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | TypeScript | 2026-09-09 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-09-07 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-09-07 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-09-06 |
