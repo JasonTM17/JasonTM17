@@ -103,6 +103,14 @@ Explore **43 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · JavaScript · 2026-09-10
+
+  Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
+
+- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-09-10
+
+  Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
+
 - **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-09-09
 
   Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
@@ -115,23 +123,16 @@ Explore **43 public projects** across product engineering, mobile development, a
 
   Starter templates across 12 languages and 38 starters, with CI, Docker
 
-- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · JavaScript · 2026-09-09
-
-  Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
-
-- **[Language Kotlin App](https://github.com/JasonTM17/Language_Kotlin_App)** · In progress · 2026-09-09
-
-  An early-stage learning project currently taking shape.
-
 <details>
   <summary><strong>Browse All 43 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-09-10 |
+| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-09-10 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-09-09 |
 | [CampusMate](https://github.com/JasonTM17/CampusMate) | Dart | 2026-09-09 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-09-09 |
-| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-09-09 |
 | [Language Kotlin App](https://github.com/JasonTM17/Language_Kotlin_App) | In progress | 2026-09-09 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-09-09 |
 | [RAG LLM Services](https://github.com/JasonTM17/RAG_LLM_Services) | Python | 2026-09-09 |
@@ -144,7 +145,6 @@ Explore **43 public projects** across product engineering, mobile development, a
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-09-01 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-30 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-28 |
-| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-08-24 |
 | [Arcade Hub Game](https://github.com/JasonTM17/Arcade_Hub_Game) | TypeScript | 2026-08-22 |
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-08-20 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-08-17 |
