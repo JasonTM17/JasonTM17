@@ -103,6 +103,10 @@ Explore **43 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-09-11
+
+  Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
+
 - **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-09-11
 
   Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
@@ -115,10 +119,6 @@ Explore **43 public projects** across product engineering, mobile development, a
 
   Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
 
-- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-09-09
-
-  Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
-
 - **[CampusMate](https://github.com/JasonTM17/CampusMate)** · Dart · 2026-09-09
 
   CampusMate — Flutter + Serverpod student management, e-library, offline academic dashboard, and personalized AI assistant.
@@ -128,10 +128,10 @@ Explore **43 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-09-11 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-09-11 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-09-10 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-09-10 |
-| [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-09-09 |
 | [CampusMate](https://github.com/JasonTM17/CampusMate) | Dart | 2026-09-09 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-09-09 |
 | [Language Kotlin App](https://github.com/JasonTM17/Language_Kotlin_App) | In progress | 2026-09-09 |
