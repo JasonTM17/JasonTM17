@@ -103,21 +103,21 @@ Explore **43 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · JavaScript · 2026-09-12
+
+  Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
+
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · TypeScript · 2026-09-12
+
+  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
+
 - **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-09-11
 
   Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
 
-- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · JavaScript · 2026-09-11
-
-  Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
-
 - **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-09-11
 
   Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
-
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · TypeScript · 2026-09-11
-
-  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
 
 - **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-09-10
 
@@ -128,10 +128,10 @@ Explore **43 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-09-12 |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | TypeScript | 2026-09-12 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-09-11 |
-| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-09-11 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-09-11 |
-| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | TypeScript | 2026-09-11 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-09-10 |
 | [CampusMate](https://github.com/JasonTM17/CampusMate) | Dart | 2026-09-09 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-09-09 |
