@@ -107,6 +107,14 @@ Explore **43 public projects** across product engineering, mobile development, a
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
 
+- **[Nexora](https://github.com/JasonTM17/Nexora)** · Java · 2026-09-14
+
+  Nexora — tenant-aware CMS + knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, private Realtime, secure RAG, feature flags, analytics,…
+
+- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-09-14
+
+  Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
+
 - **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · TypeScript · 2026-09-14
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
@@ -115,26 +123,19 @@ Explore **43 public projects** across product engineering, mobile development, a
 
   LinguaAI — AI-powered language learning platform: Kotlin/Compose Android app + Ktor/MySQL backend + server-side AI gateway (offline-first, JWT, Docker, CI)
 
-- **[LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot)** · Python · 2026-09-12
-
-  Personal Telegram assistant for public Locket links, safety checklists, SQLite usage tracking, and optional NextDNS setup.
-
-- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-09-11
-
-  Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
-
 <details>
   <summary><strong>Browse All 43 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-09-14 |
+| [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-09-14 |
+| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-09-14 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | TypeScript | 2026-09-14 |
 | [Language Kotlin App](https://github.com/JasonTM17/Language_Kotlin_App) | Kotlin | 2026-09-13 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-09-12 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-09-11 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-09-11 |
-| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-09-10 |
 | [CampusMate](https://github.com/JasonTM17/CampusMate) | Dart | 2026-09-09 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-09-09 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-09-09 |
@@ -142,7 +143,6 @@ Explore **43 public projects** across product engineering, mobile development, a
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-09-07 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-09-07 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-09-03 |
-| [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-09-01 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-30 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-28 |
 | [Arcade Hub Game](https://github.com/JasonTM17/Arcade_Hub_Game) | TypeScript | 2026-08-22 |
