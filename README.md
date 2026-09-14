@@ -103,6 +103,10 @@ Explore **43 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[ForgeBase](https://github.com/JasonTM17/ForgeBase)** · Python · 2026-09-14
+
+  Starter templates across 12 languages and 38 starters, with CI, Docker
+
 - **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · JavaScript · 2026-09-14
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
@@ -119,15 +123,12 @@ Explore **43 public projects** across product engineering, mobile development, a
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
 
-- **[Language Kotlin App](https://github.com/JasonTM17/Language_Kotlin_App)** · Kotlin · 2026-09-13
-
-  LinguaAI — AI-powered language learning platform: Kotlin/Compose Android app + Ktor/MySQL backend + server-side AI gateway (offline-first, JWT, Docker, CI)
-
 <details>
   <summary><strong>Browse All 43 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-09-14 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-09-14 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-09-14 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-09-14 |
@@ -137,7 +138,6 @@ Explore **43 public projects** across product engineering, mobile development, a
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-09-11 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-09-11 |
 | [CampusMate](https://github.com/JasonTM17/CampusMate) | Dart | 2026-09-09 |
-| [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-09-09 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-09-09 |
 | [RAG LLM Services](https://github.com/JasonTM17/RAG_LLM_Services) | Python | 2026-09-09 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-09-07 |
