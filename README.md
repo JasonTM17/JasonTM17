@@ -103,6 +103,10 @@ Explore **44 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · TypeScript · 2026-09-18
+
+  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
+
 - **[CampusUTE Kotlin Project](https://github.com/JasonTM17/CampusUTE_Kotlin_Project)** · Python · 2026-09-17
 
   AI-Powered Smart Campus Platform for HCMUTE - Kotlin/Compose offline-first app, Spring Boot core API, FastAPI RAG agents (OpenAI Agents SDK), pgvector, Kafka/ClickHouse analytics
@@ -119,20 +123,16 @@ Explore **44 public projects** across product engineering, mobile development, a
 
   Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
 
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · TypeScript · 2026-09-17
-
-  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
-
 <details>
   <summary><strong>Browse All 44 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | TypeScript | 2026-09-18 |
 | [CampusUTE Kotlin Project](https://github.com/JasonTM17/CampusUTE_Kotlin_Project) | Python | 2026-09-17 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-09-17 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-09-17 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-09-17 |
-| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | TypeScript | 2026-09-17 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-09-16 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-09-16 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-09-16 |
