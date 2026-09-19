@@ -103,11 +103,11 @@ Explore **44 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
-- **[CampusUTE Kotlin Project](https://github.com/JasonTM17/CampusUTE_Kotlin_Project)** · Python · 2026-09-18
+- **[CampusUTE Kotlin Project](https://github.com/JasonTM17/CampusUTE_Kotlin_Project)** · Python · 2026-09-19
 
   AI-Powered Smart Campus Platform for HCMUTE - Kotlin/Compose offline-first app, Spring Boot core API, FastAPI RAG agents (OpenAI Agents SDK), pgvector, Kafka/ClickHouse analytics
 
-- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · JavaScript · 2026-09-18
+- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · JavaScript · 2026-09-19
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
 
@@ -128,8 +128,8 @@ Explore **44 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
-| [CampusUTE Kotlin Project](https://github.com/JasonTM17/CampusUTE_Kotlin_Project) | Python | 2026-09-18 |
-| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-09-18 |
+| [CampusUTE Kotlin Project](https://github.com/JasonTM17/CampusUTE_Kotlin_Project) | Python | 2026-09-19 |
+| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-09-19 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | TypeScript | 2026-09-18 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-09-17 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-09-17 |
