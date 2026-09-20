@@ -103,6 +103,10 @@ Explore **44 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-09-20
+
+  Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
+
 - **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-09-20
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
@@ -119,15 +123,12 @@ Explore **44 public projects** across product engineering, mobile development, a
 
   Personal Telegram assistant for public Locket links, safety checklists, SQLite usage tracking, and optional NextDNS setup.
 
-- **[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App)** · TypeScript · 2026-09-17
-
-  FoodFlow real-time food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.
-
 <details>
   <summary><strong>Browse All 44 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-09-20 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-09-20 |
 | [CampusUTE Kotlin Project](https://github.com/JasonTM17/CampusUTE_Kotlin_Project) | Python | 2026-09-19 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-09-19 |
@@ -141,7 +142,6 @@ Explore **44 public projects** across product engineering, mobile development, a
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-09-14 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-09-14 |
 | [Language Kotlin App](https://github.com/JasonTM17/Language_Kotlin_App) | Kotlin | 2026-09-13 |
-| [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-09-11 |
 | [CampusMate](https://github.com/JasonTM17/CampusMate) | Dart | 2026-09-09 |
 | [RAG LLM Services](https://github.com/JasonTM17/RAG_LLM_Services) | Python | 2026-09-09 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-30 |
