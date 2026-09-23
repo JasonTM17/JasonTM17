@@ -111,17 +111,17 @@ Explore **44 public projects** across product engineering, mobile development, a
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
 
+- **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-09-23
+
+  A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
+
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · TypeScript · 2026-09-23
+
+  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
+
 - **[CampusUTE Kotlin Project](https://github.com/JasonTM17/CampusUTE_Kotlin_Project)** · Python · 2026-09-22
 
   AI-Powered Smart Digital Campus Platform (HCMUTE) - Android Compose offline-first + Spring Boot + FastAPI RAG with mandatory citations
-
-- **[Language Kotlin App](https://github.com/JasonTM17/Language_Kotlin_App)** · Kotlin · 2026-09-22
-
-  LinguaAI — AI-powered language learning: native Android (Kotlin, Compose, Material 3) with a grounded AI tutor (RAG citations), 2M-row multilingual catalogue, offline-first SRS —…
-
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-09-22
-
-  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
 
 <details>
   <summary><strong>Browse All 44 Projects</strong></summary>
@@ -130,11 +130,11 @@ Explore **44 public projects** across product engineering, mobile development, a
 | --- | --- | --- |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-09-23 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-09-23 |
+| [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-09-23 |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | TypeScript | 2026-09-23 |
 | [CampusUTE Kotlin Project](https://github.com/JasonTM17/CampusUTE_Kotlin_Project) | Python | 2026-09-22 |
 | [Language Kotlin App](https://github.com/JasonTM17/Language_Kotlin_App) | Kotlin | 2026-09-22 |
-| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-09-22 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-09-21 |
-| [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-09-21 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-09-21 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-09-21 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-09-20 |
