@@ -115,7 +115,7 @@ Explore **44 public projects** across product engineering, mobile development, a
 
   Open-source Android language learning app: Kotlin + Jetpack Compose, a grounded AI tutor with RAG citations, offline spaced repetition, a 2M-row multilingual catalogue, and a…
 
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-09-26
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-09-27
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
 
@@ -131,7 +131,7 @@ Explore **44 public projects** across product engineering, mobile development, a
 | [CampusUTE Kotlin Project](https://github.com/JasonTM17/CampusUTE_Kotlin_Project) | Kotlin | 2026-09-27 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-09-27 |
 | [Language Kotlin App](https://github.com/JasonTM17/Language_Kotlin_App) | Kotlin | 2026-09-27 |
-| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-09-26 |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-09-27 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-09-24 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-09-24 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-09-23 |
