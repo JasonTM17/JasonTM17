@@ -115,13 +115,13 @@ Explore **44 public projects** across product engineering, mobile development, a
 
   A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
 
+- **[Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure)** · TypeScript · 2026-09-28
+
+  Browser voxel adventure game with an infinite procedural world and a fire-breathing dragon boss — TypeScript + Three.js, zero external assets
+
 - **[Nexora](https://github.com/JasonTM17/Nexora)** · Java · 2026-09-28
 
   Nexora — tenant-aware CMS + knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, private Realtime, secure RAG, feature flags, analytics,…
-
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-09-28
-
-  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
 
 <details>
   <summary><strong>Browse All 44 Projects</strong></summary>
@@ -131,6 +131,7 @@ Explore **44 public projects** across product engineering, mobile development, a
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-09-28 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-09-28 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-09-28 |
+| [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-09-28 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-09-28 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-09-28 |
 | [CampusUTE Kotlin Project](https://github.com/JasonTM17/CampusUTE_Kotlin_Project) | Kotlin | 2026-09-27 |
@@ -139,7 +140,6 @@ Explore **44 public projects** across product engineering, mobile development, a
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-09-24 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-09-23 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-09-23 |
-| [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-09-21 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-09-20 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-09-19 |
 | [CampusMate](https://github.com/JasonTM17/CampusMate) | Dart | 2026-09-09 |
