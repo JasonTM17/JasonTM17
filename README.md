@@ -119,9 +119,9 @@ Explore **44 public projects** across product engineering, mobile development, a
 
   Browser voxel adventure game with an infinite procedural world and a fire-breathing dragon boss — TypeScript + Three.js, zero external assets
 
-- **[Nexora](https://github.com/JasonTM17/Nexora)** · Java · 2026-09-28
+- **[Money Management](https://github.com/JasonTM17/Money_Management_App)** · Dart · 2026-09-28
 
-  Nexora — tenant-aware CMS + knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, private Realtime, secure RAG, feature flags, analytics,…
+  Offline-first Flutter personal finance learning app with PIN/biometrics, SQLite, Riverpod 3, Fastify/PostgreSQL API, OpenAPI, containers, and n8n automation.
 
 <details>
   <summary><strong>Browse All 44 Projects</strong></summary>
@@ -132,6 +132,7 @@ Explore **44 public projects** across product engineering, mobile development, a
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-09-28 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-09-28 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-09-28 |
+| [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-09-28 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-09-28 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-09-28 |
 | [CampusUTE Kotlin Project](https://github.com/JasonTM17/CampusUTE_Kotlin_Project) | Kotlin | 2026-09-27 |
@@ -149,7 +150,6 @@ Explore **44 public projects** across product engineering, mobile development, a
 | [Arcade Hub Game](https://github.com/JasonTM17/Arcade_Hub_Game) | TypeScript | 2026-08-22 |
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-08-20 |
 | [MilkTea Iku](https://github.com/JasonTM17/MilkTea_Iku) | TypeScript | 2026-08-17 |
-| [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-08-17 |
 | [Distill LLM](https://github.com/JasonTM17/Distill_LLM) | Python | 2026-08-10 |
 | [RepoMentor](https://github.com/JasonTM17/RepoMentor) | TypeScript | 2026-08-09 |
 | [Flappy Bird Clone](https://github.com/JasonTM17/Flappy_Bird_Clone) | TypeScript | 2026-08-06 |
