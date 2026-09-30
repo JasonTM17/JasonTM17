@@ -103,11 +103,11 @@ Explore **44 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
-- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · JavaScript · 2026-09-29
+- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · JavaScript · 2026-09-30
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
 
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-09-29
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-09-30
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
 
@@ -128,8 +128,8 @@ Explore **44 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
-| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-09-29 |
-| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-09-29 |
+| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-09-30 |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-09-30 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-09-28 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-09-28 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-09-28 |
