@@ -111,6 +111,10 @@ Explore **44 public projects** across product engineering, mobile development, a
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
 
+- **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-10-01
+
+  Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
+
 - **[Nexora](https://github.com/JasonTM17/Nexora)** · Java · 2026-10-01
 
   Nexora — tenant-aware CMS + knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, private Realtime, secure RAG, feature flags, analytics,…
@@ -119,10 +123,6 @@ Explore **44 public projects** across product engineering, mobile development, a
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
 
-- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Java · 2026-09-30
-
-  Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
-
 <details>
   <summary><strong>Browse All 44 Projects</strong></summary>
 
@@ -130,6 +130,7 @@ Explore **44 public projects** across product engineering, mobile development, a
 | --- | --- | --- |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-10-01 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-01 |
+| [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-10-01 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-10-01 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-01 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-09-30 |
@@ -141,7 +142,6 @@ Explore **44 public projects** across product engineering, mobile development, a
 | [Language Kotlin App](https://github.com/JasonTM17/Language_Kotlin_App) | Kotlin | 2026-09-27 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-09-24 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-09-23 |
-| [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-09-20 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-09-19 |
 | [CampusMate](https://github.com/JasonTM17/CampusMate) | Dart | 2026-09-09 |
 | [RAG LLM Services](https://github.com/JasonTM17/RAG_LLM_Services) | Python | 2026-09-09 |
