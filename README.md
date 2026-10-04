@@ -103,6 +103,10 @@ Explore **44 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot)** · Python · 2026-10-03
+
+  Personal Telegram assistant for public Locket links, safety checklists, SQLite usage tracking, and optional NextDNS setup.
+
 - **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · JavaScript · 2026-10-02
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
@@ -119,15 +123,12 @@ Explore **44 public projects** across product engineering, mobile development, a
 
   Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
 
-- **[Nexora](https://github.com/JasonTM17/Nexora)** · Java · 2026-10-01
-
-  Nexora — tenant-aware CMS + knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, private Realtime, secure RAG, feature flags, analytics,…
-
 <details>
   <summary><strong>Browse All 44 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-03 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-02 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-02 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-10-01 |
@@ -142,7 +143,6 @@ Explore **44 public projects** across product engineering, mobile development, a
 | [Language Kotlin App](https://github.com/JasonTM17/Language_Kotlin_App) | Kotlin | 2026-09-27 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-09-24 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-09-23 |
-| [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-09-19 |
 | [CampusMate](https://github.com/JasonTM17/CampusMate) | Dart | 2026-09-09 |
 | [RAG LLM Services](https://github.com/JasonTM17/RAG_LLM_Services) | Python | 2026-09-09 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-30 |
