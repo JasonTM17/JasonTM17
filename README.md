@@ -111,6 +111,10 @@ Explore **45 public projects** across product engineering, mobile development, a
 
   An early-stage learning project currently taking shape.
 
+- **[ForgeBase](https://github.com/JasonTM17/ForgeBase)** · Python · 2026-10-05
+
+  Starter templates across 12 languages and 38 starters, with CI, Docker
+
 - **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · JavaScript · 2026-10-05
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
@@ -119,10 +123,6 @@ Explore **45 public projects** across product engineering, mobile development, a
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
 
-- **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-10-04
-
-  Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
-
 <details>
   <summary><strong>Browse All 45 Projects</strong></summary>
 
@@ -130,6 +130,7 @@ Explore **45 public projects** across product engineering, mobile development, a
 | --- | --- | --- |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-10-05 |
 | [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | In progress | 2026-10-05 |
+| [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-05 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-05 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-05 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-10-04 |
@@ -137,7 +138,6 @@ Explore **45 public projects** across product engineering, mobile development, a
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-10-01 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-10-01 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-09-30 |
-| [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-09-28 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-09-28 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-09-28 |
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-09-28 |
