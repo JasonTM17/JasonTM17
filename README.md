@@ -103,34 +103,35 @@ Explore **44 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
-- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · JavaScript · 2026-10-04
+- **[DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices)** · Java · 2026-10-05
+
+  Java 21 Spring Boot microservices learning platform for recruitment with Kafka, OpenSearch, Docker, Kubernetes, Terraform, observability, CI/CD, and a RAG assistant.
+
+- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · JavaScript · 2026-10-05
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
+
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-05
+
+  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
 
 - **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-10-04
 
   Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
 
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-04
-
-  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
-
 - **[LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot)** · Python · 2026-10-03
 
   Personal Telegram assistant for public Locket links, safety checklists, SQLite usage tracking, and optional NextDNS setup.
-
-- **[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App)** · TypeScript · 2026-10-01
-
-  FoodFlow real-time food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.
 
 <details>
   <summary><strong>Browse All 44 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
-| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-04 |
+| [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-10-05 |
+| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-05 |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-05 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-10-04 |
-| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-04 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-03 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-10-01 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-10-01 |
@@ -145,7 +146,6 @@ Explore **44 public projects** across product engineering, mobile development, a
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-09-23 |
 | [CampusMate](https://github.com/JasonTM17/CampusMate) | Dart | 2026-09-09 |
 | [RAG LLM Services](https://github.com/JasonTM17/RAG_LLM_Services) | Python | 2026-09-09 |
-| [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-08-30 |
 | [AgriCore](https://github.com/JasonTM17/AgriCore_SpringBoot_Microservices) | Java | 2026-08-28 |
 | [Arcade Hub Game](https://github.com/JasonTM17/Arcade_Hub_Game) | TypeScript | 2026-08-22 |
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-08-20 |
