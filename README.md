@@ -17,7 +17,7 @@
 <!-- AUTO:PROJECT_BADGES:START -->
 <p align="center">
   <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
-  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/45%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 45 public learning-project repositories" /></a>
+  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/46%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 46 public learning-project repositories" /></a>
 </p>
 <!-- AUTO:PROJECT_BADGES:END -->
 
@@ -27,7 +27,7 @@
 
 <!-- AUTO:PROJECT_STATS:START -->
 <p align="center">
-  <strong>45</strong> public projects &nbsp;&middot;&nbsp;
+  <strong>46</strong> public projects &nbsp;&middot;&nbsp;
   <strong>4</strong> project focus areas &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>
@@ -99,7 +99,7 @@ Microservices, self-service delivery, GitOps, infrastructure as code, observabil
 ## Project Portfolio
 
 <!-- AUTO:PROJECT_ARCHIVE:START -->
-Explore **45 public projects** across product engineering, mobile development, applied AI, and platform delivery.
+Explore **46 public projects** across product engineering, mobile development, applied AI, and platform delivery.
 
 ### Recently Updated
 
@@ -115,22 +115,23 @@ Explore **45 public projects** across product engineering, mobile development, a
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
 
+- **[WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm)** · Python · 2026-10-06
+
+  An early-stage learning project currently taking shape.
+
 - **[DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices)** · Java · 2026-10-05
 
   Java 21 Spring Boot microservices learning platform for recruitment with Kafka, OpenSearch, Docker, Kubernetes, Terraform, observability, CI/CD, and a RAG assistant.
 
-- **[Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter)** · In progress · 2026-10-05
-
-  An early-stage learning project currently taking shape.
-
 <details>
-  <summary><strong>Browse All 45 Projects</strong></summary>
+  <summary><strong>Browse All 46 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-06 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-06 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-06 |
+| [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-06 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-10-05 |
 | [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | In progress | 2026-10-05 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-05 |
