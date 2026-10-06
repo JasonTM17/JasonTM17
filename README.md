@@ -107,6 +107,10 @@ Explore **45 public projects** across product engineering, mobile development, a
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
 
+- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-10-06
+
+  Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
+
 - **[DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices)** · Java · 2026-10-05
 
   Java 21 Spring Boot microservices learning platform for recruitment with Kafka, OpenSearch, Docker, Kubernetes, Terraform, observability, CI/CD, and a RAG assistant.
@@ -119,16 +123,13 @@ Explore **45 public projects** across product engineering, mobile development, a
 
   Starter templates across 12 languages and 38 starters, with CI, Docker
 
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-05
-
-  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
-
 <details>
   <summary><strong>Browse All 45 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-06 |
+| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-06 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-10-05 |
 | [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | In progress | 2026-10-05 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-05 |
@@ -143,7 +144,6 @@ Explore **45 public projects** across product engineering, mobile development, a
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-09-28 |
 | [CampusUTE Kotlin Project](https://github.com/JasonTM17/CampusUTE_Kotlin_Project) | Kotlin | 2026-09-27 |
 | [Language Kotlin App](https://github.com/JasonTM17/Language_Kotlin_App) | Kotlin | 2026-09-27 |
-| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-09-24 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-09-23 |
 | [CampusMate](https://github.com/JasonTM17/CampusMate) | Dart | 2026-09-09 |
 | [RAG LLM Services](https://github.com/JasonTM17/RAG_LLM_Services) | Python | 2026-09-09 |
