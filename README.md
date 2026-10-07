@@ -111,17 +111,17 @@ Explore **46 public projects** across product engineering, mobile development, a
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
 
-- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-10-06
-
-  Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
-
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-06
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-07
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
 
-- **[WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm)** · Python · 2026-10-06
+- **[WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm)** · Python · 2026-10-07
 
   An early-stage learning project currently taking shape.
+
+- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-10-06
+
+  Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
 
 <details>
   <summary><strong>Browse All 46 Projects</strong></summary>
@@ -130,9 +130,9 @@ Explore **46 public projects** across product engineering, mobile development, a
 | --- | --- | --- |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-10-07 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-07 |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-07 |
+| [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-07 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-06 |
-| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-06 |
-| [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-06 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-10-05 |
 | [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | In progress | 2026-10-05 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-05 |
