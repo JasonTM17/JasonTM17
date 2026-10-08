@@ -103,13 +103,17 @@ Explore **46 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App)** · TypeScript · 2026-10-08
+
+  FoodFlow real-time food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.
+
+- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · JavaScript · 2026-10-08
+
+  Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
+
 - **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-10-07
 
   Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
-
-- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · JavaScript · 2026-10-07
-
-  Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
 
 - **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Java · 2026-10-07
 
@@ -119,17 +123,14 @@ Explore **46 public projects** across product engineering, mobile development, a
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
 
-- **[WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm)** · Python · 2026-10-07
-
-  An early-stage learning project currently taking shape.
-
 <details>
   <summary><strong>Browse All 46 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-10-08 |
+| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-08 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-10-07 |
-| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-07 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-10-07 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-07 |
 | [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-07 |
@@ -139,7 +140,6 @@ Explore **46 public projects** across product engineering, mobile development, a
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-05 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-10-04 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-03 |
-| [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-10-01 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-10-01 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-09-28 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-09-28 |
