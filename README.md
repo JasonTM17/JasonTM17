@@ -17,7 +17,7 @@
 <!-- AUTO:PROJECT_BADGES:START -->
 <p align="center">
   <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
-  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/46%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 46 public learning-project repositories" /></a>
+  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/47%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 47 public learning-project repositories" /></a>
 </p>
 <!-- AUTO:PROJECT_BADGES:END -->
 
@@ -27,7 +27,7 @@
 
 <!-- AUTO:PROJECT_STATS:START -->
 <p align="center">
-  <strong>46</strong> public projects &nbsp;&middot;&nbsp;
+  <strong>47</strong> public projects &nbsp;&middot;&nbsp;
   <strong>4</strong> project focus areas &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>
@@ -99,13 +99,21 @@ Microservices, self-service delivery, GitOps, infrastructure as code, observabil
 ## Project Portfolio
 
 <!-- AUTO:PROJECT_ARCHIVE:START -->
-Explore **46 public projects** across product engineering, mobile development, applied AI, and platform delivery.
+Explore **47 public projects** across product engineering, mobile development, applied AI, and platform delivery.
 
 ### Recently Updated
+
+- **[Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter)** · Dart · 2026-10-10
+
+  Offline-first farm operations platform — Flutter app + NestJS/PostgreSQL API with multi-tenant RLS, encrypted sync outbox, interactive 3D farm map and Farmly AI (DeepSeek).
 
 - **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · JavaScript · 2026-10-10
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
+
+- **[Willowmere Game Indie Relax](https://github.com/JasonTM17/Willowmere_Game_Indie_Relax)** · In progress · 2026-10-10
+
+  An early-stage learning project currently taking shape.
 
 - **[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App)** · TypeScript · 2026-10-08
 
@@ -115,20 +123,14 @@ Explore **46 public projects** across product engineering, mobile development, a
 
   RepoMedic AI: Local-first autonomous agentic system for bug triage and guarded patching with strict purity constraints.
 
-- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-10-07
-
-  Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
-
-- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Java · 2026-10-07
-
-  Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
-
 <details>
-  <summary><strong>Browse All 46 Projects</strong></summary>
+  <summary><strong>Browse All 47 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | Dart | 2026-10-10 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-10 |
+| [Willowmere Game Indie Relax](https://github.com/JasonTM17/Willowmere_Game_Indie_Relax) | In progress | 2026-10-10 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-10-08 |
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-10-08 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-10-07 |
@@ -137,7 +139,6 @@ Explore **46 public projects** across product engineering, mobile development, a
 | [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-07 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-06 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-10-05 |
-| [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | In progress | 2026-10-05 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-05 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-10-04 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-03 |
