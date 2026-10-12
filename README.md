@@ -115,13 +115,13 @@ Explore **47 public projects** across product engineering, mobile development, a
 
   Nexora — tenant-aware CMS + knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, private Realtime, secure RAG, feature flags, analytics,…
 
+- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-10-12
+
+  Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
+
 - **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-12
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
-
-- **[Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter)** · Dart · 2026-10-10
-
-  Offline-first farm operations platform — Flutter app + NestJS/PostgreSQL API with multi-tenant RLS, encrypted sync outbox, interactive 3D farm map and Farmly AI (DeepSeek).
 
 <details>
   <summary><strong>Browse All 47 Projects</strong></summary>
@@ -131,6 +131,7 @@ Explore **47 public projects** across product engineering, mobile development, a
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-12 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-10-12 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-10-12 |
+| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-12 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-12 |
 | [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | Dart | 2026-10-10 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-10 |
@@ -140,7 +141,6 @@ Explore **47 public projects** across product engineering, mobile development, a
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-10-07 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-10-07 |
 | [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-07 |
-| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-06 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-10-05 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-05 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-10-04 |
