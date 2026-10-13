@@ -103,7 +103,11 @@ Explore **47 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
-- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · JavaScript · 2026-10-12
+- **[ForgeBase](https://github.com/JasonTM17/ForgeBase)** · Python · 2026-10-13
+
+  Starter templates across 12 languages and 38 starters, with CI, Docker
+
+- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · JavaScript · 2026-10-13
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
 
@@ -119,16 +123,13 @@ Explore **47 public projects** across product engineering, mobile development, a
 
   Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
 
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-12
-
-  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
-
 <details>
   <summary><strong>Browse All 47 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
-| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-12 |
+| [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-13 |
+| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-13 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-10-12 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-10-12 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-12 |
@@ -142,7 +143,6 @@ Explore **47 public projects** across product engineering, mobile development, a
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-10-07 |
 | [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-07 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-10-05 |
-| [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-05 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-10-04 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-09-28 |
 | [Money Management](https://github.com/JasonTM17/Money_Management_App) | Dart | 2026-09-28 |
