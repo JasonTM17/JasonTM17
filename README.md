@@ -103,6 +103,10 @@ Explore **47 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm)** · Python · 2026-10-14
+
+  Hệ thống thu thập và phân tích thời tiết, chất lượng không khí trên AWS Serverless. Đồ án Điện toán đám mây — Nhóm 05, kèm Python SDK, báo cáo Tuần 1–2, biểu đồ và dữ liệu CSV.
+
 - **[ForgeBase](https://github.com/JasonTM17/ForgeBase)** · Python · 2026-10-13
 
   Starter templates across 12 languages and 38 starters, with CI, Docker
@@ -110,10 +114,6 @@ Explore **47 public projects** across product engineering, mobile development, a
 - **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · JavaScript · 2026-10-13
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
-
-- **[WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm)** · Python · 2026-10-13
-
-  Hệ thống thu thập và phân tích thời tiết, chất lượng không khí trên AWS Serverless. Đồ án Điện toán đám mây — Nhóm 05, kèm Python SDK, báo cáo Tuần 1–2, biểu đồ và dữ liệu CSV.
 
 - **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-10-12
 
@@ -128,9 +128,9 @@ Explore **47 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-14 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-13 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-13 |
-| [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-13 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-10-12 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-10-12 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-12 |
