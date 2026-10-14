@@ -103,9 +103,13 @@ Explore **47 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-14
+
+  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
+
 - **[WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm)** · Python · 2026-10-14
 
-  Hệ thống thu thập và phân tích thời tiết, chất lượng không khí trên AWS Serverless. Đồ án Điện toán đám mây — Nhóm 05, kèm Python SDK, báo cáo Tuần 1–2, biểu đồ và dữ liệu CSV.
+  Hệ thống thu thập và phân tích thời tiết, chất lượng không khí trên AWS Serverless. Đồ án Điện toán đám mây của sinh viên Tiến Sơn và sinh viên Ngọc Quyên, kèm báo cáo Tuần 1–2,…
 
 - **[ForgeBase](https://github.com/JasonTM17/ForgeBase)** · Python · 2026-10-13
 
@@ -119,22 +123,18 @@ Explore **47 public projects** across product engineering, mobile development, a
 
   A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
 
-- **[Nexora](https://github.com/JasonTM17/Nexora)** · Java · 2026-10-12
-
-  Nexora — tenant-aware CMS + knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, private Realtime, secure RAG, feature flags, analytics,…
-
 <details>
   <summary><strong>Browse All 47 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-14 |
 | [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-14 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-13 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-13 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-10-12 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-10-12 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-12 |
-| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-12 |
 | [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | Dart | 2026-10-10 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-10 |
 | [Willowmere Game Indie Relax](https://github.com/JasonTM17/Willowmere_Game_Indie_Relax) | In progress | 2026-10-10 |
