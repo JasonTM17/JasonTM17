@@ -103,35 +103,36 @@ Explore **47 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-10-16
+
+  Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
+
 - **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-16
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
 
 - **[WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm)** · Python · 2026-10-16
 
-  Hệ thống thu thập và phân tích thời tiết, chất lượng không khí trên AWS Serverless. Đồ án Điện toán đám mây của sinh viên Tiến Sơn và sinh viên Ngọc Quyên, kèm báo cáo Tuần 1–2,…
+  Đồ án AWS Serverless của sinh viên Tiến Sơn và sinh viên Ngọc Quyên: mã nguồn thu thập thời tiết/AQI, hồ sơ Tuần 1–2, worklog, CSV, biểu đồ và kế hoạch tích hợp, giám sát Tuần 3.
+
+- **[Willowmere Game Indie Relax](https://github.com/JasonTM17/Willowmere_Game_Indie_Relax)** · JavaScript · 2026-10-16
+
+  Cozy lakeside village RPG in the browser — vanilla JS + Canvas 2D. Befriend 8 villagers, fish, gather, quest with two-outcome endings, and relight the dark lighthouse. Includes…
 
 - **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-10-15
 
   A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
-
-- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-10-15
-
-  Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
-
-- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-10-14
-
-  Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
 
 <details>
   <summary><strong>Browse All 47 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-16 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-16 |
 | [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-16 |
+| [Willowmere Game Indie Relax](https://github.com/JasonTM17/Willowmere_Game_Indie_Relax) | JavaScript | 2026-10-16 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-10-15 |
-| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-15 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-10-14 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-10-14 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-13 |
@@ -139,7 +140,6 @@ Explore **47 public projects** across product engineering, mobile development, a
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-10-12 |
 | [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | Dart | 2026-10-10 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-10 |
-| [Willowmere Game Indie Relax](https://github.com/JasonTM17/Willowmere_Game_Indie_Relax) | In progress | 2026-10-10 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-10-08 |
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-10-08 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-10-05 |
