@@ -103,6 +103,14 @@ Explore **47 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-16
+
+  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
+
+- **[WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm)** · Python · 2026-10-16
+
+  Hệ thống thu thập và phân tích thời tiết, chất lượng không khí trên AWS Serverless. Đồ án Điện toán đám mây của sinh viên Tiến Sơn và sinh viên Ngọc Quyên, kèm báo cáo Tuần 1–2,…
+
 - **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-10-15
 
   A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
@@ -110,14 +118,6 @@ Explore **47 public projects** across product engineering, mobile development, a
 - **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-10-15
 
   Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
-
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-15
-
-  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
-
-- **[WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm)** · Python · 2026-10-15
-
-  Hệ thống thu thập và phân tích thời tiết, chất lượng không khí trên AWS Serverless. Đồ án Điện toán đám mây của sinh viên Tiến Sơn và sinh viên Ngọc Quyên, kèm báo cáo Tuần 1–2,…
 
 - **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-10-14
 
@@ -128,10 +128,10 @@ Explore **47 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-16 |
+| [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-16 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-10-15 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-15 |
-| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-15 |
-| [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-15 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-10-14 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-10-14 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-13 |
