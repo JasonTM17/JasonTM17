@@ -103,6 +103,10 @@ Explore **47 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter)** · Dart · 2026-10-16
+
+  Offline-first farm operations platform — Flutter app + NestJS/PostgreSQL API with multi-tenant RLS, encrypted sync outbox, interactive 3D farm map and Farmly AI (DeepSeek).
+
 - **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-10-16
 
   Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
@@ -119,15 +123,12 @@ Explore **47 public projects** across product engineering, mobile development, a
 
   Cozy lakeside village RPG in the browser — vanilla JS + Canvas 2D. Befriend 8 villagers, fish, gather, quest with two-outcome endings, and relight the dark lighthouse. Includes…
 
-- **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-10-15
-
-  A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
-
 <details>
   <summary><strong>Browse All 47 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | Dart | 2026-10-16 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-16 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-16 |
 | [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-16 |
@@ -138,7 +139,6 @@ Explore **47 public projects** across product engineering, mobile development, a
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-13 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-13 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-10-12 |
-| [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | Dart | 2026-10-10 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-10 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-10-08 |
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-10-08 |
