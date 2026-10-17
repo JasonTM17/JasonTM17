@@ -103,6 +103,10 @@ Explore **47 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-17
+
+  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
+
 - **[Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter)** · Dart · 2026-10-16
 
   Offline-first farm operations platform — Flutter app + NestJS/PostgreSQL API with multi-tenant RLS, encrypted sync outbox, interactive 3D farm map and Farmly AI (DeepSeek).
@@ -110,10 +114,6 @@ Explore **47 public projects** across product engineering, mobile development, a
 - **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-10-16
 
   Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
-
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-16
-
-  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
 
 - **[WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm)** · Python · 2026-10-16
 
@@ -128,9 +128,9 @@ Explore **47 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-17 |
 | [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | Dart | 2026-10-16 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-16 |
-| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-16 |
 | [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-16 |
 | [Willowmere Game Indie Relax](https://github.com/JasonTM17/Willowmere_Game_Indie_Relax) | JavaScript | 2026-10-16 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-10-15 |
