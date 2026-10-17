@@ -103,6 +103,10 @@ Explore **47 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot)** · Python · 2026-10-17
+
+  Personal Telegram assistant for public Locket links, safety checklists, SQLite usage tracking, and optional NextDNS setup.
+
 - **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-17
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
@@ -119,15 +123,12 @@ Explore **47 public projects** across product engineering, mobile development, a
 
   Đồ án AWS Serverless của sinh viên Tiến Sơn và sinh viên Ngọc Quyên: mã nguồn thu thập thời tiết/AQI, hồ sơ Tuần 1–2, worklog, CSV, biểu đồ và kế hoạch tích hợp, giám sát Tuần 3.
 
-- **[Willowmere Game Indie Relax](https://github.com/JasonTM17/Willowmere_Game_Indie_Relax)** · JavaScript · 2026-10-16
-
-  Cozy lakeside village RPG in the browser — vanilla JS + Canvas 2D. Befriend 8 villagers, fish, gather, quest with two-outcome endings, and relight the dark lighthouse. Includes…
-
 <details>
   <summary><strong>Browse All 47 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-17 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-17 |
 | [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | Dart | 2026-10-16 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-16 |
@@ -139,7 +140,6 @@ Explore **47 public projects** across product engineering, mobile development, a
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-13 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-13 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-10-12 |
-| [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-10 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-10-08 |
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-10-08 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-10-05 |
