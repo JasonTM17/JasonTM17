@@ -103,13 +103,17 @@ Explore **47 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-18
+
+  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
+
+- **[WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm)** · Python · 2026-10-18
+
+  Đồ án AWS Serverless của sinh viên Tiến Sơn và sinh viên Ngọc Quyên: mã nguồn thu thập thời tiết/AQI, hồ sơ Tuần 1–2, worklog, CSV, biểu đồ và kế hoạch tích hợp, giám sát Tuần 3.
+
 - **[LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot)** · Python · 2026-10-17
 
   Personal Telegram assistant for public Locket links, safety checklists, SQLite usage tracking, and optional NextDNS setup.
-
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-17
-
-  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
 
 - **[Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter)** · Dart · 2026-10-16
 
@@ -119,20 +123,16 @@ Explore **47 public projects** across product engineering, mobile development, a
 
   Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
 
-- **[WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm)** · Python · 2026-10-16
-
-  Đồ án AWS Serverless của sinh viên Tiến Sơn và sinh viên Ngọc Quyên: mã nguồn thu thập thời tiết/AQI, hồ sơ Tuần 1–2, worklog, CSV, biểu đồ và kế hoạch tích hợp, giám sát Tuần 3.
-
 <details>
   <summary><strong>Browse All 47 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-18 |
+| [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-18 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-17 |
-| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-17 |
 | [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | Dart | 2026-10-16 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-16 |
-| [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-16 |
 | [Willowmere Game Indie Relax](https://github.com/JasonTM17/Willowmere_Game_Indie_Relax) | JavaScript | 2026-10-16 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-10-15 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-10-14 |
