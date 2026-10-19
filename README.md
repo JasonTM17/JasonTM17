@@ -103,42 +103,42 @@ Explore **47 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter)** · Dart · 2026-10-19
+
+  Offline-first farm operations platform — Flutter app + NestJS/PostgreSQL API with multi-tenant RLS, encrypted sync outbox, interactive 3D farm map and Farmly AI (DeepSeek).
+
+- **[ForgeBase](https://github.com/JasonTM17/ForgeBase)** · Python · 2026-10-19
+
+  Starter templates across 12 languages and 38 starters, with CI, Docker
+
 - **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-10-19
 
   A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
 
-- **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-10-18
-
-  Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
-
-- **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-10-18
-
-  Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
-
-- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-10-18
-
-  Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
-
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-18
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-19
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
+
+- **[WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm)** · Python · 2026-10-19
+
+  Đồ án AWS Serverless của sinh viên Tiến Sơn và sinh viên Ngọc Quyên: thu thập thời tiết/AQI, hồ sơ Tuần 1–2 và mốc tích hợp Tuần 3 với Athena Projection/Parquet, CloudWatch, dự…
 
 <details>
   <summary><strong>Browse All 47 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | Dart | 2026-10-19 |
+| [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-19 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-10-19 |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-19 |
+| [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-19 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-10-18 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-10-18 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-18 |
-| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-18 |
-| [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-18 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-17 |
-| [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | Dart | 2026-10-16 |
 | [Willowmere Game Indie Relax](https://github.com/JasonTM17/Willowmere_Game_Indie_Relax) | JavaScript | 2026-10-16 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-10-14 |
-| [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-13 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-13 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-10-12 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-10-08 |
