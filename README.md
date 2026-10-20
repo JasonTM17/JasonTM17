@@ -105,7 +105,7 @@ Explore **47 public projects** across product engineering, mobile development, a
 
 - **[Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter)** · Dart · 2026-10-20
 
-  Offline-first farm operations platform — Flutter app + NestJS/PostgreSQL API with multi-tenant RLS, encrypted sync outbox, interactive 3D farm map and Farmly AI (DeepSeek).
+  Offline-first farm management for cooperatives, built with Flutter, NestJS and PostgreSQL. Track crops, livestock, water, tasks and harvests across farms.
 
 - **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-20
 
