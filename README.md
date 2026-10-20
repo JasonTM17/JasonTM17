@@ -103,6 +103,10 @@ Explore **47 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter)** · Dart · 2026-10-20
+
+  Offline-first farm operations platform — Flutter app + NestJS/PostgreSQL API with multi-tenant RLS, encrypted sync outbox, interactive 3D farm map and Farmly AI (DeepSeek).
+
 - **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-20
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
@@ -110,10 +114,6 @@ Explore **47 public projects** across product engineering, mobile development, a
 - **[WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm)** · Python · 2026-10-20
 
   Đồ án AWS Serverless Tuần 1–4 của sinh viên Tiến Sơn và sinh viên Ngọc Quyên: thời tiết/AQI, CloudFormation triển khai thực tế, Athena Projection/Parquet, backtest ba cửa sổ,…
-
-- **[Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter)** · Dart · 2026-10-19
-
-  Offline-first farm operations platform — Flutter app + NestJS/PostgreSQL API with multi-tenant RLS, encrypted sync outbox, interactive 3D farm map and Farmly AI (DeepSeek).
 
 - **[ForgeBase](https://github.com/JasonTM17/ForgeBase)** · Python · 2026-10-19
 
@@ -128,9 +128,9 @@ Explore **47 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | Dart | 2026-10-20 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-20 |
 | [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-20 |
-| [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | Dart | 2026-10-19 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-19 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-10-19 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-10-18 |
