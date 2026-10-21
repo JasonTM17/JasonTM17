@@ -17,7 +17,7 @@
 <!-- AUTO:PROJECT_BADGES:START -->
 <p align="center">
   <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
-  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/47%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 47 public learning-project repositories" /></a>
+  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/48%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 48 public learning-project repositories" /></a>
 </p>
 <!-- AUTO:PROJECT_BADGES:END -->
 
@@ -27,7 +27,7 @@
 
 <!-- AUTO:PROJECT_STATS:START -->
 <p align="center">
-  <strong>47</strong> public projects &nbsp;&middot;&nbsp;
+  <strong>48</strong> public projects &nbsp;&middot;&nbsp;
   <strong>4</strong> project focus areas &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>
@@ -99,38 +99,39 @@ Microservices, self-service delivery, GitOps, infrastructure as code, observabil
 ## Project Portfolio
 
 <!-- AUTO:PROJECT_ARCHIVE:START -->
-Explore **47 public projects** across product engineering, mobile development, applied AI, and platform delivery.
+Explore **48 public projects** across product engineering, mobile development, applied AI, and platform delivery.
 
 ### Recently Updated
+
+- **[Security Lab Study](https://github.com/JasonTM17/Security_Lab_Study)** · JavaScript · 2026-10-21
+
+  SecLab — Lab học an toàn thông tin cục bộ (VN): web lab 20 lỗ hổng cố ý với bản đối chứng hardened, CTF 10 thử thách/265đ, scanner 19 probe, blue-team detect, JWT/codec tool, mô…
+
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-21
+
+  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
+
+- **[WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm)** · Python · 2026-10-21
+
+  Đồ án AWS Serverless Tuần 1–4 của sinh viên Tiến Sơn và sinh viên Ngọc Quyên: thời tiết/AQI, CloudFormation triển khai thực tế, Athena Projection/Parquet, backtest ba cửa sổ,…
 
 - **[Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter)** · Dart · 2026-10-20
 
   Offline-first farm management for cooperatives, built with Flutter, NestJS and PostgreSQL. Track crops, livestock, water, tasks and harvests across farms.
 
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-20
-
-  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
-
-- **[WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm)** · Python · 2026-10-20
-
-  Đồ án AWS Serverless Tuần 1–4 của sinh viên Tiến Sơn và sinh viên Ngọc Quyên: thời tiết/AQI, CloudFormation triển khai thực tế, Athena Projection/Parquet, backtest ba cửa sổ,…
-
 - **[ForgeBase](https://github.com/JasonTM17/ForgeBase)** · Python · 2026-10-19
 
   Starter templates across 12 languages and 38 starters, with CI, Docker
 
-- **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-10-19
-
-  A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
-
 <details>
-  <summary><strong>Browse All 47 Projects</strong></summary>
+  <summary><strong>Browse All 48 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [Security Lab Study](https://github.com/JasonTM17/Security_Lab_Study) | JavaScript | 2026-10-21 |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-21 |
+| [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-21 |
 | [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | Dart | 2026-10-20 |
-| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-20 |
-| [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-20 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-19 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-10-19 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-10-18 |
