@@ -103,6 +103,10 @@ Explore **49 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Java · 2026-10-21
+
+  Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
+
 - **[Security Lab Study](https://github.com/JasonTM17/Security_Lab_Study)** · JavaScript · 2026-10-21
 
   SecLab — Lab học an toàn thông tin cục bộ (VN): web lab 20 lỗ hổng cố ý với bản đối chứng hardened, CTF 10 thử thách/265đ, scanner 19 probe, blue-team detect, JWT/codec tool, mô…
@@ -119,15 +123,12 @@ Explore **49 public projects** across product engineering, mobile development, a
 
   Đồ án AWS Serverless Tuần 1–4 của sinh viên Tiến Sơn và sinh viên Ngọc Quyên: thời tiết/AQI, CloudFormation triển khai thực tế, Athena Projection/Parquet, backtest ba cửa sổ,…
 
-- **[Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter)** · Dart · 2026-10-20
-
-  Offline-first farm management for cooperatives, built with Flutter, NestJS and PostgreSQL. Track crops, livestock, water, tasks and harvests across farms.
-
 <details>
   <summary><strong>Browse All 49 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-10-21 |
 | [Security Lab Study](https://github.com/JasonTM17/Security_Lab_Study) | JavaScript | 2026-10-21 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-21 |
 | [Uptime Monitoring Platform](https://github.com/JasonTM17/Uptime-Monitoring-Platform) | In progress | 2026-10-21 |
@@ -140,7 +141,6 @@ Explore **49 public projects** across product engineering, mobile development, a
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-18 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-17 |
 | [Willowmere Game Indie Relax](https://github.com/JasonTM17/Willowmere_Game_Indie_Relax) | JavaScript | 2026-10-16 |
-| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-10-14 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-13 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-10-12 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-10-08 |
