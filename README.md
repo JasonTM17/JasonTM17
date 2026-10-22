@@ -103,6 +103,10 @@ Explore **49 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-22
+
+  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
+
 - **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Java · 2026-10-21
 
   Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
@@ -110,10 +114,6 @@ Explore **49 public projects** across product engineering, mobile development, a
 - **[Security Lab Study](https://github.com/JasonTM17/Security_Lab_Study)** · JavaScript · 2026-10-21
 
   SecLab — Lab học an toàn thông tin cục bộ (VN): web lab 20 lỗ hổng cố ý với bản đối chứng hardened, CTF 10 thử thách/265đ, scanner 19 probe, blue-team detect, JWT/codec tool, mô…
-
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-21
-
-  CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
 
 - **[Uptime Monitoring Platform](https://github.com/JasonTM17/Uptime-Monitoring-Platform)** · In progress · 2026-10-21
 
@@ -128,9 +128,9 @@ Explore **49 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-22 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-10-21 |
 | [Security Lab Study](https://github.com/JasonTM17/Security_Lab_Study) | JavaScript | 2026-10-21 |
-| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-21 |
 | [Uptime Monitoring Platform](https://github.com/JasonTM17/Uptime-Monitoring-Platform) | In progress | 2026-10-21 |
 | [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-21 |
 | [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | Dart | 2026-10-20 |
