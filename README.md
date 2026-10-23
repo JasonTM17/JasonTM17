@@ -111,6 +111,10 @@ Explore **49 public projects** across product engineering, mobile development, a
 
   Local-first uptime monitoring platform — SSRF-hardened HTTP checks, incident lifecycle with Telegram alerts, admin RBAC, quotas and audit. Go/PostgreSQL backend, React/TypeScript…
 
+- **[WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm)** · Python · 2026-10-23
+
+  Đồ án AWS Serverless Tuần 1–4 của sinh viên Tiến Sơn và sinh viên Ngọc Quyên: thời tiết/AQI, CloudFormation triển khai thực tế, Athena Projection/Parquet, backtest ba cửa sổ,…
+
 - **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Java · 2026-10-21
 
   Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
@@ -119,10 +123,6 @@ Explore **49 public projects** across product engineering, mobile development, a
 
   SecLab — Lab học an toàn thông tin cục bộ (VN): web lab 20 lỗ hổng cố ý với bản đối chứng hardened, CTF 10 thử thách/265đ, scanner 19 probe, blue-team detect, JWT/codec tool, mô…
 
-- **[WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm)** · Python · 2026-10-21
-
-  Đồ án AWS Serverless Tuần 1–4 của sinh viên Tiến Sơn và sinh viên Ngọc Quyên: thời tiết/AQI, CloudFormation triển khai thực tế, Athena Projection/Parquet, backtest ba cửa sổ,…
-
 <details>
   <summary><strong>Browse All 49 Projects</strong></summary>
 
@@ -130,9 +130,9 @@ Explore **49 public projects** across product engineering, mobile development, a
 | --- | --- | --- |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-23 |
 | [Uptime Monitoring Platform](https://github.com/JasonTM17/Uptime-Monitoring-Platform) | Go | 2026-10-23 |
+| [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-23 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-10-21 |
 | [Security Lab Study](https://github.com/JasonTM17/Security_Lab_Study) | JavaScript | 2026-10-21 |
-| [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-21 |
 | [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | Dart | 2026-10-20 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-19 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-10-19 |
