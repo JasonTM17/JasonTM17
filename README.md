@@ -103,13 +103,13 @@ Explore **49 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-22
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-23
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
 
-- **[Uptime Monitoring Platform](https://github.com/JasonTM17/Uptime-Monitoring-Platform)** · Go · 2026-10-22
+- **[Uptime Monitoring Platform](https://github.com/JasonTM17/Uptime-Monitoring-Platform)** · Go · 2026-10-23
 
-  Go uptime monitoring platform with a secure HTTP checker, incident alerting, advanced admin controls, and a React dashboard.
+  Local-first uptime monitoring platform — SSRF-hardened HTTP checks, incident lifecycle with Telegram alerts, admin RBAC, quotas and audit. Go/PostgreSQL backend, React/TypeScript…
 
 - **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Java · 2026-10-21
 
@@ -128,8 +128,8 @@ Explore **49 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
-| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-22 |
-| [Uptime Monitoring Platform](https://github.com/JasonTM17/Uptime-Monitoring-Platform) | Go | 2026-10-22 |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-23 |
+| [Uptime Monitoring Platform](https://github.com/JasonTM17/Uptime-Monitoring-Platform) | Go | 2026-10-23 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-10-21 |
 | [Security Lab Study](https://github.com/JasonTM17/Security_Lab_Study) | JavaScript | 2026-10-21 |
 | [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-21 |
