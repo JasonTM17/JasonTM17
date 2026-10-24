@@ -103,6 +103,10 @@ Explore **49 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot)** · Python · 2026-10-24
+
+  Personal Telegram assistant for public Locket links, safety checklists, SQLite usage tracking, and optional NextDNS setup.
+
 - **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-24
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
@@ -119,15 +123,12 @@ Explore **49 public projects** across product engineering, mobile development, a
 
   Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
 
-- **[Security Lab Study](https://github.com/JasonTM17/Security_Lab_Study)** · JavaScript · 2026-10-21
-
-  SecLab — Lab học an toàn thông tin cục bộ (VN): web lab 20 lỗ hổng cố ý với bản đối chứng hardened, CTF 10 thử thách/265đ, scanner 19 probe, blue-team detect, JWT/codec tool, mô…
-
 <details>
   <summary><strong>Browse All 49 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-24 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-24 |
 | [Uptime Monitoring Platform](https://github.com/JasonTM17/Uptime-Monitoring-Platform) | Go | 2026-10-23 |
 | [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-23 |
@@ -139,7 +140,6 @@ Explore **49 public projects** across product engineering, mobile development, a
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-10-18 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-10-18 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-18 |
-| [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-17 |
 | [Willowmere Game Indie Relax](https://github.com/JasonTM17/Willowmere_Game_Indie_Relax) | JavaScript | 2026-10-16 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-13 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-10-12 |
