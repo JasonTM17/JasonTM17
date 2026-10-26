@@ -111,7 +111,7 @@ Explore **49 public projects** across product engineering, mobile development, a
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
 
-- **[Uptime Monitoring Platform](https://github.com/JasonTM17/Uptime-Monitoring-Platform)** · Go · 2026-10-25
+- **[Uptime Monitoring Platform](https://github.com/JasonTM17/Uptime-Monitoring-Platform)** · Go · 2026-10-26
 
   Local-first uptime monitoring platform — SSRF-hardened HTTP checks, incident lifecycle with Telegram alerts, admin RBAC, quotas and audit. Go/PostgreSQL backend, React/TypeScript…
 
@@ -130,7 +130,7 @@ Explore **49 public projects** across product engineering, mobile development, a
 | --- | --- | --- |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-26 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-26 |
-| [Uptime Monitoring Platform](https://github.com/JasonTM17/Uptime-Monitoring-Platform) | Go | 2026-10-25 |
+| [Uptime Monitoring Platform](https://github.com/JasonTM17/Uptime-Monitoring-Platform) | Go | 2026-10-26 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-10-24 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-24 |
 | [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-23 |
