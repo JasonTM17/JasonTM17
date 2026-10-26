@@ -103,7 +103,11 @@ Explore **49 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-25
+- **[ForgeBase](https://github.com/JasonTM17/ForgeBase)** · Python · 2026-10-26
+
+  Starter templates across 12 languages and 38 starters, with CI, Docker
+
+- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-26
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
 
@@ -119,16 +123,13 @@ Explore **49 public projects** across product engineering, mobile development, a
 
   Personal Telegram assistant for public Locket links, safety checklists, SQLite usage tracking, and optional NextDNS setup.
 
-- **[WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm)** · Python · 2026-10-23
-
-  Đồ án AWS Serverless Tuần 1–4 của sinh viên Tiến Sơn và sinh viên Ngọc Quyên: thời tiết/AQI, CloudFormation triển khai thực tế, Athena Projection/Parquet, backtest ba cửa sổ,…
-
 <details>
   <summary><strong>Browse All 49 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
-| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-25 |
+| [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-26 |
+| [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-26 |
 | [Uptime Monitoring Platform](https://github.com/JasonTM17/Uptime-Monitoring-Platform) | Go | 2026-10-25 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-10-24 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-24 |
@@ -136,7 +137,6 @@ Explore **49 public projects** across product engineering, mobile development, a
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-10-21 |
 | [Security Lab Study](https://github.com/JasonTM17/Security_Lab_Study) | JavaScript | 2026-10-21 |
 | [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | Dart | 2026-10-20 |
-| [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-19 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-10-19 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-10-18 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-18 |
