@@ -103,6 +103,10 @@ Explore **49 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · JavaScript · 2026-10-27
+
+  Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
+
 - **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-27
 
   CampusCore student management demo with Java 25, JPA, Next.js, Expo, PostgreSQL, and chatbot assistant
@@ -119,15 +123,12 @@ Explore **49 public projects** across product engineering, mobile development, a
 
   Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
 
-- **[LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot)** · Python · 2026-10-24
-
-  Personal Telegram assistant for public Locket links, safety checklists, SQLite usage tracking, and optional NextDNS setup.
-
 <details>
   <summary><strong>Browse All 49 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-27 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-27 |
 | [Uptime Monitoring Platform](https://github.com/JasonTM17/Uptime-Monitoring-Platform) | Go | 2026-10-27 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-26 |
@@ -141,7 +142,6 @@ Explore **49 public projects** across product engineering, mobile development, a
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-10-18 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-18 |
 | [Willowmere Game Indie Relax](https://github.com/JasonTM17/Willowmere_Game_Indie_Relax) | JavaScript | 2026-10-16 |
-| [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-13 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-10-12 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-10-08 |
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-10-08 |
