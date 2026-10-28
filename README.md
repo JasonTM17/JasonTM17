@@ -17,7 +17,7 @@
 <!-- AUTO:PROJECT_BADGES:START -->
 <p align="center">
   <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
-  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/50%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 50 public learning-project repositories" /></a>
+  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/51%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 51 public learning-project repositories" /></a>
 </p>
 <!-- AUTO:PROJECT_BADGES:END -->
 
@@ -27,7 +27,7 @@
 
 <!-- AUTO:PROJECT_STATS:START -->
 <p align="center">
-  <strong>50</strong> public projects &nbsp;&middot;&nbsp;
+  <strong>51</strong> public projects &nbsp;&middot;&nbsp;
   <strong>4</strong> project focus areas &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>
@@ -99,11 +99,15 @@ Microservices, self-service delivery, GitOps, infrastructure as code, observabil
 ## Project Portfolio
 
 <!-- AUTO:PROJECT_ARCHIVE:START -->
-Explore **50 public projects** across product engineering, mobile development, applied AI, and platform delivery.
+Explore **51 public projects** across product engineering, mobile development, applied AI, and platform delivery.
 
 ### Recently Updated
 
 - **[CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem)** · Java · 2026-10-28
+
+  An early-stage learning project currently taking shape.
+
+- **[Ecommerce BookStore NodeJS](https://github.com/JasonTM17/Ecommerce_BookStore_NodeJS)** · In progress · 2026-10-28
 
   An early-stage learning project currently taking shape.
 
@@ -119,16 +123,13 @@ Explore **50 public projects** across product engineering, mobile development, a
 
   Student management portal for HCMUTE: Spring Boot 4 REST API, Next.js web portal, Expo mobile app, PostgreSQL with Flyway, and a private RAG assistant.
 
-- **[Uptime Monitoring Platform](https://github.com/JasonTM17/Uptime-Monitoring-Platform)** · Go · 2026-10-28
-
-  Local-first uptime monitoring platform — SSRF-hardened HTTP checks, incident lifecycle with Telegram alerts, admin RBAC, quotas and audit. Go/PostgreSQL backend, React/TypeScript…
-
 <details>
-  <summary><strong>Browse All 50 Projects</strong></summary>
+  <summary><strong>Browse All 51 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem) | Java | 2026-10-28 |
+| [Ecommerce BookStore NodeJS](https://github.com/JasonTM17/Ecommerce_BookStore_NodeJS) | In progress | 2026-10-28 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-28 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-10-28 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-28 |
