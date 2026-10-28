@@ -119,9 +119,9 @@ Explore **51 public projects** across product engineering, mobile development, a
 
   A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
 
-- **[Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE)** · Java · 2026-10-28
+- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Java · 2026-10-28
 
-  Student management portal for HCMUTE: Spring Boot 4 REST API, Next.js web portal, Expo mobile app, PostgreSQL with Flyway, and a private RAG assistant.
+  Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
 
 <details>
   <summary><strong>Browse All 51 Projects</strong></summary>
@@ -132,13 +132,13 @@ Explore **51 public projects** across product engineering, mobile development, a
 | [Ecommerce BookStore NodeJS](https://github.com/JasonTM17/Ecommerce_BookStore_NodeJS) | In progress | 2026-10-28 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-28 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-10-28 |
+| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-10-28 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-28 |
 | [Uptime Monitoring Platform](https://github.com/JasonTM17/Uptime-Monitoring-Platform) | Go | 2026-10-28 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-26 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-10-24 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-24 |
 | [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-23 |
-| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-10-21 |
 | [Security Lab Study](https://github.com/JasonTM17/Security_Lab_Study) | JavaScript | 2026-10-21 |
 | [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | Dart | 2026-10-20 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-10-18 |
