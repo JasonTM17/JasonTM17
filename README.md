@@ -103,11 +103,19 @@ Explore **51 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
-- **[CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem)** · Java · 2026-10-28
+- **[Ecommerce BookStore NodeJS](https://github.com/JasonTM17/Ecommerce_BookStore_NodeJS)** · TypeScript · 2026-10-29
 
   An early-stage learning project currently taking shape.
 
-- **[Ecommerce BookStore NodeJS](https://github.com/JasonTM17/Ecommerce_BookStore_NodeJS)** · In progress · 2026-10-28
+- **[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App)** · TypeScript · 2026-10-29
+
+  FoodFlow real-time food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.
+
+- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-10-29
+
+  Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
+
+- **[CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem)** · Java · 2026-10-28
 
   An early-stage learning project currently taking shape.
 
@@ -115,21 +123,15 @@ Explore **51 public projects** across product engineering, mobile development, a
 
   Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
 
-- **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-10-28
-
-  A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
-
-- **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Java · 2026-10-28
-
-  Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
-
 <details>
   <summary><strong>Browse All 51 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [Ecommerce BookStore NodeJS](https://github.com/JasonTM17/Ecommerce_BookStore_NodeJS) | TypeScript | 2026-10-29 |
+| [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-10-29 |
+| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-29 |
 | [CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem) | Java | 2026-10-28 |
-| [Ecommerce BookStore NodeJS](https://github.com/JasonTM17/Ecommerce_BookStore_NodeJS) | In progress | 2026-10-28 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-10-28 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-10-28 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-10-28 |
@@ -142,10 +144,8 @@ Explore **51 public projects** across product engineering, mobile development, a
 | [Security Lab Study](https://github.com/JasonTM17/Security_Lab_Study) | JavaScript | 2026-10-21 |
 | [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | Dart | 2026-10-20 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-10-18 |
-| [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-18 |
 | [Willowmere Game Indie Relax](https://github.com/JasonTM17/Willowmere_Game_Indie_Relax) | JavaScript | 2026-10-16 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-10-12 |
-| [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-10-08 |
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-10-08 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-10-05 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-09-28 |
