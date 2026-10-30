@@ -43,7 +43,7 @@ Local generation and tests do not mean the profile has been published. A commit/
 
 ## Contribution animation
 
-The existing contribution workflow uses pinned Platane snk v3.5.0 to retrieve the real GitHub calendar and generate the snake path. `scripts/style-contribution-snake.mjs` preserves those cells/keyframes and adds the profile's mint palette, rounded surface and a thinner collection indicator. Light/dark static SVGs keep the initial calendar visible and hide moving elements for reduced motion.
+The existing contribution workflow uses pinned Platane snk v3.5.0 to retrieve the real GitHub calendar and generate the snake path. `scripts/style-contribution-snake.mjs` preserves those cells/keyframes and adds a compact rounded surface, quieter grid spacing and mint shading on the snake. Two small eye marks share the head's original animation; a restrained shadow separates it from the calendar. The unlabelled collection indicator is hidden. Light/dark static SVGs keep the initial calendar visible and hide moving elements for reduced motion.
 
 The four SVGs are regenerated on the existing daily schedule, on relevant default-branch pushes, or with **Actions → Update contribution animation → Run workflow**. They are published to the existing `output` branch. Contribution snapshots are separate from the five-minute pinned-project sync and are not real-time activity counters.
 

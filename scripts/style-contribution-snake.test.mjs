@@ -11,18 +11,29 @@ test("styling preserves contribution cells and snake keyframes while framing the
   assert.ok(svg.includes(KEYFRAMES));
   assert.ok(svg.includes('<rect class="c c1" x="2" y="2" width="12" height="12"/>'));
   assert.ok(svg.includes('<rect class="s s0" x="0.8" y="0.8" width="14.4" height="14.4"/>'));
-  assert.match(svg,/viewBox="-28 -32 904 204"/);
-  assert.match(svg,/rx="16" fill="#0d151c" stroke="#2b3a45"/);
-  assert.match(svg,/<rect class="u u1"[^>]+height="4"/);
+  assert.match(svg,/viewBox="-28 -32 904 176"/);
+  assert.match(svg,/rx="16" fill="#0d151c" stroke="#28383e"/);
+  assert.match(svg,/<rect class="u u1"[^>]+height="12"/);
+  assert.match(svg,/\.u\{display:none\}/);
 });
 
 test("mint theme override follows upstream CSS and has distinct light/dark palettes", () => {
   const dark = styleContributionSnake(SOURCE,{theme:"dark"});
   const light = styleContributionSnake(SOURCE,{theme:"light"});
   assert.ok(dark.indexOf('--cs:#b3f4e5') > dark.indexOf('--cs:purple'));
-  assert.match(dark,/--c4:#67c3a0/);
+  assert.match(dark,/--c4:#69c3a0/);
   assert.match(light,/--cs:#0f766e/);
-  assert.match(light,/fill="#f8faf9"/);
+  assert.match(light,/fill="#fafcfb"/);
+});
+
+test("a small face follows the original head animation and the grid has quieter spacing", () => {
+  const svg = styleContributionSnake(SOURCE,{theme:"dark"});
+  assert.equal([...svg.matchAll(/<circle class="s s0 profile-eye"/g)].length,2);
+  assert.match(svg,/cx="5\.696" cy="6\.416" r="1\.2"/);
+  assert.match(svg,/cx="10\.592" cy="6\.416" r="1\.2"/);
+  assert.match(svg,/id="profile-head-gradient"/);
+  assert.match(svg,/\.c\{width:10px;height:10px;stroke:none;transform:translate\(1px,1px\)\}/);
+  assert.match(svg,/flood-opacity="0\.18"/);
 });
 
 test("reduced motion keeps the initial calendar and hides the snake/progress indicator", () => {

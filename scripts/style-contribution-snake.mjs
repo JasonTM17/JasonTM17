@@ -3,8 +3,8 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const THEMES = {
-  light: { background: "#f8faf9", border: "#ccd9d2", cellBorder: "#dce7e1", snake: "#0f766e", dots: ["#e9efec", "#cce7dd", "#95cfbe", "#50ab94", "#247863"] },
-  dark: { background: "#0d151c", border: "#2b3a45", cellBorder: "#20302b", snake: "#b3f4e5", dots: ["#15211e", "#193d34", "#245f50", "#398e74", "#67c3a0"] },
+  light: { background: "#fafcfb", border: "#d5e2db", cellBorder: "transparent", snake: "#0f766e", head: ["#198b76", "#105d51"], body: ["#279783", "#4cad95", "#86c6b3"], eye: "#effff8", shadow: "#105d51", dots: ["#e9efed", "#d0eade", "#9ed8c5", "#62b89b", "#2c876c"] },
+  dark: { background: "#0d151c", border: "#28383e", cellBorder: "transparent", snake: "#b3f4e5", head: ["#defff4", "#80dcbc"], body: ["#89d6be", "#59b99a", "#368e72"], eye: "#143c32", shadow: "#80dcbc", dots: ["#162128", "#163d34", "#25624f", "#3f9979", "#69c3a0"] },
 };
 
 export function styleContributionSnake(source, { theme = "light", staticMode = false } = {}) {
@@ -22,24 +22,30 @@ export function styleContributionSnake(source, { theme = "light", staticMode = f
     throw new Error("Refusing an already styled or unsupported contribution SVG.");
   }
   const [x, y, width, height] = box;
-  const frame = [x - 12, y, width + 24, height + 12];
+  const frame = [x - 12, y, width + 24, height - 16];
   const body = source.slice(opening[0].length, source.lastIndexOf("</svg>"));
-  // Preserve the real calendar, movement paths and keyframe timings. Only the
-  // accumulated-cell indicator's thickness changes, from 12 to 4 SVG units.
-  const thinProgress = body.replace(/<rect\b[^>]*>/g, tag => {
-    const classes = tag.match(/\bclass="([^"]+)"/)?.[1].split(/\s+/) ?? [];
-    return classes.includes("u") ? tag.replace(/\bheight="[^"]+"/, 'height="4"') : tag;
-  });
+  const head = [...body.matchAll(/<rect\b[^>]*>/g)].map(match=>match[0]).find(tag=>tag.match(/\bclass="([^"]+)"/)?.[1].split(/\s+/).includes("s0"));
+  const geometry = ["x", "y", "width", "height"].map(name=>Number(head?.match(new RegExp(`\\b${name}="([0-9.]+)"`))?.[1]));
+  if (geometry.some(value=>!Number.isFinite(value)) || geometry[2] <= 0 || geometry[3] <= 0) {
+    throw new Error("Expected the original animated snake head geometry.");
+  }
+  const [hx, hy, hw, hh] = geometry;
+  // The original head rect and all calendar/path keyframes stay untouched.
+  // Eye marks share s0's exact native animation rather than a separate path.
+  const eyes = [0.34, 0.68].map(offset=>`<circle class="s s0 profile-eye" cx="${(hx+hw*offset).toFixed(3)}" cy="${(hy+hh*0.39).toFixed(3)}" r="1.2"/>`).join("");
   const css = `:root{--cb:${palette.cellBorder};--cs:${palette.snake};--ce:${palette.dots[0]};${palette.dots.map((color,index)=>`--c${index}:${color}`).join(";")}}`;
+  const finish = `.c{width:10px;height:10px;stroke:none;transform:translate(1px,1px)}.u{display:none}.s{filter:url(#profile-snake-shadow)}.s.s0{fill:url(#profile-head-gradient)}${palette.body.map((color,index)=>`.s.s${index+1}{fill:${color}}`).join("")}.s.profile-eye{fill:${palette.eye};filter:none}`;
   const still = ".c{animation:none!important}.s,.u{display:none}";
   const accessibility = staticMode ? still : `@media(prefers-reduced-motion:reduce){${still}}`;
   const mode = staticMode ? "Static contribution calendar" : "Animated contribution calendar";
-  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="${frame.join(" ")}" width="${frame[2]}" height="${frame[3]}" role="img" aria-labelledby="profile-snake-title profile-snake-desc" data-profile-snake="mint-v1">
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="${frame.join(" ")}" width="${frame[2]}" height="${frame[3]}" role="img" aria-labelledby="profile-snake-title profile-snake-desc" data-profile-snake="mint-v2">
 <title id="profile-snake-title">${mode} for Nguyen Son</title>
 <desc id="profile-snake-desc">GitHub contribution history with a mint palette. The calendar and snake path come from actual GitHub contributions.</desc>
+<defs><linearGradient id="profile-head-gradient" x1="0" y1="0" x2="1" y2="1"><stop stop-color="${palette.head[0]}"/><stop offset="1" stop-color="${palette.head[1]}"/></linearGradient><filter id="profile-snake-shadow" x="-50%" y="-50%" width="200%" height="200%"><feDropShadow dx="0" dy="1" stdDeviation="1.4" flood-color="${palette.shadow}" flood-opacity="0.18"/></filter></defs>
 <rect x="${frame[0]+0.5}" y="${frame[1]+0.5}" width="${frame[2]-1}" height="${frame[3]-1}" rx="16" fill="${palette.background}" stroke="${palette.border}"/>
-${thinProgress}
-<style>${css}${accessibility}</style>
+${body}
+${eyes}
+<style>${css}${finish}${accessibility}</style>
 </svg>\n`;
 }
 
