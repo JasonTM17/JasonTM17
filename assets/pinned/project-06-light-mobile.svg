@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 262" role="img" aria-labelledby="title desc">
+<title id="title">JasonTM17/Student_Management_UTE</title>
+<desc id="desc">Student management portal for HCMUTE: Spring Boot 4 REST API, Next.js web portal, Expo mobile app, PostgreSQL with Flyway, and a private RAG assistant. Main language: Java.</desc>
+<rect x="1" y="1" width="638" height="260" rx="16" fill="#f8faf9" stroke="#ccd9d2"/>
+<g font-family="Segoe UI, DejaVu Sans, sans-serif">
+<text x="26" y="49" fill="#146e60" font-size="22" font-weight="400">06</text>
+<text x="72" y="50" fill="#18302d" font-size="30" font-weight="600">Student Management UTE</text>
+<text x="26" y="123" fill="#506963" font-size="26" font-weight="400">Student management portal for HCMUTE:</text>
+<text x="26" y="155" fill="#506963" font-size="26" font-weight="400">Spring Boot 4 REST API, Next.js web …</text>
+<text x="26" y="227" fill="#146e60" font-size="26" font-weight="400">Java</text>
+
+</g>
+</svg>

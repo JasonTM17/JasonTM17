@@ -6,6 +6,7 @@ import {
   fetchPublicRepositories,
   normalizeRepositories,
   renderProjectBadges,
+  renderProjectArchive,
   replaceManagedSection,
 } from "./sync-public-projects.mjs";
 
@@ -17,6 +18,9 @@ middle
 <!-- AUTO:PROJECT_STATS:START -->
 old stats
 <!-- AUTO:PROJECT_STATS:END -->
+<!-- AUTO:PINNED_PROJECTS:START -->
+old pins
+<!-- AUTO:PINNED_PROJECTS:END -->
 archive
 <!-- AUTO:PROJECT_ARCHIVE:START -->
 old archive
@@ -215,6 +219,34 @@ test("snapshot removes repositories absent from the next public response", () =>
   assert.match(withOne, /1%20Public%20Projects/);
 });
 
+test("recent projects exclude pinned URLs, fill five slots, and retain the complete archive", () => {
+  const projects = normalizeRepositories([
+    repository({ name: "HealthCare_Project", pushed_at: "2026-10-30" }),
+    ...[1, 2, 3, 4, 5, 6].map(index => repository({ name: `recent-${index}`, pushed_at: `2026-10-${String(29-index).padStart(2, "0")}` })),
+  ]);
+  const pins = [{ href: "https://github.com/jasontm17/healthcare_project" }];
+  const rendered = renderProjectArchive(projects, pins);
+  const [visible, catalogue] = rendered.split("<details>");
+  assert.doesNotMatch(visible, /HealthCare_Project/);
+  assert.equal([...visible.matchAll(/^- \*\*\[/gm)].length, 5);
+  assert.match(visible, /recent-5/);
+  assert.doesNotMatch(visible, /recent-6/);
+  assert.match(catalogue, /HealthCare_Project/);
+  assert.equal([...catalogue.matchAll(/^\| \[/gm)].length, 7);
+
+  const applied = applyRepositorySnapshot(TEMPLATE, projects, [{...projects[0], fullName: "JasonTM17/HealthCare_Project"}]);
+  const archive = applied.split("<!-- AUTO:PROJECT_ARCHIVE:START -->")[1].split("<details>")[0];
+  assert.doesNotMatch(archive, /HealthCare_Project/);
+});
+
+test("recent projects omit an empty subsection when all public repositories are pinned", () => {
+  const projects = normalizeRepositories([repository()]);
+  const rendered = renderProjectArchive(projects, projects);
+  assert.doesNotMatch(rendered, /### Recently Updated/);
+  assert.match(rendered, /Browse All 1 Projects/);
+  assert.match(rendered, /FoodDelivery_App/);
+});
+
 test("managed sections and empty snapshots fail closed", () => {
   assert.throws(() => replaceManagedSection("README", "PROJECT_BADGES", "body"), /missing a valid/i);
   assert.throws(
@@ -283,14 +315,17 @@ test("GitHub requests use the versioned API contract and authenticated owner que
   assert.equal(request.options.headers["X-GitHub-Api-Version"], "2026-03-10");
 });
 
-test("the profile workflow polls twice hourly, stays active, and keeps manual dispatch available", async () => {
+test("the profile workflow polls every five minutes, stays active, and keeps manual dispatch available", async () => {
   const workflowUrl = new URL("../.github/workflows/sync-public-projects.yml", import.meta.url);
   const workflow = await readFile(workflowUrl, "utf8");
 
-  assert.match(workflow, /cron: "23,53 \* \* \* \*"/);
+  assert.match(workflow, /cron: "3-58\/5 \* \* \* \*"/);
   assert.match(workflow, /workflow_dispatch:/);
   assert.match(workflow, /actions\/checkout@[0-9a-f]{40} # v6\.0\.3/);
   assert.match(workflow, /actions\/setup-node@[0-9a-f]{40} # v6\.5\.0/);
   assert.match(workflow, /age_days >= 45/);
   assert.match(workflow, /git commit --allow-empty -m "ci\(profile\): keep scheduled sync active"/);
+  assert.match(workflow, /git add -- README\.md/);
+  assert.match(workflow, /git add -A -- assets\/pinned\//);
+  assert.match(workflow, /git ls-files --error-unmatch 'assets\/pinned\/\*\.svg'/);
 });

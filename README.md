@@ -22,13 +22,31 @@
 <!-- AUTO:PROJECT_BADGES:END -->
 
 <p align="center">
-  <img src="./assets/nguyen-son-systems-atlas.svg" alt="Nguyen Son systems atlas covering product systems, realtime operations, applied AI, and platform engineering." width="100%" />
+  <picture>
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="./assets/nguyen-son-terminal-dark-mobile.svg" />
+    <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="./assets/nguyen-son-terminal-light-mobile.svg" />
+    <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="./assets/nguyen-son-terminal-dark.svg" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/nguyen-son-terminal-light.svg" />
+    <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/nguyen-son-terminal-dark-mobile.gif" />
+    <source media="(max-width: 600px)" srcset="./assets/nguyen-son-terminal-light-mobile.gif" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/nguyen-son-terminal-dark.gif" />
+    <img src="./assets/nguyen-son-terminal-light.gif" alt="Nguyễn Tiến Sơn — learning software engineering by building, and exploring DevOps one project at a time." width="100%" />
+  </picture>
 </p>
+
+<!-- PIXEL_COMPANIONS:START -->
+<p align="center">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pixel-companions/coding-duo.png" />
+    <img src="./assets/pixel-companions/coding-duo.gif" width="300" alt="A small mint coding robot and an orange Claude-inspired pixel companion blink and wave beside a laptop." />
+  </picture>
+</p>
+<!-- PIXEL_COMPANIONS:END -->
 
 <!-- AUTO:PROJECT_STATS:START -->
 <p align="center">
   <strong>51</strong> public projects &nbsp;&middot;&nbsp;
-  <strong>4</strong> project focus areas &nbsp;&middot;&nbsp;
+  <strong>6</strong> pinned projects &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>
 <!-- AUTO:PROJECT_STATS:END -->
@@ -42,59 +60,77 @@ These focus areas reflect the systems I am actively studying, designing, and bui
 - <strong>Applied AI</strong> &mdash; trip planning, computer vision, algorithm visualisation, and hardware/software bridges.
 - <strong>Platform-minded delivery</strong> &mdash; containers, CI, observability, cloud infrastructure, and developer portals.
 
-## Project Focus — Learning in Public
+## Selected Projects
 
-### 01 / Product Operations
+A closer look at the repositories I currently pin on my GitHub profile.
 
-**[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) + [Crab](https://github.com/JasonTM17/Crab_Mobile_Flutter)**
-
-Delivery, ride-hailing, wallet, chat, location-aware flows, and the admin surfaces that keep them running.
-
+<!-- AUTO:PINNED_PROJECTS:START -->
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&amp;logo=typescript&amp;logoColor=3178C6" alt="TypeScript used in FoodFlow and Crab" />
-  <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js used in FoodFlow and Crab" />
-  <img src="https://img.shields.io/badge/NestJS-0F172A?style=flat-square&amp;logo=nestjs&amp;logoColor=E0234E" alt="NestJS used in FoodFlow and Crab" />
-  <img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&amp;logo=flutter&amp;logoColor=54C5F8" alt="Flutter used in FoodFlow and Crab" />
+  <a href="https://github.com/JasonTM17/App_AI_powered_waste_sorting">
+    <picture>
+      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/pinned/project-01-dark-mobile.svg" />
+      <source media="(max-width: 600px)" srcset="./assets/pinned/project-01-light-mobile.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/pinned/project-01-dark.svg" />
+      <img src="./assets/pinned/project-01-light.svg" width="100%" alt="JasonTM17/App_AI_powered_waste_sorting. AI-powered waste sorting system with YOLO, PySide6 desktop control, Next.js dashboard, UART/Arduino hardware bridge, Supabase and EcoPet AI. Main language: Python." />
+    </picture>
+  </a>
 </p>
 
-### 02 / Mobile Finance
-
-**[Money Management](https://github.com/JasonTM17/Money_Management_App)**
-
-Offline-first finance with PIN and biometric protection, local SQLite state, and a Fastify/PostgreSQL sync API.
-
 <p>
-  <img src="https://img.shields.io/badge/Flutter-0F172A?style=flat-square&amp;logo=flutter&amp;logoColor=54C5F8" alt="Flutter used in Money Management" />
-  <img src="https://img.shields.io/badge/Dart-0F172A?style=flat-square&amp;logo=dart&amp;logoColor=54C5F8" alt="Dart used in Money Management" />
-  <img src="https://img.shields.io/badge/SQLite-0F172A?style=flat-square&amp;logo=sqlite&amp;logoColor=54C5F8" alt="SQLite used in Money Management" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostgreSQL used in Money Management" />
+  <a href="https://github.com/JasonTM17/Ecommerce_BookStore">
+    <picture>
+      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/pinned/project-02-dark-mobile.svg" />
+      <source media="(max-width: 600px)" srcset="./assets/pinned/project-02-light-mobile.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/pinned/project-02-dark.svg" />
+      <img src="./assets/pinned/project-02-light.svg" width="100%" alt="JasonTM17/Ecommerce_BookStore. Full-stack bookstore learning project with Next.js and Spring Boot, including storefront, authentication, tests, CI/CD, Docker, and Render deployment. Main language: TypeScript." />
+    </picture>
+  </a>
 </p>
 
-### 03 / Applied AI
-
-**[VN TravelAI](https://github.com/JasonTM17/VN_TravelAI) + [Waste Sorting](https://github.com/JasonTM17/App_AI_powered_waste_sorting)**
-
-AI trip planning and computer vision brought into product and physical-control workflows.
-
 <p>
-  <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&amp;logo=python&amp;logoColor=FFD343" alt="Python used in applied AI projects" />
-  <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js used in applied AI projects" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-0F172A?style=flat-square&amp;logoColor=38BDF8" alt="Computer vision used in waste sorting" />
-  <img src="https://img.shields.io/badge/AI%20Planning-0F172A?style=flat-square&amp;logoColor=A78BFA" alt="AI planning used in VN TravelAI" />
+  <a href="https://github.com/JasonTM17/JobHunter_SpringBoot_RestfulAPI_React">
+    <picture>
+      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/pinned/project-03-dark-mobile.svg" />
+      <source media="(max-width: 600px)" srcset="./assets/pinned/project-03-light-mobile.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/pinned/project-03-dark.svg" />
+      <img src="./assets/pinned/project-03-light.svg" width="100%" alt="JasonTM17/JobHunter_SpringBoot_RestfulAPI_React. IT recruitment learning project built with Spring Boot, Next.js, MySQL, Docker, RBAC, end-to-end tests, and visual regression. Main language: TypeScript." />
+    </picture>
+  </a>
 </p>
 
-### 04 / Platform Delivery
-
-**[DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) + [Internal Developer Platform](https://github.com/JasonTM17/Internal_Developer_Platform_DevOps) + [CampusCore](https://github.com/JasonTM17/CampusCore_FullStack_Individual)**
-
-Microservices, self-service delivery, GitOps, infrastructure as code, observability, and cloud operations.
+<p>
+  <a href="https://github.com/JasonTM17/Laptopshop_Spring_Boot_MVC">
+    <picture>
+      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/pinned/project-04-dark-mobile.svg" />
+      <source media="(max-width: 600px)" srcset="./assets/pinned/project-04-light-mobile.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/pinned/project-04-dark.svg" />
+      <img src="./assets/pinned/project-04-light.svg" width="100%" alt="JasonTM17/Laptopshop_Spring_Boot_MVC. Spring Boot MVC laptop e-commerce learning project with a retail storefront, checkout, admin dashboard, tests, Docker, and CI. Main language: Java." />
+    </picture>
+  </a>
+</p>
 
 <p>
-  <img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java used in DevHire Cloud" />
-  <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&amp;logo=docker&amp;logoColor=2496ED" alt="Docker used in platform delivery projects" />
-  <img src="https://img.shields.io/badge/Kubernetes-0F172A?style=flat-square&amp;logo=kubernetes&amp;logoColor=326CE5" alt="Kubernetes used in platform delivery projects" />
-  <img src="https://img.shields.io/badge/Terraform-0F172A?style=flat-square&amp;logo=terraform&amp;logoColor=844FBA" alt="Terraform used in platform delivery projects" />
+  <a href="https://github.com/JasonTM17/HealthCare_Project">
+    <picture>
+      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/pinned/project-05-dark-mobile.svg" />
+      <source media="(max-width: 600px)" srcset="./assets/pinned/project-05-light-mobile.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/pinned/project-05-dark.svg" />
+      <img src="./assets/pinned/project-05-light.svg" width="100%" alt="JasonTM17/HealthCare_Project. Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data. Main language: JavaScript." />
+    </picture>
+  </a>
 </p>
+
+<p>
+  <a href="https://github.com/JasonTM17/Student_Management_UTE">
+    <picture>
+      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/pinned/project-06-dark-mobile.svg" />
+      <source media="(max-width: 600px)" srcset="./assets/pinned/project-06-light-mobile.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/pinned/project-06-dark.svg" />
+      <img src="./assets/pinned/project-06-light.svg" width="100%" alt="JasonTM17/Student_Management_UTE. Student management portal for HCMUTE: Spring Boot 4 REST API, Next.js web portal, Expo mobile app, PostgreSQL with Flyway, and a private RAG assistant. Main language: Java." />
+    </picture>
+  </a>
+</p>
+<!-- AUTO:PINNED_PROJECTS:END -->
 
 ## Project Portfolio
 
@@ -109,19 +145,19 @@ Explore **51 public projects** across product engineering, mobile development, a
 
 - **[Ecommerce BookStore NodeJS](https://github.com/JasonTM17/Ecommerce_BookStore_NodeJS)** · TypeScript · 2026-10-30
 
-  An early-stage learning project currently taking shape.
+  Book commerce portfolio built with NestJS, Next.js and PostgreSQL. Live demo, authenticated checkout, admin dashboard, production screenshots and walkthrough.
 
 - **[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App)** · TypeScript · 2026-10-30
 
-  FoodFlow real-time food delivery — NestJS API on Railway, Next.js Admin/Restaurant on Vercel, Flutter apps, Supabase Realtime/PostGIS, and Docker.
+  FoodFlow delivery demo: NestJS API, four Next.js web roles, Flutter apps, PostgreSQL/PostGIS, Redis/BullMQ and Supabase Realtime. Production screenshots and walkthroughs.
 
 - **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-10-29
 
   Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
 
-- **[HealthCare Project](https://github.com/JasonTM17/HealthCare_Project)** · JavaScript · 2026-10-28
+- **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-10-28
 
-  Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.
+  A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
 
 <details>
   <summary><strong>Browse All 51 Projects</strong></summary>

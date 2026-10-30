@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
+<title id="title">JasonTM17/HealthCare_Project</title>
+<desc id="desc">Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data. Main language: JavaScript.</desc>
+<rect x="1" y="1" width="1198" height="178" rx="16" fill="#0d151c" stroke="#2b3a45"/>
+<g font-family="Segoe UI, DejaVu Sans, sans-serif">
+<text x="26" y="48" fill="#80decb" font-size="20" font-weight="400">05</text>
+<text x="80" y="50" fill="#ecf2f5" font-size="31" font-weight="600">HealthCare Project</text>
+<text x="80" y="94" fill="#a5b5c1" font-size="22" font-weight="400">Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js,</text>
+<text x="80" y="123" fill="#a5b5c1" font-size="22" font-weight="400">FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data.</text>
+<text x="80" y="158" fill="#80decb" font-size="20" font-weight="400">JavaScript</text>
+<text x="860" y="158" fill="#a5b5c1" font-size="17" font-weight="400">JasonTM17/HealthCare_Project</text>
+</g>
+</svg>

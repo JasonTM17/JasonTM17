@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
+<title id="title">JasonTM17/App_AI_powered_waste_sorting</title>
+<desc id="desc">AI-powered waste sorting system with YOLO, PySide6 desktop control, Next.js dashboard, UART/Arduino hardware bridge, Supabase and EcoPet AI. Main language: Python.</desc>
+<rect x="1" y="1" width="1198" height="178" rx="16" fill="#0d151c" stroke="#2b3a45"/>
+<g font-family="Segoe UI, DejaVu Sans, sans-serif">
+<text x="26" y="48" fill="#80decb" font-size="20" font-weight="400">01</text>
+<text x="80" y="50" fill="#ecf2f5" font-size="31" font-weight="600">App AI powered waste sorting</text>
+<text x="80" y="94" fill="#a5b5c1" font-size="22" font-weight="400">AI-powered waste sorting system with YOLO, PySide6 desktop control, Next.js dashboard,</text>
+<text x="80" y="123" fill="#a5b5c1" font-size="22" font-weight="400">UART/Arduino hardware bridge, Supabase and EcoPet AI.</text>
+<text x="80" y="158" fill="#80decb" font-size="20" font-weight="400">Python</text>
+<text x="860" y="158" fill="#a5b5c1" font-size="17" font-weight="400">JasonTM17/App_AI_powered_wa…</text>
+</g>
+</svg>

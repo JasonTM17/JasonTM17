@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 262" role="img" aria-labelledby="title desc">
+<title id="title">JasonTM17/Ecommerce_BookStore</title>
+<desc id="desc">Full-stack bookstore learning project with Next.js and Spring Boot, including storefront, authentication, tests, CI/CD, Docker, and Render deployment. Main language: TypeScript.</desc>
+<rect x="1" y="1" width="638" height="260" rx="16" fill="#f8faf9" stroke="#ccd9d2"/>
+<g font-family="Segoe UI, DejaVu Sans, sans-serif">
+<text x="26" y="49" fill="#146e60" font-size="22" font-weight="400">02</text>
+<text x="72" y="50" fill="#18302d" font-size="30" font-weight="600">Ecommerce BookStore</text>
+<text x="26" y="123" fill="#506963" font-size="26" font-weight="400">Full-stack bookstore learning project</text>
+<text x="26" y="155" fill="#506963" font-size="26" font-weight="400">with Next.js and Spring Boot, includin…</text>
+<text x="26" y="227" fill="#146e60" font-size="26" font-weight="400">TypeScript</text>
+
+</g>
+</svg>

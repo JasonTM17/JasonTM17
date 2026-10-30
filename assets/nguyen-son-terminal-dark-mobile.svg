@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 740" role="img" aria-labelledby="title desc">
+<title id="title">Nguyễn Tiến Sơn — Terminal Notes</title>
+<desc id="desc">Nguyễn Tiến Sơn. Learning software engineering by building. Exploring DevOps, one project at a time.</desc>
+<rect x="1" y="1" width="718" height="738" rx="22" fill="#0d151c" stroke="#2b3a45"/>
+<rect x="2" y="2" width="716" height="66" rx="21" fill="#131e27"/>
+<rect x="2" y="42" width="716" height="26" rx="0" fill="#131e27"/>
+<rect x="1" y="68" width="718" height="1" rx="0" fill="#2b3a45"/>
+<circle cx="29" cy="35" r="5" fill="#526672"/>
+<circle cx="49" cy="35" r="5" fill="#526672"/>
+<circle cx="69" cy="35" r="5" fill="#526672"/>
+<text x="99" y="44" fill="#a5b5c1" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="28" font-weight="400">nguyen-son / README</text>
+<text x="46" y="123" fill="#80decb" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="28" font-weight="400">~/nguyen-son</text>
+<text x="271" y="123" fill="#a5b5c1" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="28" font-weight="400">$ whoami</text>
+<text x="46" y="179" fill="#a5b5c1" font-family="Segoe UI, DejaVu Sans, sans-serif" font-size="28" font-weight="600">HELLO, I&#x27;M</text>
+<text x="46" y="258" fill="#ecf2f5" font-family="Segoe UI, DejaVu Sans, sans-serif" font-size="66" font-weight="600">Nguyễn Tiến</text>
+<text x="46" y="337" fill="#ecf2f5" font-family="Segoe UI, DejaVu Sans, sans-serif" font-size="72" font-weight="600">Sơn</text>
+<text x="46" y="398" fill="#a5b5c1" font-family="Segoe UI, DejaVu Sans, sans-serif" font-size="28" font-weight="400">Learning software engineering by building.</text>
+<text x="46" y="435" fill="#a5b5c1" font-family="Segoe UI, DejaVu Sans, sans-serif" font-size="28" font-weight="400">Exploring DevOps, one project at a time.</text>
+<rect x="46" y="486" width="360" height="48" rx="7" fill="#182b32"/>
+<text x="60" y="519" fill="#80decb" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="28" font-weight="400">SOFTWARE ENGINEERING</text>
+<rect x="420" y="486" width="160" height="48" rx="7" fill="#182b32"/>
+<text x="434" y="519" fill="#80decb" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="28" font-weight="400">DEVOPS</text>
+<text x="46" y="563" fill="#a5b5c1" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="28" font-weight="400">WEB / MOBILE / AI / PLATFORM</text>
+<rect x="46" y="573" width="628" height="1" rx="0" fill="#2b3a45"/>
+<text x="46" y="622" fill="#80decb" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="28" font-weight="400">$</text>
+<text x="74" y="622" fill="#a5b5c1" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="28" font-weight="400">git commit -m &quot;keep learning&quot;</text>
+<text x="46" y="687" fill="#a5b5c1" font-family="Consolas, DejaVu Sans Mono, monospace" font-size="28" font-weight="400">JASONTM17  ·  GITHUB</text>
+</svg>

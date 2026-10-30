@@ -1,6 +1,7 @@
-import { readFile, writeFile } from "node:fs/promises";
+import { mkdir, readFile, rm, writeFile } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
+import { fetchPinnedRepositories, PIN_LIMIT, pinAssetName, renderPinnedAssets, renderPinnedProjects } from "./pinned-projects.mjs";
 
 const OWNER = "JasonTM17";
 const API_VERSION = "2026-03-10";
@@ -168,25 +169,25 @@ export function renderProjectBadges(repositories) {
 </p>`;
 }
 
-export function renderProjectStats(repositories) {
+export function renderProjectStats(repositories, pins = []) {
   return `<p align="center">
   <strong>${repositories.length}</strong> public projects &nbsp;&middot;&nbsp;
-  <strong>4</strong> project focus areas &nbsp;&middot;&nbsp;
+  <strong>${pins.length}</strong> pinned projects &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>`;
 }
 
-export function renderProjectArchive(repositories) {
+export function renderProjectArchive(repositories, pins = []) {
   const count = repositories.length;
-  const recentRepositories = repositories.slice(0, 5);
+  const pinnedUrls = new Set(pins.map(pin => pin.href.toLowerCase()));
+  const recentRepositories = repositories.filter(repository => !pinnedUrls.has(repository.href.toLowerCase())).slice(0, 5);
+  const recentSection = recentRepositories.length
+    ? `### Recently Updated\n\n${recentProjectList(recentRepositories)}\n\n`
+    : "";
 
   return `Explore **${count} public projects** across product engineering, mobile development, applied AI, and platform delivery.
 
-### Recently Updated
-
-${recentProjectList(recentRepositories)}
-
-<details>
+${recentSection}<details>
   <summary><strong>Browse All ${count} Projects</strong></summary>
 
 ${projectIndexTable(repositories)}
@@ -217,12 +218,13 @@ export function replaceManagedSection(source, name, body) {
   return `${before}\n${body.trim()}\n${after}`;
 }
 
-export function applyRepositorySnapshot(readme, repositories) {
+export function applyRepositorySnapshot(readme, repositories, pins = []) {
   if (!repositories.length) throw new Error("Refusing to replace the profile archive with an empty snapshot.");
 
   const withBadges = replaceManagedSection(readme, "PROJECT_BADGES", renderProjectBadges(repositories));
-  const withStats = replaceManagedSection(withBadges, "PROJECT_STATS", renderProjectStats(repositories));
-  return replaceManagedSection(withStats, "PROJECT_ARCHIVE", renderProjectArchive(repositories));
+  const withStats = replaceManagedSection(withBadges, "PROJECT_STATS", renderProjectStats(repositories, pins));
+  const withPins = replaceManagedSection(withStats, "PINNED_PROJECTS", renderPinnedProjects(pins));
+  return replaceManagedSection(withPins, "PROJECT_ARCHIVE", renderProjectArchive(repositories, pins));
 }
 
 export async function fetchPublicRepositories({ fetchImpl = fetch, token = process.env.GH_TOKEN } = {}) {
@@ -260,18 +262,39 @@ export async function fetchPublicRepositories({ fetchImpl = fetch, token = proce
   return normalizeRepositories(payload);
 }
 
-export async function synchronizeReadme() {
-  const repositories = await fetchPublicRepositories();
-  const currentReadme = await readFile(README_PATH, "utf8");
-  const nextReadme = applyRepositorySnapshot(currentReadme, repositories);
+export async function synchronizeReadme({ fetchImpl = fetch, token = process.env.GH_TOKEN, readmePath = README_PATH, assetsDirectory = path.join(ROOT_DIRECTORY, "assets", "pinned") } = {}) {
+  // Resolve and validate both snapshots before any local writes. Partial GraphQL data is never published.
+  const [repositories, pins] = await Promise.all([
+    fetchPublicRepositories({ fetchImpl, token }), fetchPinnedRepositories({ fetchImpl, token }),
+  ]);
+  const currentReadme = await readFile(readmePath, "utf8");
+  const nextReadme = applyRepositorySnapshot(currentReadme, repositories, pins);
+  const assets = renderPinnedAssets(pins);
+  await mkdir(assetsDirectory, { recursive: true });
+  let assetsChanged = false;
+  for (const [name, svg] of assets) {
+    const assetPath = path.join(assetsDirectory, name);
+    const existing = await readFile(assetPath, "utf8").catch(error => { if (error.code === "ENOENT") return null; throw error; });
+    if (existing !== svg) {
+      await writeFile(assetPath, svg, "utf8");
+      assetsChanged = true;
+    }
+  }
+  for (let slot = pins.length+1; slot <= PIN_LIMIT; slot += 1) {
+    for (const theme of ["dark", "light"]) for (const mobile of [false, true]) {
+      const stalePath = path.join(assetsDirectory, pinAssetName(slot, theme, mobile));
+      try { await rm(stalePath); assetsChanged = true; }
+      catch (error) { if (error.code !== "ENOENT") throw error; }
+    }
+  }
 
-  if (nextReadme === currentReadme) {
-    console.log(`Profile archive already matches ${repositories.length} public learning projects.`);
+  if (nextReadme === currentReadme && !assetsChanged) {
+    console.log(`Profile already matches ${repositories.length} public projects and ${pins.length} pins.`);
     return false;
   }
 
-  await writeFile(README_PATH, nextReadme, "utf8");
-  console.log(`Updated profile archive with ${repositories.length} public learning projects.`);
+  if (nextReadme !== currentReadme) await writeFile(readmePath, nextReadme, "utf8");
+  console.log(`Updated profile with ${repositories.length} public projects and ${pins.length} pins.`);
   return true;
 }
 

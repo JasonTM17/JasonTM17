@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 262" role="img" aria-labelledby="title desc">
+<title id="title">JasonTM17/JobHunter_SpringBoot_RestfulAPI_React</title>
+<desc id="desc">IT recruitment learning project built with Spring Boot, Next.js, MySQL, Docker, RBAC, end-to-end tests, and visual regression. Main language: TypeScript.</desc>
+<rect x="1" y="1" width="638" height="260" rx="16" fill="#0d151c" stroke="#2b3a45"/>
+<g font-family="Segoe UI, DejaVu Sans, sans-serif">
+<text x="26" y="49" fill="#80decb" font-size="22" font-weight="400">03</text>
+<text x="72" y="50" fill="#ecf2f5" font-size="30" font-weight="600">JobHunter SpringBoot</text>
+<text x="72" y="86" fill="#ecf2f5" font-size="30" font-weight="600">RestfulAPI React</text>
+<text x="26" y="123" fill="#a5b5c1" font-size="26" font-weight="400">IT recruitment learning project built</text>
+<text x="26" y="155" fill="#a5b5c1" font-size="26" font-weight="400">with Spring Boot, Next.js, MySQL, …</text>
+<text x="26" y="227" fill="#80decb" font-size="26" font-weight="400">TypeScript</text>
+
+</g>
+</svg>

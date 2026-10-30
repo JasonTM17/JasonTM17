@@ -1,8 +1,9 @@
-name: Sync public project archive
+name: Sync pinned projects and portfolio
 
 on:
   schedule:
-    - cron: "23,53 * * * *"
+    # GitHub's minimum interval; scheduled runs can be delayed.
+    - cron: "3-58/5 * * * *"
   workflow_dispatch:
 
 permissions:
@@ -14,7 +15,7 @@ concurrency:
 
 jobs:
   sync:
-    name: Refresh README from public GitHub projects
+    name: Refresh profile from current GitHub pins and public projects
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
@@ -28,7 +29,7 @@ jobs:
           package-manager-cache: false
 
       - name: Test the project synchronizer
-        run: node --test scripts/sync-public-projects.test.mjs
+        run: node --test scripts/*.test.mjs
 
       - name: Refresh managed README sections
         run: node scripts/sync-public-projects.mjs
@@ -42,11 +43,16 @@ jobs:
           last_commit="$(git log -1 --format=%ct)"
           age_days="$(( (now - last_commit) / 86400 ))"
 
-          if ! git diff --quiet -- README.md; then
+          git add -- README.md
+          # Also stage deletions when the last pin is removed, but tolerate a
+          # later checkout with no tracked cards and a valid empty selection.
+          if git ls-files --error-unmatch 'assets/pinned/*.svg' > /dev/null 2>&1 || compgen -G 'assets/pinned/*.svg' > /dev/null; then
+            git add -A -- assets/pinned/
+          fi
+          if ! git diff --cached --quiet; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add README.md
-            git commit -m "feat(profile): sync public project archive"
+            git commit -m "feat(profile): sync pinned projects and portfolio"
           elif (( age_days >= 45 )); then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
