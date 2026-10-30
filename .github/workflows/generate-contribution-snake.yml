@@ -10,6 +10,8 @@ on:
     paths:
       - "README.md"
       - ".github/workflows/generate-contribution-snake.yml"
+      - "scripts/style-contribution-snake.mjs"
+      - "scripts/style-contribution-snake.test.mjs"
 
 permissions:
   contents: write
@@ -24,16 +26,31 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Check out profile styling
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
+
+      - name: Use Node.js
+        uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6.5.0
+        with:
+          node-version: 22
+          package-manager-cache: false
+
+      - name: Test contribution styling
+        run: node --test scripts/style-contribution-snake.test.mjs
+
       - name: Generate animated contribution SVGs
-        uses: Platane/snk/svg-only@v3.5.0
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
         with:
           github_user_name: JasonTM17
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Apply profile theme and reduced-motion alternatives
+        run: node scripts/style-contribution-snake.mjs dist
+
       - name: Publish SVGs to the output branch
-        uses: crazy-max/ghaction-github-pages@v5.0.0
+        uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
         with:
           target_branch: output
           build_dir: dist

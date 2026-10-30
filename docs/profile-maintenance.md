@@ -40,3 +40,11 @@ The original imagegen artwork and prompt are preserved in [assets/pixel-companio
 The chat preview lives in the ordinary project folder `work/readme-preview/`. On this installation, the default visualization directory is a Windows junction; the installed reader rejects link ancestors, and its resolved storage location is outside this project's permitted roots. Keeping the fragment in the workspace fixes the read boundary without changing the installed app, security checks, or signed skill bundle. A real variant-selection event from that workspace path confirmed chat loading.
 
 Local generation and tests do not mean the profile has been published. A commit/push and a successful workflow run must be observed separately before claiming live synchronization.
+
+## Contribution animation
+
+The existing contribution workflow uses pinned Platane snk v3.5.0 to retrieve the real GitHub calendar and generate the snake path. `scripts/style-contribution-snake.mjs` preserves those cells/keyframes and adds the profile's mint palette, rounded surface and a thinner collection indicator. Light/dark static SVGs keep the initial calendar visible and hide moving elements for reduced motion.
+
+The four SVGs are regenerated on the existing daily schedule, on relevant default-branch pushes, or with **Actions → Update contribution animation → Run workflow**. They are published to the existing `output` branch. Contribution snapshots are separate from the five-minute pinned-project sync and are not real-time activity counters.
+
+Local styling checks: `node --test scripts/style-contribution-snake.test.mjs`. After generating fresh upstream files, run `node scripts/style-contribution-snake.mjs dist` before publication. The formatter intentionally rejects unsupported or already-styled SVG inputs.

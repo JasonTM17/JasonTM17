@@ -51,14 +51,14 @@
 </p>
 <!-- AUTO:PROJECT_STATS:END -->
 
-## What I'm Learning to Build
+## Engineering Focus
 
-These focus areas reflect the systems I am actively studying, designing, and building.
+My projects connect application development, applied AI, and cloud delivery, with a focus on how each part works within the wider system.
 
-- <strong>Connected product experiences</strong> &mdash; web, mobile, admin, and API surfaces that solve one workflow together.
-- <strong>Real-time operations</strong> &mdash; delivery, ride-hailing, location-aware, and back-office systems.
-- <strong>Applied AI</strong> &mdash; trip planning, computer vision, algorithm visualisation, and hardware/software bridges.
-- <strong>Platform-minded delivery</strong> &mdash; containers, CI, observability, cloud infrastructure, and developer portals.
+- **Product Engineering** — Web and mobile applications, backend services, and APIs designed around practical user workflows.
+- **Real-Time Systems** — Delivery, messaging, and location-aware features, with attention to state consistency and timely updates.
+- **Applied AI** — Trip planning, computer vision, and retrieval-assisted features integrated into usable applications.
+- **Cloud & DevOps** — Containerized environments, CI/CD pipelines, observability, and infrastructure as code.
 
 ## Selected Projects
 
@@ -219,11 +219,15 @@ Explore **51 public projects** across product engineering, mobile development, a
 </details>
 <!-- AUTO:PROJECT_ARCHIVE:END -->
 
-## GitHub Activity
+## Contribution Activity
+
+A year of building, learning, and improving projects in public.
 
 <p align="center">
   <a href="https://github.com/JasonTM17?tab=overview">
     <picture>
+      <source media="(prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/JasonTM17/JasonTM17/output/github-contribution-grid-snake-dark-static.svg" />
+      <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/JasonTM17/JasonTM17/output/github-contribution-grid-snake-static.svg" />
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JasonTM17/JasonTM17/output/github-contribution-grid-snake-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JasonTM17/JasonTM17/output/github-contribution-grid-snake.svg" />
       <img alt="Animated contribution grid for Nguyen Son" src="https://raw.githubusercontent.com/JasonTM17/JasonTM17/output/github-contribution-grid-snake.svg" width="100%" />
