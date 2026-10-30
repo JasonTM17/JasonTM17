@@ -57,6 +57,59 @@ test("every snake segment stays inside the matrix throughout the complete loop",
   }
 });
 
+test("movement turns through the interior instead of scanning rows", () => {
+  const head = movementFrames(styleContributionSnake(matrixFixture()),0);
+  const verticalColumns = new Set(head.slice(1).flatMap((b,index) => {
+    const a = head[index];
+    return a.x === b.x && a.y !== b.y && a.x > 0 && a.x < 52*16 ? [a.x] : [];
+  }));
+  assert.ok(verticalColumns.size >= 26, `varied interior turns expected, found ${verticalColumns.size} columns`);
+});
+
+test("calendar-seeded paths are repeatable across themes and vary with the data", () => {
+  const source = matrixFixture();
+  const light = styleContributionSnake(source), dark = styleContributionSnake(source,{theme:"dark"});
+  assert.equal(styleContributionSnake(source),light);
+  for (let index = 0; index < 4; index++) assert.deepEqual(movementFrames(light,index),movementFrames(dark,index));
+  const changed = styleContributionSnake(source.replace('fill:var(--c3)','fill:var(--c4)'));
+  assert.notDeepEqual(movementFrames(light,0),movementFrames(changed,0));
+});
+
+test("all four segments occupy legal distinct cells at every tick for multiple seeds", () => {
+  for (const columns of [53,54]) for (const level of [1,2,3,4]) {
+    const svg = styleContributionSnake(matrixFixture(columns).replace('fill:var(--c3)',`fill:var(--c${level})`));
+    assertContained(svg);
+    const paths = Array.from({length:4}, (_,index) => movementFrames(svg,index));
+    const length = paths[0].slice(1).reduce((sum,b,index) => sum+(Math.abs(b.x-paths[0][index].x)+Math.abs(b.y-paths[0][index].y))/16,0);
+    assert.equal(Number(svg.match(/\.c,\.s\{animation-duration:(\d+)ms\}/)?.[1]),length*160,"longer paths keep the same speed per cell");
+    for (let step = 0; step < length; step++) {
+      const cells = paths.map(path => {
+        const point = positionAt(path,step/length*100);
+        const x = Math.round(point.x/16), y = Math.round(point.y/16);
+        assert.ok(Math.hypot(point.x-x*16,point.y-y*16) < 0.001,"every tick lands on a grid cell");
+        return `${x},${y}`;
+      });
+      assert.equal(new Set(cells).size,4,`no head/body collision at tick ${step}`);
+    }
+  }
+});
+
+test("partial weeks never send the head or body into an absent calendar cell", () => {
+  const source = matrixFixture().replace(/<rect class="c c1"[^>]+\/>/,'')
+    .replace('<rect class="c" x="834" y="98" width="12" height="12"/>','');
+  const svg = styleContributionSnake(source);
+  const paths = Array.from({length:4}, (_,index) => movementFrames(svg,index));
+  const length = paths[0].slice(1).reduce((sum,b,index) => sum+(Math.abs(b.x-paths[0][index].x)+Math.abs(b.y-paths[0][index].y))/16,0);
+  const visited = new Set();
+  for (let step = 0; step < length; step++) for (const [index,path] of paths.entries()) {
+    const point = positionAt(path,step/length*100);
+    const cell = `${Math.round(point.x/16)},${Math.round(point.y/16)}`;
+    assert.ok(cell !== '0,0' && cell !== '52,6',`absent cell ${cell} must never be visited`);
+    if (!index) visited.add(cell);
+  }
+  assert.equal(visited.size,53*7-2);
+});
+
 test("the loop closes continuously and the body follows one shared route", () => {
   for (const [columns,rows] of [[3,2],[5,3],[53,7],[54,7]]) {
     const svg = styleContributionSnake(matrixFixture(columns,rows));
