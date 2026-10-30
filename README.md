@@ -17,7 +17,7 @@
 <!-- AUTO:PROJECT_BADGES:START -->
 <p align="center">
   <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
-  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/51%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 51 public learning-project repositories" /></a>
+  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/52%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 52 public learning-project repositories" /></a>
 </p>
 <!-- AUTO:PROJECT_BADGES:END -->
 
@@ -45,7 +45,7 @@
 
 <!-- AUTO:PROJECT_STATS:START -->
 <p align="center">
-  <strong>51</strong> public projects &nbsp;&middot;&nbsp;
+  <strong>52</strong> public projects &nbsp;&middot;&nbsp;
   <strong>6</strong> pinned projects &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>
@@ -135,9 +135,13 @@ A closer look at the repositories I currently pin on my GitHub profile.
 ## Project Portfolio
 
 <!-- AUTO:PROJECT_ARCHIVE:START -->
-Explore **51 public projects** across product engineering, mobile development, applied AI, and platform delivery.
+Explore **52 public projects** across product engineering, mobile development, applied AI, and platform delivery.
 
 ### Recently Updated
+
+- **[All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday)** · TypeScript · 2026-10-30
+
+  Ngày Lễ Việt: landing page cho mọi ngày lễ Việt Nam và ngày của phụ nữ, kèm thiệp sinh nhật cá nhân hóa. Next.js + Tailwind, static export.
 
 - **[CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem)** · Java · 2026-10-30
 
@@ -155,15 +159,12 @@ Explore **51 public projects** across product engineering, mobile development, a
 
   Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
 
-- **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-10-28
-
-  A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
-
 <details>
-  <summary><strong>Browse All 51 Projects</strong></summary>
+  <summary><strong>Browse All 52 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday) | TypeScript | 2026-10-30 |
 | [CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem) | Java | 2026-10-30 |
 | [Ecommerce BookStore NodeJS](https://github.com/JasonTM17/Ecommerce_BookStore_NodeJS) | TypeScript | 2026-10-30 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-10-30 |
