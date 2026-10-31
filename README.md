@@ -147,6 +147,10 @@ Explore **52 public projects** across product engineering, mobile development, a
 
   Ngày Lễ Việt — 26 landing page cho mọi ngày lễ VN &amp; quốc tế: đọc một trang hiểu trọn ngày lễ. Lịch năm âm-dương + .ics, tìm kiếm Ctrl+K, tạo thiệp PNG, thiệp sinh nhật, gợi ý lời…
 
+- **[LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot)** · Python · 2026-10-31
+
+  Personal Telegram assistant for public Locket links, safety checklists, SQLite usage tracking, and optional NextDNS setup.
+
 - **[OpsMind AI](https://github.com/JasonTM17/OpsMind_AI)** · Java · 2026-10-31
 
   Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
@@ -159,16 +163,13 @@ Explore **52 public projects** across product engineering, mobile development, a
 
   University academic platform for course enrollment, timetables, grades, thesis management and RAG assistance, built with Spring Boot, Next.js and PostgreSQL.
 
-- **[Ecommerce BookStore NodeJS](https://github.com/JasonTM17/Ecommerce_BookStore_NodeJS)** · TypeScript · 2026-10-30
-
-  Book commerce portfolio built with NestJS, Next.js and PostgreSQL. Live demo, authenticated checkout, admin dashboard, production screenshots and walkthrough.
-
 <details>
   <summary><strong>Browse All 52 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday) | TypeScript | 2026-10-31 |
+| [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-31 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-10-31 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-31 |
 | [CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem) | Java | 2026-10-30 |
@@ -180,7 +181,6 @@ Explore **52 public projects** across product engineering, mobile development, a
 | [Uptime Monitoring Platform](https://github.com/JasonTM17/Uptime-Monitoring-Platform) | Go | 2026-10-28 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-26 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-10-24 |
-| [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-24 |
 | [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-23 |
 | [Security Lab Study](https://github.com/JasonTM17/Security_Lab_Study) | JavaScript | 2026-10-21 |
 | [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | Dart | 2026-10-20 |
