@@ -22,6 +22,10 @@
 <!-- AUTO:PROJECT_BADGES:END -->
 
 <p align="center">
+  Email: <a href="mailto:jasonbmt06@gmail.com">jasonbmt06@gmail.com</a>
+</p>
+
+<p align="center">
   <picture>
     <source media="(max-width: 600px) and (prefers-color-scheme: dark) and (prefers-reduced-motion: reduce)" srcset="./assets/nguyen-son-terminal-dark-mobile.svg" />
     <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="./assets/nguyen-son-terminal-light-mobile.svg" />
@@ -145,7 +149,7 @@ Explore **52 public projects** across product engineering, mobile development, a
 
 - **[CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem)** · Java · 2026-10-30
 
-  An early-stage learning project currently taking shape.
+  University academic platform for course enrollment, timetables, grades, thesis management and RAG assistance, built with Spring Boot, Next.js and PostgreSQL.
 
 - **[Ecommerce BookStore NodeJS](https://github.com/JasonTM17/Ecommerce_BookStore_NodeJS)** · TypeScript · 2026-10-30
 
