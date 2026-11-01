@@ -143,9 +143,17 @@ Explore **52 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
-- **[All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday)** · TypeScript · 2026-10-31
+- **[All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday)** · TypeScript · 2026-11-01
 
   Ngày Lễ Việt — 26 landing page cho mọi ngày lễ VN &amp; quốc tế: đọc một trang hiểu trọn ngày lễ. Lịch năm âm-dương + .ics, tìm kiếm Ctrl+K, tạo thiệp PNG, thiệp sinh nhật, gợi ý lời…
+
+- **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-11-01
+
+  Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
+
+- **[Nexora](https://github.com/JasonTM17/Nexora)** · Java · 2026-11-01
+
+  Nexora — tenant-aware CMS + knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, private Realtime, secure RAG, feature flags, analytics,…
 
 - **[LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot)** · Python · 2026-10-31
 
@@ -155,20 +163,14 @@ Explore **52 public projects** across product engineering, mobile development, a
 
   Evidence-first AI SRE/DevSecOps platform for traceable incident investigation, policy-gated remediation, tenant isolation, and measurable reliability.
 
-- **[PipeForge](https://github.com/JasonTM17/PipeForge)** · Go · 2026-10-31
-
-  Distributed data-processing platform with a Go control plane, Python workers, RabbitMQ, PostgreSQL, and MinIO.
-
-- **[CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem)** · Java · 2026-10-30
-
-  University academic platform for course enrollment, timetables, grades, thesis management and RAG assistance, built with Spring Boot, Next.js and PostgreSQL.
-
 <details>
   <summary><strong>Browse All 52 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
-| [All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday) | TypeScript | 2026-10-31 |
+| [All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday) | TypeScript | 2026-11-01 |
+| [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-11-01 |
+| [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-11-01 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-31 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-10-31 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-31 |
@@ -184,9 +186,7 @@ Explore **52 public projects** across product engineering, mobile development, a
 | [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-10-23 |
 | [Security Lab Study](https://github.com/JasonTM17/Security_Lab_Study) | JavaScript | 2026-10-21 |
 | [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | Dart | 2026-10-20 |
-| [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-10-18 |
 | [Willowmere Game Indie Relax](https://github.com/JasonTM17/Willowmere_Game_Indie_Relax) | JavaScript | 2026-10-16 |
-| [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-10-12 |
 | [RepoMedic AI](https://github.com/JasonTM17/RepoMedic_AI) | TypeScript | 2026-10-08 |
 | [DevHire Cloud](https://github.com/JasonTM17/DevHire_Cloud_Spring_Microservices) | Java | 2026-10-05 |
 | [Minecraft Adventure](https://github.com/JasonTM17/Minecraft_Adventure) | TypeScript | 2026-09-28 |
