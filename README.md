@@ -143,37 +143,37 @@ Explore **53 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday)** · TypeScript · 2026-11-02
+
+  Ngày Lễ Việt — 26 landing page cho mọi ngày lễ VN &amp; quốc tế: đọc một trang hiểu trọn ngày lễ. Lịch năm âm-dương + .ics, tìm kiếm Ctrl+K, tạo thiệp PNG, thiệp sinh nhật, gợi ý lời…
+
+- **[Nexora](https://github.com/JasonTM17/Nexora)** · Java · 2026-11-02
+
+  Nexora — tenant-aware CMS + knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, private Realtime, secure RAG, feature flags, analytics,…
+
+- **[Zombieeee Gun Game](https://github.com/JasonTM17/Zombieeee_Gun_Game)** · JavaScript · 2026-11-02
+
+  An early-stage learning project currently taking shape.
+
 - **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-11-01
 
   Enterprise agriculture analytics with Next.js, Spring Boot, FastAPI, PostgreSQL, OIDC/RLS, Bronze-Silver-Gold pipelines, Kafka real-time, and scoped DeepSeek RAG.
 
-- **[All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday)** · TypeScript · 2026-11-01
-
-  Ngày Lễ Việt — 26 landing page cho mọi ngày lễ VN &amp; quốc tế: đọc một trang hiểu trọn ngày lễ. Lịch năm âm-dương + .ics, tìm kiếm Ctrl+K, tạo thiệp PNG, thiệp sinh nhật, gợi ý lời…
-
 - **[Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp)** · TypeScript · 2026-11-01
 
   Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
-
-- **[Nexora](https://github.com/JasonTM17/Nexora)** · Java · 2026-11-01
-
-  Nexora — tenant-aware CMS + knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, private Realtime, secure RAG, feature flags, analytics,…
-
-- **[Zombieeee Gun Game](https://github.com/JasonTM17/Zombieeee_Gun_Game)** · JavaScript · 2026-11-01
-
-  An early-stage learning project currently taking shape.
 
 <details>
   <summary><strong>Browse All 53 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday) | TypeScript | 2026-11-02 |
+| [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-11-02 |
+| [Zombieeee Gun Game](https://github.com/JasonTM17/Zombieeee_Gun_Game) | JavaScript | 2026-11-02 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-11-01 |
-| [All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday) | TypeScript | 2026-11-01 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-11-01 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-11-01 |
-| [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-11-01 |
-| [Zombieeee Gun Game](https://github.com/JasonTM17/Zombieeee_Gun_Game) | JavaScript | 2026-11-01 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-31 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-10-31 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-31 |
