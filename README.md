@@ -17,7 +17,7 @@
 <!-- AUTO:PROJECT_BADGES:START -->
 <p align="center">
   <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
-  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/53%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 53 public learning-project repositories" /></a>
+  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/54%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 54 public learning-project repositories" /></a>
 </p>
 <!-- AUTO:PROJECT_BADGES:END -->
 
@@ -49,7 +49,7 @@
 
 <!-- AUTO:PROJECT_STATS:START -->
 <p align="center">
-  <strong>53</strong> public projects &nbsp;&middot;&nbsp;
+  <strong>54</strong> public projects &nbsp;&middot;&nbsp;
   <strong>6</strong> pinned projects &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>
@@ -139,7 +139,7 @@ A closer look at the repositories I currently pin on my GitHub profile.
 ## Project Portfolio
 
 <!-- AUTO:PROJECT_ARCHIVE:START -->
-Explore **53 public projects** across product engineering, mobile development, applied AI, and platform delivery.
+Explore **54 public projects** across product engineering, mobile development, applied AI, and platform delivery.
 
 ### Recently Updated
 
@@ -151,6 +151,10 @@ Explore **53 public projects** across product engineering, mobile development, a
 
   Vietnamese-first AI language learning platform for Japanese, Chinese and Korean — web, Expo mobile, and server-evaluated learning flows
 
+- **[ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics)** · Python · 2026-11-03
+
+  An early-stage learning project currently taking shape.
+
 - **[WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm)** · Python · 2026-11-03
 
   Đồ án AWS Serverless Tuần 1–4 của sinh viên Tiến Sơn và sinh viên Ngọc Quyên: thời tiết/AQI, CloudFormation triển khai thực tế, Athena Projection/Parquet, backtest ba cửa sổ,…
@@ -159,17 +163,14 @@ Explore **53 public projects** across product engineering, mobile development, a
 
   Zombie survival FPS in the browser — 7 quarantined districts, 12 guns, story missions, boss rush, dynamic weather and account cloud saves. Three.js + Vite, no framework.
 
-- **[All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday)** · TypeScript · 2026-11-02
-
-  Ngày Lễ Việt — 26 landing page cho mọi ngày lễ VN &amp; quốc tế: đọc một trang hiểu trọn ngày lễ. Lịch năm âm-dương + .ics, tìm kiếm Ctrl+K, tạo thiệp PNG, thiệp sinh nhật, gợi ý lời…
-
 <details>
-  <summary><strong>Browse All 53 Projects</strong></summary>
+  <summary><strong>Browse All 54 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem) | Java | 2026-11-03 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-11-03 |
+| [ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics) | Python | 2026-11-03 |
 | [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-11-03 |
 | [Zombieeee Gun Game](https://github.com/JasonTM17/Zombieeee_Gun_Game) | JavaScript | 2026-11-03 |
 | [All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday) | TypeScript | 2026-11-02 |
