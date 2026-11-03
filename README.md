@@ -143,6 +143,10 @@ Explore **53 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[Zombieeee Gun Game](https://github.com/JasonTM17/Zombieeee_Gun_Game)** · JavaScript · 2026-11-03
+
+  Zombie survival FPS in the browser — 7 quarantined districts, 12 guns, story missions, boss rush, dynamic weather and account cloud saves. Three.js + Vite, no framework.
+
 - **[All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday)** · TypeScript · 2026-11-02
 
   Ngày Lễ Việt — 26 landing page cho mọi ngày lễ VN &amp; quốc tế: đọc một trang hiểu trọn ngày lễ. Lịch năm âm-dương + .ics, tìm kiếm Ctrl+K, tạo thiệp PNG, thiệp sinh nhật, gợi ý lời…
@@ -150,10 +154,6 @@ Explore **53 public projects** across product engineering, mobile development, a
 - **[Nexora](https://github.com/JasonTM17/Nexora)** · Java · 2026-11-02
 
   Nexora — tenant-aware CMS + knowledge workspace: schema-driven publishing, transactional outbox, NATS JetStream events, private Realtime, secure RAG, feature flags, analytics,…
-
-- **[Zombieeee Gun Game](https://github.com/JasonTM17/Zombieeee_Gun_Game)** · JavaScript · 2026-11-02
-
-  An early-stage learning project currently taking shape.
 
 - **[AgriInsight](https://github.com/JasonTM17/AgriInsight)** · Java · 2026-11-01
 
@@ -168,9 +168,9 @@ Explore **53 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [Zombieeee Gun Game](https://github.com/JasonTM17/Zombieeee_Gun_Game) | JavaScript | 2026-11-03 |
 | [All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday) | TypeScript | 2026-11-02 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-11-02 |
-| [Zombieeee Gun Game](https://github.com/JasonTM17/Zombieeee_Gun_Game) | JavaScript | 2026-11-02 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-11-01 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-11-01 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-11-01 |
