@@ -173,6 +173,7 @@ Explore **57 public projects** across product engineering, mobile development, a
 | [ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics) | Python | 2026-11-04 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-11-04 |
 | [Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ) | Java | 2026-11-04 |
+| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-11-04 |
 | [VinCar EcommerceJSTS](https://github.com/JasonTM17/VinCar_EcommerceJSTS) | TypeScript | 2026-11-04 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-11-03 |
 | [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-11-03 |
@@ -182,7 +183,6 @@ Explore **57 public projects** across product engineering, mobile development, a
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-11-01 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-11-01 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-31 |
-| [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-10-31 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-31 |
 | [Ecommerce BookStore NodeJS](https://github.com/JasonTM17/Ecommerce_BookStore_NodeJS) | TypeScript | 2026-10-30 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-10-30 |
