@@ -151,15 +151,15 @@ Explore **57 public projects** across product engineering, mobile development, a
 
   FoodFlow delivery demo: NestJS API, four Next.js web roles, Flutter apps, PostgreSQL/PostGIS, Redis/BullMQ and Supabase Realtime. Production screenshots and walkthroughs.
 
-- **[VinCar EcommerceJSTS](https://github.com/JasonTM17/VinCar_EcommerceJSTS)** · TypeScript · 2026-11-05
-
-  An early-stage learning project currently taking shape.
-
-- **[Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology)** · Jupyter Notebook · 2026-11-04
+- **[Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology)** · Jupyter Notebook · 2026-11-05
 
   Machine Learning course project - STING grid-based clustering on Vietnam PAPI data 2011-2024 (Topic 6, Sociology-History). From-scratch STING, k-means/DBSCAN baselines, 2024…
 
-- **[ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics)** · Python · 2026-11-04
+- **[ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics)** · Python · 2026-11-05
+
+  An early-stage learning project currently taking shape.
+
+- **[VinCar EcommerceJSTS](https://github.com/JasonTM17/VinCar_EcommerceJSTS)** · TypeScript · 2026-11-05
 
   An early-stage learning project currently taking shape.
 
@@ -170,9 +170,9 @@ Explore **57 public projects** across product engineering, mobile development, a
 | --- | --- | --- |
 | [CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem) | Java | 2026-11-05 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-11-05 |
+| [Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology) | Jupyter Notebook | 2026-11-05 |
+| [ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics) | Python | 2026-11-05 |
 | [VinCar EcommerceJSTS](https://github.com/JasonTM17/VinCar_EcommerceJSTS) | TypeScript | 2026-11-05 |
-| [Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology) | Jupyter Notebook | 2026-11-04 |
-| [ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics) | Python | 2026-11-04 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-11-04 |
 | [Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ) | Java | 2026-11-04 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-11-04 |
