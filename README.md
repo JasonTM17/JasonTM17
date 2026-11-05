@@ -143,9 +143,13 @@ Explore **57 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
-- **[CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem)** · Java · 2026-11-04
+- **[CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem)** · Java · 2026-11-05
 
   University academic platform for course enrollment, timetables, grades, thesis management and RAG assistance, built with Spring Boot, Next.js and PostgreSQL.
+
+- **[VinCar EcommerceJSTS](https://github.com/JasonTM17/VinCar_EcommerceJSTS)** · TypeScript · 2026-11-05
+
+  An early-stage learning project currently taking shape.
 
 - **[Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology)** · Jupyter Notebook · 2026-11-04
 
@@ -159,22 +163,18 @@ Explore **57 public projects** across product engineering, mobile development, a
 
   A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
 
-- **[Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ)** · Java · 2026-11-04
-
-  An early-stage learning project currently taking shape.
-
 <details>
   <summary><strong>Browse All 57 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
-| [CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem) | Java | 2026-11-04 |
+| [CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem) | Java | 2026-11-05 |
+| [VinCar EcommerceJSTS](https://github.com/JasonTM17/VinCar_EcommerceJSTS) | TypeScript | 2026-11-05 |
 | [Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology) | Jupyter Notebook | 2026-11-04 |
 | [ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics) | Python | 2026-11-04 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-11-04 |
 | [Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ) | Java | 2026-11-04 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-11-04 |
-| [VinCar EcommerceJSTS](https://github.com/JasonTM17/VinCar_EcommerceJSTS) | TypeScript | 2026-11-04 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-11-03 |
 | [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-11-03 |
 | [Zombieeee Gun Game](https://github.com/JasonTM17/Zombieeee_Gun_Game) | JavaScript | 2026-11-03 |
