@@ -155,13 +155,13 @@ Explore **57 public projects** across product engineering, mobile development, a
 
   An early-stage learning project currently taking shape.
 
+- **[Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ)** · Java · 2026-11-06
+
+  An early-stage learning project currently taking shape.
+
 - **[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App)** · TypeScript · 2026-11-05
 
   FoodFlow delivery demo: NestJS API, four Next.js web roles, Flutter apps, PostgreSQL/PostGIS, Redis/BullMQ and Supabase Realtime. Production screenshots and walkthroughs.
-
-- **[VinCar EcommerceJSTS](https://github.com/JasonTM17/VinCar_EcommerceJSTS)** · TypeScript · 2026-11-05
-
-  An early-stage learning project currently taking shape.
 
 <details>
   <summary><strong>Browse All 57 Projects</strong></summary>
@@ -171,10 +171,10 @@ Explore **57 public projects** across product engineering, mobile development, a
 | [CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem) | Java | 2026-11-06 |
 | [Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology) | Jupyter Notebook | 2026-11-06 |
 | [ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics) | Python | 2026-11-06 |
+| [Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ) | Java | 2026-11-06 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-11-05 |
 | [VinCar EcommerceJSTS](https://github.com/JasonTM17/VinCar_EcommerceJSTS) | TypeScript | 2026-11-05 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-11-04 |
-| [Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ) | Java | 2026-11-04 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-11-04 |
 | [Ideogram LearningApp](https://github.com/JasonTM17/Ideogram_LearningApp) | TypeScript | 2026-11-03 |
 | [WeatherAWS FinalTerm](https://github.com/JasonTM17/WeatherAWS_FinalTerm) | Python | 2026-11-03 |
