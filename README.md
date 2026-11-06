@@ -157,7 +157,7 @@ Explore **57 public projects** across product engineering, mobile development, a
 
 - **[Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ)** · Java · 2026-11-06
 
-  An early-stage learning project currently taking shape.
+  Android messenger (Kotlin/Compose + Java) on a Spring Boot 3 / PostgreSQL backend: real-time direct and group chat over STOMP, attachments, Vietnamese/English UI, 1-to-1 voice…
 
 - **[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App)** · TypeScript · 2026-11-05
 
