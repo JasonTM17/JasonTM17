@@ -143,13 +143,13 @@ Explore **57 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology)** · Jupyter Notebook · 2026-11-08
+
+  Machine Learning course project - STING grid-based clustering on Vietnam PAPI data 2011-2024 (Topic 6, Sociology-History). From-scratch STING, k-means/DBSCAN baselines, 2024…
+
 - **[All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday)** · TypeScript · 2026-11-07
 
   Ngày Lễ Việt — 26 landing page cho mọi ngày lễ VN &amp; quốc tế: đọc một trang hiểu trọn ngày lễ. Lịch năm âm-dương + .ics, tìm kiếm Ctrl+K, tạo thiệp PNG, thiệp sinh nhật, gợi ý lời…
-
-- **[Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology)** · Jupyter Notebook · 2026-11-07
-
-  Machine Learning course project - STING grid-based clustering on Vietnam PAPI data 2011-2024 (Topic 6, Sociology-History). From-scratch STING, k-means/DBSCAN baselines, 2024…
 
 - **[ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics)** · Python · 2026-11-07
 
@@ -168,8 +168,8 @@ Explore **57 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology) | Jupyter Notebook | 2026-11-08 |
 | [All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday) | TypeScript | 2026-11-07 |
-| [Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology) | Jupyter Notebook | 2026-11-07 |
 | [ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics) | Python | 2026-11-07 |
 | [Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ) | Java | 2026-11-07 |
 | [CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem) | Java | 2026-11-06 |
