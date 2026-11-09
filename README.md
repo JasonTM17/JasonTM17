@@ -147,6 +147,10 @@ Explore **57 public projects** across product engineering, mobile development, a
 
   University academic platform for course enrollment, timetables, grades, thesis management and RAG assistance, built with Spring Boot, Next.js and PostgreSQL.
 
+- **[ForgeBase](https://github.com/JasonTM17/ForgeBase)** · Python · 2026-11-09
+
+  Starter templates across 12 languages and 38 starters, with CI, Docker
+
 - **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-11-09
 
   A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
@@ -159,16 +163,13 @@ Explore **57 public projects** across product engineering, mobile development, a
 
   Machine Learning course project - STING grid-based clustering on Vietnam PAPI data 2011-2024 (Topic 6, Sociology-History). From-scratch STING, k-means/DBSCAN baselines, 2024…
 
-- **[All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday)** · TypeScript · 2026-11-07
-
-  Ngày Lễ Việt — 26 landing page cho mọi ngày lễ VN &amp; quốc tế: đọc một trang hiểu trọn ngày lễ. Lịch năm âm-dương + .ics, tìm kiếm Ctrl+K, tạo thiệp PNG, thiệp sinh nhật, gợi ý lời…
-
 <details>
   <summary><strong>Browse All 57 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem) | Java | 2026-11-09 |
+| [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-11-09 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-11-09 |
 | [Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ) | Java | 2026-11-09 |
 | [Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology) | HTML | 2026-11-08 |
@@ -188,7 +189,6 @@ Explore **57 public projects** across product engineering, mobile development, a
 | [Ecommerce BookStore NodeJS](https://github.com/JasonTM17/Ecommerce_BookStore_NodeJS) | TypeScript | 2026-10-30 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-28 |
 | [Uptime Monitoring Platform](https://github.com/JasonTM17/Uptime-Monitoring-Platform) | Go | 2026-10-28 |
-| [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-10-26 |
 | [Security Lab Study](https://github.com/JasonTM17/Security_Lab_Study) | JavaScript | 2026-10-21 |
 | [Farmly Flutter](https://github.com/JasonTM17/Farmly_Flutter) | Dart | 2026-10-20 |
 | [Willowmere Game Indie Relax](https://github.com/JasonTM17/Willowmere_Game_Indie_Relax) | JavaScript | 2026-10-16 |
