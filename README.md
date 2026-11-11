@@ -143,11 +143,11 @@ Explore **57 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
-- **[CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem)** · Java · 2026-11-10
+- **[CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem)** · Java · 2026-11-11
 
   University academic platform for course enrollment, timetables, grades, thesis management and RAG assistance, built with Spring Boot, Next.js and PostgreSQL.
 
-- **[Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ)** · Java · 2026-11-10
+- **[Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ)** · Java · 2026-11-11
 
   Real-time Android messenger (Java 21 LTS, Material 3 XML Views) &amp; Spring Boot 3 / PostgreSQL backend: 1-1 and group chat over STOMP/WebSocket, media sharing, 1-1 voice calls,…
 
@@ -168,8 +168,8 @@ Explore **57 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
-| [CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem) | Java | 2026-11-10 |
-| [Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ) | Java | 2026-11-10 |
+| [CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem) | Java | 2026-11-11 |
+| [Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ) | Java | 2026-11-11 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-11-09 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-11-09 |
 | [Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology) | HTML | 2026-11-08 |
