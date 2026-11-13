@@ -143,6 +143,10 @@ Explore **57 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ)** · Java · 2026-11-13
+
+  Real-time Android messenger (Java 21 LTS, Material 3 XML Views) &amp; Spring Boot 3 / PostgreSQL backend: 1-1 and group chat over STOMP/WebSocket, media sharing, 1-1 voice calls,…
+
 - **[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App)** · TypeScript · 2026-11-12
 
   FoodFlow delivery demo: NestJS API, four Next.js web roles, Flutter apps, PostgreSQL/PostGIS, Redis/BullMQ and Supabase Realtime. Production screenshots and walkthroughs.
@@ -155,10 +159,6 @@ Explore **57 public projects** across product engineering, mobile development, a
 
   Desktop app (Python, PySide6, OpenCV) reporting forensic indications of copy-move and splicing in digital images. Image-processing course project; an indication tool, not a…
 
-- **[Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ)** · Java · 2026-11-12
-
-  Real-time Android messenger (Java 21 LTS, Material 3 XML Views) &amp; Spring Boot 3 / PostgreSQL backend: 1-1 and group chat over STOMP/WebSocket, media sharing, 1-1 voice calls,…
-
 - **[CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem)** · Java · 2026-11-11
 
   University academic platform for course enrollment, timetables, grades, thesis management and RAG assistance, built with Spring Boot, Next.js and PostgreSQL.
@@ -168,10 +168,10 @@ Explore **57 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ) | Java | 2026-11-13 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-11-12 |
 | [Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology) | HTML | 2026-11-12 |
 | [ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics) | Python | 2026-11-12 |
-| [Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ) | Java | 2026-11-12 |
 | [CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem) | Java | 2026-11-11 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-11-11 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-11-09 |
