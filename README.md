@@ -155,13 +155,13 @@ Explore **57 public projects** across product engineering, mobile development, a
 
   Machine Learning course project - STING grid-based clustering on Vietnam PAPI data 2011-2024 (Topic 6, Sociology-History). From-scratch STING, k-means/DBSCAN baselines, 2024…
 
+- **[LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot)** · Python · 2026-11-14
+
+  Personal Telegram assistant for public Locket links, safety checklists, SQLite usage tracking, and optional NextDNS setup.
+
 - **[Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ)** · Java · 2026-11-14
 
   Real-time Android messenger (Java 21 LTS, Material 3 XML Views) &amp; Spring Boot 3 / PostgreSQL backend: 1-1 and group chat over STOMP/WebSocket, media sharing, 1-1 voice calls,…
-
-- **[FoodFlow](https://github.com/JasonTM17/FoodDelivery_App)** · TypeScript · 2026-11-12
-
-  FoodFlow delivery demo: NestJS API, four Next.js web roles, Flutter apps, PostgreSQL/PostGIS, Redis/BullMQ and Supabase Realtime. Production screenshots and walkthroughs.
 
 <details>
   <summary><strong>Browse All 57 Projects</strong></summary>
@@ -171,6 +171,7 @@ Explore **57 public projects** across product engineering, mobile development, a
 | [All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday) | TypeScript | 2026-11-14 |
 | [CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem) | Java | 2026-11-14 |
 | [Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology) | HTML | 2026-11-14 |
+| [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-11-14 |
 | [Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ) | Java | 2026-11-14 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-11-12 |
 | [ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics) | Python | 2026-11-12 |
@@ -184,7 +185,6 @@ Explore **57 public projects** across product engineering, mobile development, a
 | [Zombieeee Gun Game](https://github.com/JasonTM17/Zombieeee_Gun_Game) | JavaScript | 2026-11-03 |
 | [Nexora](https://github.com/JasonTM17/Nexora) | Java | 2026-11-02 |
 | [AgriInsight](https://github.com/JasonTM17/AgriInsight) | Java | 2026-11-01 |
-| [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-10-31 |
 | [PipeForge](https://github.com/JasonTM17/PipeForge) | Go | 2026-10-31 |
 | [Ecommerce BookStore NodeJS](https://github.com/JasonTM17/Ecommerce_BookStore_NodeJS) | TypeScript | 2026-10-30 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-10-28 |
