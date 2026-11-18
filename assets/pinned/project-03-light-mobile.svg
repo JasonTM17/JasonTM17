@@ -2,14 +2,14 @@
 <title id="title">JasonTM17/JobHunter_SpringBoot_RestfulAPI_React</title>
 <desc id="desc">IT recruitment learning project built with Spring Boot, Next.js, MySQL, Docker, RBAC, end-to-end tests, and visual regression. Main language: TypeScript.</desc>
 <rect x="1" y="1" width="638" height="260" rx="16" fill="#eaf5f1" stroke="#7fa99b" stroke-width="2"/>
-<rect x="1" y="18" width="6" height="226" rx="3" fill="#0b5d50"/>
+<rect x="12" y="18" width="5" height="226" rx="3" fill="#0a6ea8"/>
 <g font-family="Segoe UI, DejaVu Sans, sans-serif">
 <text x="26" y="49" fill="#0b5d50" font-size="22" font-weight="400">03</text>
 <text x="72" y="50" fill="#0b1f1c" font-size="30" font-weight="600">JobHunter SpringBoot</text>
 <text x="72" y="86" fill="#0b1f1c" font-size="30" font-weight="600">RestfulAPI React</text>
 <text x="26" y="123" fill="#33504a" font-size="26" font-weight="400">IT recruitment learning project built</text>
 <text x="26" y="155" fill="#33504a" font-size="26" font-weight="400">with Spring Boot, Next.js, MySQL, …</text>
-<text x="26" y="227" fill="#0b5d50" font-size="26" font-weight="400">TypeScript</text>
+<text x="26" y="227" fill="#0a6ea8" font-size="26" font-weight="600">TypeScript</text>
 
 </g>
 </svg>

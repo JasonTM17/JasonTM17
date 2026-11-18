@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
 <title id="title">JasonTM17/Laptopshop_Spring_Boot_MVC</title>
 <desc id="desc">Spring Boot MVC laptop e-commerce learning project with a retail storefront, checkout, admin dashboard, tests, Docker, and CI. Main language: Java.</desc>
-<rect x="1" y="1" width="1198" height="178" rx="16" fill="#152330" stroke="#4b6a7c" stroke-width="2"/>
-<rect x="1" y="18" width="6" height="144" rx="3" fill="#5eead4"/>
+<rect x="1" y="1" width="1198" height="178" rx="16" fill="#161f2a" stroke="#4b6a7c" stroke-width="2"/>
+<rect x="12" y="18" width="5" height="144" rx="3" fill="#ffab70"/>
 <g font-family="Segoe UI, DejaVu Sans, sans-serif">
 <text x="26" y="48" fill="#5eead4" font-size="20" font-weight="400">04</text>
-<text x="80" y="50" fill="#ffffff" font-size="31" font-weight="600">Laptopshop Spring Boot MVC</text>
-<text x="80" y="94" fill="#cbd8e1" font-size="22" font-weight="400">Spring Boot MVC laptop e-commerce learning project with a retail storefront, checkout,</text>
-<text x="80" y="123" fill="#cbd8e1" font-size="22" font-weight="400">admin dashboard, tests, Docker, and CI.</text>
-<text x="80" y="158" fill="#5eead4" font-size="20" font-weight="400">Java</text>
-<text x="860" y="158" fill="#cbd8e1" font-size="17" font-weight="400">JasonTM17/Laptopshop_Spring…</text>
+<text x="80" y="50" fill="#eef4f8" font-size="31" font-weight="600">Laptopshop Spring Boot MVC</text>
+<text x="80" y="94" fill="#c3d1db" font-size="22" font-weight="400">Spring Boot MVC laptop e-commerce learning project with a retail storefront, checkout,</text>
+<text x="80" y="123" fill="#c3d1db" font-size="22" font-weight="400">admin dashboard, tests, Docker, and CI.</text>
+<text x="80" y="158" fill="#ffab70" font-size="20" font-weight="600">Java</text>
+<text x="1174" y="158" fill="#c3d1db" font-size="17" text-anchor="end">Laptopshop_Spring_Boot_MVC</text>
 </g>
 </svg>

@@ -15,7 +15,7 @@ export const PINNED_QUERY = `query ProfilePins($login: String!) {
 }`;
 
 const THEMES = {
-  dark: { bg: "#152330", line: "#4b6a7c", ink: "#ffffff", muted: "#cbd8e1", accent: "#5eead4" },
+  dark: { bg: "#161f2a", line: "#4b6a7c", ink: "#eef4f8", muted: "#c3d1db", accent: "#5eead4" },
   light: { bg: "#eaf5f1", line: "#7fa99b", ink: "#0b1f1c", muted: "#33504a", accent: "#0b5d50" },
 };
 
@@ -47,6 +47,12 @@ function lines(value, limit, count = 2) {
   if (result.length > count) visible[count-1] = compact(visible[count-1] + " …", limit);
   return visible;
 }
+
+// Language colors keep each card distinct; every pair stays readable on its own theme.
+const LANGUAGE_COLORS = {
+  dark: { Python: "#7cb7ff", TypeScript: "#6cc4ff", JavaScript: "#f2d46b", Java: "#ffab70", Go: "#5fdcea", Dart: "#6fd6f5", Kotlin: "#c39bff", HTML: "#ff9a7a" },
+  light: { Python: "#1d5fb4", TypeScript: "#0a6ea8", JavaScript: "#8a6a00", Java: "#b04a00", Go: "#00717f", Dart: "#00688f", Kotlin: "#6a3fb5", HTML: "#b8431f" },
+};
 
 export function normalizePinnedRepositories(nodes) {
   if (!Array.isArray(nodes) || nodes.length > PIN_LIMIT) {
@@ -126,7 +132,8 @@ export function renderPinnedProjects(pins) {
 }
 
 export function renderPinCard(pin, slot, theme, mobile) {
-  const c = THEMES[theme];
+  const c = { ...THEMES[theme] };
+  const languageColor = LANGUAGE_COLORS[theme][pin.language] ?? c.accent;
   const width = mobile ? 640 : 1200;
   const height = mobile ? 262 : 180;
   const titleLines = lines(pin.title, mobile ? 29 : 62, mobile ? 2 : 1);
@@ -137,13 +144,13 @@ export function renderPinCard(pin, slot, theme, mobile) {
 <title id="title">${xml(pin.fullName)}</title>
 <desc id="desc">${xml(`${pin.description} Main language: ${pin.language}.`)}</desc>
 <rect x="1" y="1" width="${width-2}" height="${height-2}" rx="16" fill="${c.bg}" stroke="${c.line}" stroke-width="2"/>
-<rect x="1" y="18" width="6" height="${height-36}" rx="3" fill="${c.accent}"/>
+<rect x="12" y="18" width="5" height="${height-36}" rx="3" fill="${languageColor}"/>
 <g font-family="Segoe UI, DejaVu Sans, sans-serif">
 ${text(26, mobile ? 49 : 48, String(slot).padStart(2, "0"), mobile ? 22 : 20, "accent")}
 ${titleLines.map((line, index) => text(mobile ? 72 : 80, (mobile ? 50 : 50) + index*36, line, mobile ? 30 : 31, "ink", 600)).join("\n")}
 ${descriptionLines.map((line, index) => text(mobile ? 26 : 80, descY + index*(mobile ? 32 : 29), line, mobile ? 26 : 22, "muted")).join("\n")}
-${text(mobile ? 26 : 80, mobile ? 227 : 158, compact(pin.language, 28), mobile ? 26 : 20, "accent")}
-${mobile ? "" : text(860, 158, compact(pin.fullName, 28), 17, "muted")}
+<text x="${mobile ? 26 : 80}" y="${mobile ? 227 : 158}" fill="${languageColor}" font-size="${mobile ? 26 : 20}" font-weight="600">${xml(compact(pin.language, 28))}</text>
+${mobile ? "" : `<text x="${width-26}" y="158" fill="${c.muted}" font-size="17" text-anchor="end">${xml(compact(pin.fullName.split("/")[1], 40))}</text>`}
 </g>
 </svg>\n`;
 }

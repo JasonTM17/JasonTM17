@@ -64,6 +64,32 @@ My projects connect application development, applied AI, and cloud delivery, wit
 - **Applied AI** — Trip planning, computer vision, and retrieval-assisted features integrated into usable applications.
 - **Cloud & DevOps** — Containerized environments, CI/CD pipelines, observability, and infrastructure as code.
 
+## Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-D9631A?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00A7C4?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&amp;logo=dart&amp;logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-3F8F2E?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Next.js-3B4252?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-1F7FA8?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-0B7BC0?style=flat-square&amp;logo=flutter&amp;logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/FastAPI-00897B?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-1D63ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2B5FA8?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
+</p>
+
 ## Selected Projects
 
 A closer look at the repositories I currently pin on my GitHub profile.
