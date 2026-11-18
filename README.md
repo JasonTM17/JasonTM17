@@ -42,7 +42,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="./assets/pixel-companions/coding-duo.png" />
-    <img src="./assets/pixel-companions/coding-duo.gif" width="300" alt="A small mint coding robot and an orange Claude-inspired pixel companion blink and wave beside a laptop." />
+    <img src="./assets/pixel-companions/coding-duo.gif" width="300" alt="A chibi boy with round glasses, a navy polo and khaki trousers waves beside a small orange Claude-inspired pixel mascot." />
   </picture>
 </p>
 <!-- PIXEL_COMPANIONS:END -->
