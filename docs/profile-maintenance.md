@@ -31,7 +31,7 @@ The generator discovers Segoe UI/Consolas on Windows or DejaVu fonts on Linux. E
 
 ## Pixel companions
 
-A compact transparent [pixel animation](../assets/pixel-companions/coding-duo.gif) sits directly below the cover: a chibi boy with round glasses, drawn after the 3D portfolio avatar, beside the orange Claude-inspired mascot. The README displays it at 300px wide and selects [the static PNG](../assets/pixel-companions/coding-duo.png) for reduced motion. It carries no project or live-status data.
+A compact transparent [pixel animation](../assets/pixel-companions/coding-duo.gif) sits directly below the cover: a chibi boy with round glasses, drawn after the 3D portfolio avatar, codes at a desk while the orange Claude-inspired mascot cheers beside him. The README displays it at 300px wide and selects [the static PNG](../assets/pixel-companions/coding-duo.png) for reduced motion. It carries no project or live-status data.
 
 Both characters are drawn pixel by pixel in [build-pixel-companions.py](../scripts/build-pixel-companions.py), so there is no source sheet or image service. Change the sprite code, then rebuild with `python scripts/build-pixel-companions.py` (Pillow). Details are in [assets/pixel-companions](../assets/pixel-companions/README.md).
 
