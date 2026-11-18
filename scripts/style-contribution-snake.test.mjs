@@ -166,7 +166,7 @@ test("styling preserves contribution cells and initial levels while framing the 
   assert.match(svg,/\.c\.c1\{fill:var\(--c3\);animation-name:c1\}/);
   assert.match(svg,/class="s s0" x="3" y="3" width="10" height="10"/);
   assert.match(svg,/viewBox="-28 -32 904 176"/);
-  assert.match(svg,/rx="16" fill="#0d151c" stroke="#28383e"/);
+  assert.match(svg,/rx="16" fill="#161f2a" stroke="#4b6a7c"/);
   assert.match(svg,/<rect class="u u1"[^>]+height="12"/);
   assert.match(svg,/\.u\{display:none\}/);
 });
@@ -175,9 +175,9 @@ test("mint theme override follows upstream CSS and has distinct light/dark palet
   const dark = styleContributionSnake(SOURCE,{theme:"dark"});
   const light = styleContributionSnake(SOURCE,{theme:"light"});
   assert.ok(dark.indexOf('--cs:#b3f4e5') > dark.indexOf('--cs:purple'));
-  assert.match(dark,/--c4:#69c3a0/);
+  assert.match(dark,/--c4:#74cfab/);
   assert.match(light,/--cs:#0f766e/);
-  assert.match(light,/fill="#fafcfb"/);
+  assert.match(light,/fill="#eaf5f1"/);
 });
 
 test("a small face follows the bounded head without a shadow escaping the edge", () => {

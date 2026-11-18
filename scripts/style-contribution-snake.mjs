@@ -3,8 +3,8 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const THEMES = {
-  light: { background: "#fafcfb", border: "#d5e2db", cellBorder: "transparent", snake: "#0f766e", head: ["#198b76", "#105d51"], body: ["#279783", "#4cad95", "#86c6b3"], eye: "#effff8", dots: ["#e9efed", "#d0eade", "#9ed8c5", "#62b89b", "#2c876c"] },
-  dark: { background: "#0d151c", border: "#28383e", cellBorder: "transparent", snake: "#b3f4e5", head: ["#defff4", "#80dcbc"], body: ["#89d6be", "#59b99a", "#368e72"], eye: "#143c32", dots: ["#162128", "#163d34", "#25624f", "#3f9979", "#69c3a0"] },
+  light: { background: "#eaf5f1", border: "#7fa99b", cellBorder: "transparent", snake: "#0f766e", head: ["#198b76", "#105d51"], body: ["#279783", "#4cad95", "#86c6b3"], eye: "#effff8", dots: ["#d3e2dc", "#b4e0cd", "#86cdb2", "#4eae8e", "#1f7c62"] },
+  dark: { background: "#161f2a", border: "#4b6a7c", cellBorder: "transparent", snake: "#b3f4e5", head: ["#defff4", "#80dcbc"], body: ["#89d6be", "#59b99a", "#368e72"], eye: "#143c32", dots: ["#223040", "#1c4a40", "#2c7160", "#47a583", "#74cfab"] },
 };
 
 const attribute = (tag, name) => Number(tag?.match(new RegExp(`\\b${name}="([0-9.]+)"`))?.[1]);
@@ -166,7 +166,7 @@ export function styleContributionSnake(source, { theme = "light", staticMode = f
   // Eyes share the bounded head animation, including the loop seam.
   const eyes = [0.34, 0.68].map(offset=>`<circle class="s s0 profile-eye" cx="${(hx+hw*offset).toFixed(3)}" cy="${(hy+hh*0.39).toFixed(3)}" r="0.85"/>`).join("");
   const css = `:root{--cb:${palette.cellBorder};--cs:${palette.snake};--ce:${palette.dots[0]};${palette.dots.map((color,index)=>`--c${index}:${color}`).join(";")}}`;
-  const finish = `.c{width:10px;height:10px;stroke:none;transform:translate(1px,1px)}.c,.s{animation-duration:${duration}ms}.u{display:none}.s{filter:none}.s.s0{fill:url(#profile-head-gradient)}${palette.body.map((color,index)=>`.s.s${index+1}{fill:${color}}`).join("")}.s.profile-eye{fill:${palette.eye};filter:none}`;
+  const finish = `.c{width:10px;height:10px;stroke:none;transform:translate(1px,1px)}.c,.s{animation-duration:${duration}ms}.u{display:none}.s{filter:none}.s.s0{fill:url(#profile-head-gradient);stroke:${palette.snake};stroke-width:1.4}${palette.body.map((color,index)=>`.s.s${index+1}{fill:${color}}`).join("")}.s.profile-eye{fill:${palette.eye};filter:none}`;
   const still = ".c{animation:none!important}.s,.u{display:none}";
   const accessibility = staticMode ? still : `@media(prefers-reduced-motion:reduce){${still}}`;
   const mode = staticMode ? "Static contribution calendar" : "Animated contribution calendar";
@@ -174,7 +174,7 @@ export function styleContributionSnake(source, { theme = "light", staticMode = f
 <title id="profile-snake-title">${mode} for Nguyen Son</title>
 <desc id="profile-snake-desc">Actual GitHub contribution history with a mint palette. The snake moves in varied directions entirely within the calendar matrix.</desc>
 <defs><linearGradient id="profile-head-gradient" x1="0" y1="0" x2="1" y2="1"><stop stop-color="${palette.head[0]}"/><stop offset="1" stop-color="${palette.head[1]}"/></linearGradient></defs>
-<rect x="${frame[0]+0.5}" y="${frame[1]+0.5}" width="${frame[2]-1}" height="${frame[3]-1}" rx="16" fill="${palette.background}" stroke="${palette.border}"/>
+<rect x="${frame[0]+0.5}" y="${frame[1]+0.5}" width="${frame[2]-1}" height="${frame[3]-1}" rx="16" fill="${palette.background}" stroke="${palette.border}" stroke-width="1.5"/>
 ${body}
 ${eyes}
 <style>${css}${finish}${accessibility}</style>

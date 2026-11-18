@@ -15,8 +15,8 @@ ASSETS = ROOT / "assets"
 COMMAND = 'git commit -m "keep learning"'
 SCALE = 2
 PALETTES = {
-    "dark": {"bg": "#0d151c", "header": "#131e27", "line": "#2b3a45", "ink": "#ecf2f5", "muted": "#a5b5c1", "accent": "#80decb", "tag": "#182b32", "dot": "#526672"},
-    "light": {"bg": "#f8faf9", "header": "#eef3f0", "line": "#ccd9d2", "ink": "#18302d", "muted": "#506963", "accent": "#146e60", "tag": "#e8f2ed", "dot": "#90a69c"},
+    "dark": {"bg": "#161f2a", "header": "#1c2735", "line": "#4b6a7c", "ink": "#eef4f8", "muted": "#c3d1db", "accent": "#5eead4", "tag": "#1f3a3d", "dot": "#7a93a3"},
+    "light": {"bg": "#eaf5f1", "header": "#dcece6", "line": "#7fa99b", "ink": "#0b1f1c", "muted": "#33504a", "accent": "#0b5d50", "tag": "#cfe6dd", "dot": "#6f958a"},
 }
 
 
@@ -84,7 +84,7 @@ def compose(theme, mobile, fonts, command=COMMAND, cursor=False):
         a.circle(x, 35, 5, "dot")
     a.text(99, 44 if mobile else 42, "nguyen-son / README", 28 if mobile else 20, "muted", "mono")
     if not mobile:
-        a.text(1018, 42, "LEARNING IN PUBLIC", 15, "muted", "mono")
+        a.text(1018, 42, "LEARNING IN PUBLIC", 16, "muted", "mono")
     x = 46 if mobile else 56
     a.text(x, 123, "~/nguyen-son", 28 if mobile else 21, "accent", "mono")
     a.text(x+(225 if mobile else 168), 123, "$ whoami", 28 if mobile else 21, "muted", "mono")
@@ -125,7 +125,7 @@ def compose(theme, mobile, fonts, command=COMMAND, cursor=False):
     if mobile:
         a.text(x, footer_y, "JASONTM17  ·  GITHUB", 28, "muted", "mono")
     else:
-        a.text(1007, command_y, "JASONTM17 · GITHUB", 16, "muted", "mono")
+        a.text(1007, command_y, "JASONTM17 · GITHUB", 17, "muted", "mono")
     return a
 
 
