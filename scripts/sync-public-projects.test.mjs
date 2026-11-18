@@ -94,7 +94,7 @@ test("repository descriptions stay concise and student focused", () => {
 
   assert.doesNotMatch(project.description, /professional|portfolio-grade|production-grade|real-world/i);
   assert.match(project.description, /^Learning system/);
-  assert.ok(Array.from(project.description).length <= 180);
+  assert.ok(Array.from(project.description).length <= 200);
   assert.match(project.description, /…$/);
 });
 
@@ -168,8 +168,8 @@ test("project badges use dynamic counts, distinct CTA colors, and inline images"
     repository({ name: "Language_App" }),
   ]);
 
-  assert.match(badges, /Live%203D%20Portfolio-0F766E\?/);
-  assert.match(badges, /3%20Public%20Projects-1D4ED8\?/);
+  assert.match(badges, /Live%203D%20Portfolio-0B6B5F\?/);
+  assert.match(badges, /3%20Public%20Projects-334E5C\?/);
 
   const badgeAnchors = [...badges.matchAll(/<a\b[^>]*>([\s\S]*?)<\/a>/g)];
   assert.equal(badgeAnchors.length, 2);

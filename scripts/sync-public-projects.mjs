@@ -7,7 +7,7 @@ const OWNER = "JasonTM17";
 const API_VERSION = "2026-03-10";
 const PAGE_SIZE = 100;
 const MAX_PAGES = 10;
-const MAX_DESCRIPTION_LENGTH = 180;
+const MAX_DESCRIPTION_LENGTH = 200;
 const EXCLUDED_REPOSITORIES = new Set(["jasontm17", "nguyen_son"]);
 const ROOT_DIRECTORY = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const README_PATH = path.join(ROOT_DIRECTORY, "README.md");
@@ -77,11 +77,17 @@ function truncateDescription(description) {
   if (characters.length <= MAX_DESCRIPTION_LENGTH) return description;
 
   const clipped = characters.slice(0, MAX_DESCRIPTION_LENGTH - 1).join("");
+  // Prefer ending on a finished sentence or clause so cards never stop mid-thought.
+  const sentenceEnd = Math.max(clipped.lastIndexOf(". "), clipped.lastIndexOf("; "));
+  if (sentenceEnd >= MAX_DESCRIPTION_LENGTH * 0.5) return `${clipped.slice(0, sentenceEnd)}.`;
+
   const lastWordBoundary = clipped.lastIndexOf(" ");
   const end = lastWordBoundary >= MAX_DESCRIPTION_LENGTH * 0.7
     ? clipped.slice(0, lastWordBoundary)
     : clipped;
-  return `${end.trimEnd()}…`;
+  // Drop dangling connectors such as "not a" or "and" before the ellipsis.
+  const trimmed = end.replace(/[\s,;:&-]+(?:a|an|the|and|or|of|with|for|to|in|on|by|not|as|via)$/i, "").replace(/[\s,;:&-]+$/, "");
+  return `${trimmed}…`;
 }
 
 function sortableDate(value) {
@@ -164,8 +170,8 @@ function projectIndexTable(repositories) {
 export function renderProjectBadges(repositories) {
   const count = repositories.length;
   return `<p align="center">
-  <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
-  <a href="https://github.com/${OWNER}?tab=repositories"><img src="https://img.shields.io/badge/${count}%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's ${count} public learning-project repositories" /></a>
+  <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0B6B5F?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
+  <a href="https://github.com/${OWNER}?tab=repositories"><img src="https://img.shields.io/badge/${count}%20Public%20Projects-334E5C?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's ${count} public learning-project repositories" /></a>
 </p>`;
 }
 

@@ -16,8 +16,8 @@
 
 <!-- AUTO:PROJECT_BADGES:START -->
 <p align="center">
-  <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0F766E?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
-  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/57%20Public%20Projects-1D4ED8?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 57 public learning-project repositories" /></a>
+  <a href="https://nguyen-son-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live%203D%20Portfolio-0B6B5F?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Open Nguyen Son's live 3D portfolio" /></a>
+  <a href="https://github.com/JasonTM17?tab=repositories"><img src="https://img.shields.io/badge/57%20Public%20Projects-334E5C?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Explore Nguyen Son's 57 public learning-project repositories" /></a>
 </p>
 <!-- AUTO:PROJECT_BADGES:END -->
 
@@ -59,35 +59,35 @@
 
 My projects connect application development, applied AI, and cloud delivery, with a focus on how each part works within the wider system.
 
-- **Product Engineering** — Web and mobile applications, backend services, and APIs designed around practical user workflows.
-- **Real-Time Systems** — Delivery, messaging, and location-aware features, with attention to state consistency and timely updates.
-- **Applied AI** — Trip planning, computer vision, and retrieval-assisted features integrated into usable applications.
-- **Cloud & DevOps** — Containerized environments, CI/CD pipelines, observability, and infrastructure as code.
+- **Product Engineering** — Web, mobile, backend services, and APIs.
+- **Real-Time Systems** — Messaging, delivery, and live location features.
+- **Applied AI** — Computer vision, trip planning, and retrieval-assisted apps.
+- **Cloud & DevOps** — Docker, CI/CD, observability, and infrastructure as code.
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-D9631A?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-00A7C4?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&amp;logo=dart&amp;logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-2F4252?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/TypeScript-2F4252?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-2F4252?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-2F4252?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Dart-2F4252?style=flat-square&amp;logo=dart&amp;logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Kotlin-2F4252?style=flat-square&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-3F8F2E?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Next.js-3B4252?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-1F7FA8?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Flutter-0B7BC0?style=flat-square&amp;logo=flutter&amp;logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/FastAPI-00897B?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-2F4252?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Next.js-2F4252?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-2F4252?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Flutter-2F4252?style=flat-square&amp;logo=flutter&amp;logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/FastAPI-2F4252?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-1D63ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2B5FA8?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/PostgreSQL-2F4252?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-2F4252?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2F4252?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2F4252?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
 </p>
 
 ## Selected Projects
@@ -171,15 +171,15 @@ Explore **57 public projects** across product engineering, mobile development, a
 
 - **[ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics)** · Python · 2026-11-18
 
-  Desktop app (Python, PySide6, OpenCV) reporting forensic indications of copy-move and splicing in digital images. Image-processing course project; an indication tool, not a…
+  Desktop app (Python, PySide6, OpenCV) reporting forensic indications of copy-move and splicing in digital images. Image-processing course project; an indication tool, not a forgery verdict.
 
 - **[Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ)** · Java · 2026-11-18
 
-  Real-time Android messenger (Java 21 LTS, Material 3 XML Views) &amp; Spring Boot 3 / PostgreSQL backend: 1-1 and group chat over STOMP/WebSocket, media sharing, 1-1 voice calls,…
+  Real-time Android messenger (Java 21 LTS, Material 3 XML Views) &amp; Spring Boot 3 / PostgreSQL backend: 1-1 and group chat over STOMP/WebSocket, media sharing, 1-1 voice calls, bilingual Vi/En UI…
 
 - **[Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology)** · HTML · 2026-11-17
 
-  Machine Learning course project - STING grid-based clustering on Vietnam PAPI data 2011-2024 (Topic 6, Sociology-History). From-scratch STING, k-means/DBSCAN baselines, 2024…
+  Machine Learning course project - STING grid-based clustering on Vietnam PAPI data 2011-2024 (Topic 6, Sociology-History). From-scratch STING, k-means/DBSCAN baselines, 2024 out-of-sample prediction.
 
 - **[CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem)** · Java · 2026-11-16
 
