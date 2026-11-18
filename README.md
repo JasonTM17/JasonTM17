@@ -50,7 +50,7 @@
 <!-- AUTO:PROJECT_STATS:START -->
 <p align="center">
   <strong>57</strong> public projects &nbsp;&middot;&nbsp;
-  <strong>5</strong> pinned projects &nbsp;&middot;&nbsp;
+  <strong>6</strong> pinned projects &nbsp;&middot;&nbsp;
   <strong>1</strong> interactive 3D portfolio
 </p>
 <!-- AUTO:PROJECT_STATS:END -->
@@ -120,6 +120,17 @@ A closer look at the repositories I currently pin on my GitHub profile.
       <source media="(max-width: 600px)" srcset="./assets/pinned/project-05-light-mobile.svg" />
       <source media="(prefers-color-scheme: dark)" srcset="./assets/pinned/project-05-dark.svg" />
       <img src="./assets/pinned/project-05-light.svg" width="100%" alt="JasonTM17/HealthCare_Project. Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data. Main language: JavaScript." />
+    </picture>
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/JasonTM17/Student_Management_UTE">
+    <picture>
+      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/pinned/project-06-dark-mobile.svg" />
+      <source media="(max-width: 600px)" srcset="./assets/pinned/project-06-light-mobile.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/pinned/project-06-dark.svg" />
+      <img src="./assets/pinned/project-06-light.svg" width="100%" alt="JasonTM17/Student_Management_UTE. Student management portal for HCMUTE: Spring Boot 4 REST API, Next.js web portal, Expo mobile app, PostgreSQL with Flyway, and a private RAG assistant. Main language: Java." />
     </picture>
   </a>
 </p>
