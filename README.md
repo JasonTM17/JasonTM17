@@ -187,7 +187,7 @@ Explore **57 public projects** across product engineering, mobile development, a
 
 - **[ForgeBase](https://github.com/JasonTM17/ForgeBase)** · Python · 2026-11-16
 
-  Starter templates across 12 languages and 38 starters, with CI, Docker
+  Starter templates across 12 languages and 38 starters, with CI and Docker.
 
 <details>
   <summary><strong>Browse All 57 Projects</strong></summary>
