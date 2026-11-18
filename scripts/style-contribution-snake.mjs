@@ -164,9 +164,11 @@ export function styleContributionSnake(source, { theme = "light", staticMode = f
   }
   const [hx, hy, hw, hh] = geometry;
   // Eyes share the bounded head animation, including the loop seam.
-  const eyes = [0.34, 0.68].map(offset=>`<circle class="s s0 profile-eye" cx="${(hx+hw*offset).toFixed(3)}" cy="${(hy+hh*0.39).toFixed(3)}" r="0.85"/>`).join("");
+  const eyes = [0.34, 0.68].map(offset=>`<circle class="s s0 profile-eye" cx="${(hx+hw*offset).toFixed(3)}" cy="${(hy+hh*0.4).toFixed(3)}" r="1.05"/>`).join("");
+  // A small smile rides the same head animation so the face stays complete.
+  const smile = `<path class="s s0 profile-smile" d="M${(hx+hw*0.36).toFixed(3)} ${(hy+hh*0.66).toFixed(3)}Q${(hx+hw*0.5).toFixed(3)} ${(hy+hh*0.8).toFixed(3)} ${(hx+hw*0.64).toFixed(3)} ${(hy+hh*0.66).toFixed(3)}"/>`;
   const css = `:root{--cb:${palette.cellBorder};--cs:${palette.snake};--ce:${palette.dots[0]};${palette.dots.map((color,index)=>`--c${index}:${color}`).join(";")}}`;
-  const finish = `.c{width:10px;height:10px;stroke:none;transform:translate(1px,1px)}.c,.s{animation-duration:${duration}ms}.u{display:none}.s{filter:none}.s.s0{fill:url(#profile-head-gradient);stroke:${palette.snake};stroke-width:1.4}${palette.body.map((color,index)=>`.s.s${index+1}{fill:${color}}`).join("")}.s.profile-eye{fill:${palette.eye};filter:none}`;
+  const finish = `.c{width:10px;height:10px;stroke:none;transform:translate(1px,1px)}.c,.s{animation-duration:${duration}ms}.u{display:none}.s{filter:none}.s.s0{fill:url(#profile-head-gradient);stroke:${palette.snake};stroke-width:1.4}${palette.body.map((color,index)=>`.s.s${index+1}{fill:${color}}`).join("")}.s.profile-eye{fill:${palette.eye};stroke:none;filter:none}.s.profile-smile{fill:none;stroke:${palette.eye};stroke-width:.8;stroke-linecap:round;filter:none}`;
   const still = ".c{animation:none!important}.s,.u{display:none}";
   const accessibility = staticMode ? still : `@media(prefers-reduced-motion:reduce){${still}}`;
   const mode = staticMode ? "Static contribution calendar" : "Animated contribution calendar";
@@ -176,7 +178,7 @@ export function styleContributionSnake(source, { theme = "light", staticMode = f
 <defs><linearGradient id="profile-head-gradient" x1="0" y1="0" x2="1" y2="1"><stop stop-color="${palette.head[0]}"/><stop offset="1" stop-color="${palette.head[1]}"/></linearGradient></defs>
 <rect x="${frame[0]+0.5}" y="${frame[1]+0.5}" width="${frame[2]-1}" height="${frame[3]-1}" rx="16" fill="${palette.background}" stroke="${palette.border}" stroke-width="1.5"/>
 ${body}
-${eyes}
+${eyes}${smile}
 <style>${css}${finish}${accessibility}</style>
 </svg>\n`;
 }

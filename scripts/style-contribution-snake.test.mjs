@@ -183,8 +183,11 @@ test("mint theme override follows upstream CSS and has distinct light/dark palet
 test("a small face follows the bounded head without a shadow escaping the edge", () => {
   const svg = styleContributionSnake(SOURCE,{theme:"dark"});
   assert.equal([...svg.matchAll(/<circle class="s s0 profile-eye"/g)].length,2);
-  assert.match(svg,/cx="6\.400" cy="6\.900" r="0\.85"/);
-  assert.match(svg,/cx="9\.800" cy="6\.900" r="0\.85"/);
+  // The head outline must not paint over the face.
+  assert.match(svg,/\.s\.profile-eye\{[^}]*stroke:none/);
+  assert.equal([...svg.matchAll(/<path class="s s0 profile-smile"/g)].length,1);
+  assert.match(svg,/cx="6\.400" cy="7\.000" r="1\.05"/);
+  assert.match(svg,/cx="9\.800" cy="7\.000" r="1\.05"/);
   assert.match(svg,/id="profile-head-gradient"/);
   assert.match(svg,/\.c\{width:10px;height:10px;stroke:none;transform:translate\(1px,1px\)\}/);
   assert.match(svg,/\.s\{filter:none\}/);
