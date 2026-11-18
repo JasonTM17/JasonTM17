@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 460" role="img" aria-labelledby="title desc">
 <title id="title">Nguyễn Tiến Sơn — Terminal Notes</title>
 <desc id="desc">Nguyễn Tiến Sơn. Learning software engineering by building. Exploring DevOps, one project at a time.</desc>
-<rect x="1" y="1" width="1278" height="458" rx="22" fill="#161f2a" stroke="#4b6a7c"/>
+<rect x="1" y="1" width="1278" height="458" rx="22" fill="#161f2a" stroke="#4b6a7c" stroke-width="2"/>
 <rect x="2" y="2" width="1276" height="66" rx="21" fill="#1c2735"/>
 <rect x="2" y="42" width="1276" height="26" rx="0" fill="#1c2735"/>
 <rect x="1" y="68" width="1278" height="1" rx="0" fill="#4b6a7c"/>

@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
 <title id="title">JasonTM17/Student_Management_UTE</title>
 <desc id="desc">Student management portal for HCMUTE: Spring Boot 4 REST API, Next.js web portal, Expo mobile app, PostgreSQL with Flyway, and a private RAG assistant. Main language: Java.</desc>
-<rect x="1" y="1" width="1198" height="178" rx="16" fill="#161f2a" stroke="#4b6a7c" stroke-width="2"/>
+<rect x="1" y="1" width="1198" height="178" rx="20" fill="#161f2a" stroke="#4b6a7c" stroke-width="2"/>
 <rect x="12" y="18" width="5" height="144" rx="3" fill="#ffab70"/>
 <g font-family="Segoe UI, DejaVu Sans, sans-serif">
 <text x="26" y="48" fill="#5eead4" font-size="20" font-weight="400">06</text>

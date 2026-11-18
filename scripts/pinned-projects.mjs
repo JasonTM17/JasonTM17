@@ -143,7 +143,7 @@ export function renderPinCard(pin, slot, theme, mobile) {
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${width} ${height}" role="img" aria-labelledby="title desc">
 <title id="title">${xml(pin.fullName)}</title>
 <desc id="desc">${xml(`${pin.description} Main language: ${pin.language}.`)}</desc>
-<rect x="1" y="1" width="${width-2}" height="${height-2}" rx="16" fill="${c.bg}" stroke="${c.line}" stroke-width="2"/>
+<rect x="1" y="1" width="${width-2}" height="${height-2}" rx="20" fill="${c.bg}" stroke="${c.line}" stroke-width="2"/>
 <rect x="12" y="18" width="5" height="${height-36}" rx="3" fill="${languageColor}"/>
 <g font-family="Segoe UI, DejaVu Sans, sans-serif">
 ${text(26, mobile ? 49 : 48, String(slot).padStart(2, "0"), mobile ? 22 : 20, "accent")}

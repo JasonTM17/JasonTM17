@@ -46,10 +46,12 @@ class Artwork:
         self.draw = ImageDraw.Draw(self.image)
         self.svg = []
 
-    def rect(self, x, y, w, h, color, radius=0, stroke=None):
-        box = (x * SCALE, y * SCALE, (x + w) * SCALE, (y + h) * SCALE)
-        self.draw.rounded_rectangle(box, radius=radius * SCALE, fill=self.colors[color], outline=self.colors[stroke] if stroke else None, width=SCALE)
-        self.svg.append(f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="{radius}" fill="{self.colors[color]}"' + (f' stroke="{self.colors[stroke]}"' if stroke else "") + '/>')
+    def rect(self, x, y, w, h, color, radius=0, stroke=None, stroke_width=1):
+        # A stroke is centred on the edge in SVG; grow the raster box to match it.
+        grow = stroke_width / 2 if stroke else 0
+        box = ((x - grow) * SCALE, (y - grow) * SCALE, (x + w + grow) * SCALE, (y + h + grow) * SCALE)
+        self.draw.rounded_rectangle(box, radius=(radius + grow) * SCALE, fill=self.colors[color], outline=self.colors[stroke] if stroke else None, width=round(stroke_width * SCALE) if stroke else SCALE)
+        self.svg.append(f'<rect x="{x}" y="{y}" width="{w}" height="{h}" rx="{radius}" fill="{self.colors[color]}"' + (f' stroke="{self.colors[stroke]}" stroke-width="{stroke_width}"' if stroke else "") + '/>')
 
     def circle(self, x, y, radius, color):
         self.draw.ellipse(((x-radius)*SCALE, (y-radius)*SCALE, (x+radius)*SCALE, (y+radius)*SCALE), fill=self.colors[color])
@@ -76,7 +78,8 @@ class Artwork:
 def compose(theme, mobile, fonts, command=COMMAND, cursor=False):
     w, h = (720, 740) if mobile else (1280, 460)
     a = Artwork(w, h, theme, fonts)
-    a.rect(1, 1, w-2, h-2, "bg", 22, "line")
+    # Rendered at ~640px the frame stroke matches the project cards (about 1px).
+    a.rect(1, 1, w-2, h-2, "bg", 22, "line", 3 if mobile else 2)
     a.rect(2, 2, w-4, 66, "header", 21)
     a.rect(2, 42, w-4, 26, "header")
     a.rect(1, 68, w-2, 1, "line")
