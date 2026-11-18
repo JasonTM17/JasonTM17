@@ -67,27 +67,27 @@ My projects connect application development, applied AI, and cloud delivery, wit
 ## Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-2F4252?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/TypeScript-2F4252?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-2F4252?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Go-2F4252?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Dart-2F4252?style=flat-square&amp;logo=dart&amp;logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Kotlin-2F4252?style=flat-square&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" />
+  <a href="https://github.com/search?q=user%3AJasonTM17+is%3Apublic+language%3AJava&amp;type=repositories"><img src="https://img.shields.io/badge/Java-2F4252?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" /></a>
+  <a href="https://github.com/search?q=user%3AJasonTM17+is%3Apublic+language%3ATypeScript&amp;type=repositories"><img src="https://img.shields.io/badge/TypeScript-2F4252?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" /></a>
+  <a href="https://github.com/search?q=user%3AJasonTM17+is%3Apublic+language%3APython&amp;type=repositories"><img src="https://img.shields.io/badge/Python-2F4252?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" /></a>
+  <a href="https://github.com/search?q=user%3AJasonTM17+is%3Apublic+language%3AGo&amp;type=repositories"><img src="https://img.shields.io/badge/Go-2F4252?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go" /></a>
+  <a href="https://github.com/search?q=user%3AJasonTM17+is%3Apublic+language%3ADart&amp;type=repositories"><img src="https://img.shields.io/badge/Dart-2F4252?style=flat-square&amp;logo=dart&amp;logoColor=white" alt="Dart" /></a>
+  <a href="https://github.com/search?q=user%3AJasonTM17+is%3Apublic+language%3AKotlin&amp;type=repositories"><img src="https://img.shields.io/badge/Kotlin-2F4252?style=flat-square&amp;logo=kotlin&amp;logoColor=white" alt="Kotlin" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-2F4252?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Next.js-2F4252?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-2F4252?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Flutter-2F4252?style=flat-square&amp;logo=flutter&amp;logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/FastAPI-2F4252?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+  <a href="https://github.com/search?q=user%3AJasonTM17+is%3Apublic+%22spring+boot%22&amp;type=repositories"><img src="https://img.shields.io/badge/Spring%20Boot-2F4252?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" /></a>
+  <a href="https://github.com/search?q=user%3AJasonTM17+is%3Apublic+next.js&amp;type=repositories"><img src="https://img.shields.io/badge/Next.js-2F4252?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" /></a>
+  <a href="https://github.com/search?q=user%3AJasonTM17+is%3Apublic+react&amp;type=repositories"><img src="https://img.shields.io/badge/React-2F4252?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React" /></a>
+  <a href="https://github.com/search?q=user%3AJasonTM17+is%3Apublic+flutter&amp;type=repositories"><img src="https://img.shields.io/badge/Flutter-2F4252?style=flat-square&amp;logo=flutter&amp;logoColor=white" alt="Flutter" /></a>
+  <a href="https://github.com/search?q=user%3AJasonTM17+is%3Apublic+fastapi&amp;type=repositories"><img src="https://img.shields.io/badge/FastAPI-2F4252?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-2F4252?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-2F4252?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-2F4252?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2F4252?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
+  <a href="https://github.com/search?q=user%3AJasonTM17+is%3Apublic+postgresql&amp;type=repositories"><img src="https://img.shields.io/badge/PostgreSQL-2F4252?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" /></a>
+  <a href="https://github.com/search?q=user%3AJasonTM17+is%3Apublic+mysql&amp;type=repositories"><img src="https://img.shields.io/badge/MySQL-2F4252?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" /></a>
+  <a href="https://github.com/search?q=user%3AJasonTM17+is%3Apublic+docker&amp;type=repositories"><img src="https://img.shields.io/badge/Docker-2F4252?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" /></a>
+  <a href="https://github.com/search?q=user%3AJasonTM17+is%3Apublic+%22ci%2Fcd%22+OR+%22github+actions%22+OR+ci&amp;type=repositories"><img src="https://img.shields.io/badge/GitHub%20Actions-2F4252?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" /></a>
 </p>
 
 ## Selected Projects
