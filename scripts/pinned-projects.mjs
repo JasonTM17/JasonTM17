@@ -15,8 +15,8 @@ export const PINNED_QUERY = `query ProfilePins($login: String!) {
 }`;
 
 const THEMES = {
-  dark: { bg: "#0d151c", line: "#2b3a45", ink: "#ecf2f5", muted: "#a5b5c1", accent: "#80decb" },
-  light: { bg: "#f8faf9", line: "#ccd9d2", ink: "#18302d", muted: "#506963", accent: "#146e60" },
+  dark: { bg: "#152330", line: "#4b6a7c", ink: "#ffffff", muted: "#cbd8e1", accent: "#5eead4" },
+  light: { bg: "#eaf5f1", line: "#7fa99b", ink: "#0b1f1c", muted: "#33504a", accent: "#0b5d50" },
 };
 
 function xml(value) {
@@ -136,7 +136,8 @@ export function renderPinCard(pin, slot, theme, mobile) {
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${width} ${height}" role="img" aria-labelledby="title desc">
 <title id="title">${xml(pin.fullName)}</title>
 <desc id="desc">${xml(`${pin.description} Main language: ${pin.language}.`)}</desc>
-<rect x="1" y="1" width="${width-2}" height="${height-2}" rx="16" fill="${c.bg}" stroke="${c.line}"/>
+<rect x="1" y="1" width="${width-2}" height="${height-2}" rx="16" fill="${c.bg}" stroke="${c.line}" stroke-width="2"/>
+<rect x="1" y="18" width="6" height="${height-36}" rx="3" fill="${c.accent}"/>
 <g font-family="Segoe UI, DejaVu Sans, sans-serif">
 ${text(26, mobile ? 49 : 48, String(slot).padStart(2, "0"), mobile ? 22 : 20, "accent")}
 ${titleLines.map((line, index) => text(mobile ? 72 : 80, (mobile ? 50 : 50) + index*36, line, mobile ? 30 : 31, "ink", 600)).join("\n")}
