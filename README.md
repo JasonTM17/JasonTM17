@@ -107,23 +107,12 @@ A closer look at the repositories I currently pin on my GitHub profile.
 </p>
 
 <p>
-  <a href="https://github.com/JasonTM17/Ecommerce_BookStore">
+  <a href="https://github.com/JasonTM17/JobHunter_SpringBoot_RestfulAPI_React">
     <picture>
       <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/pinned/project-02-dark-mobile.svg" />
       <source media="(max-width: 600px)" srcset="./assets/pinned/project-02-light-mobile.svg" />
       <source media="(prefers-color-scheme: dark)" srcset="./assets/pinned/project-02-dark.svg" />
-      <img src="./assets/pinned/project-02-light.svg" width="100%" alt="JasonTM17/Ecommerce_BookStore. Full-stack bookstore learning project with Next.js and Spring Boot, including storefront, authentication, tests, CI/CD, Docker, and Render deployment. Main language: TypeScript." />
-    </picture>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/JasonTM17/JobHunter_SpringBoot_RestfulAPI_React">
-    <picture>
-      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/pinned/project-03-dark-mobile.svg" />
-      <source media="(max-width: 600px)" srcset="./assets/pinned/project-03-light-mobile.svg" />
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/pinned/project-03-dark.svg" />
-      <img src="./assets/pinned/project-03-light.svg" width="100%" alt="JasonTM17/JobHunter_SpringBoot_RestfulAPI_React. IT recruitment learning project built with Spring Boot, Next.js, MySQL, Docker, RBAC, end-to-end tests, and visual regression. Main language: TypeScript." />
+      <img src="./assets/pinned/project-02-light.svg" width="100%" alt="JasonTM17/JobHunter_SpringBoot_RestfulAPI_React. IT recruitment learning project built with Spring Boot, Next.js, MySQL, Docker, RBAC, end-to-end tests, and visual regression. Main language: TypeScript." />
     </picture>
   </a>
 </p>
@@ -131,10 +120,10 @@ A closer look at the repositories I currently pin on my GitHub profile.
 <p>
   <a href="https://github.com/JasonTM17/Laptopshop_Spring_Boot_MVC">
     <picture>
-      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/pinned/project-04-dark-mobile.svg" />
-      <source media="(max-width: 600px)" srcset="./assets/pinned/project-04-light-mobile.svg" />
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/pinned/project-04-dark.svg" />
-      <img src="./assets/pinned/project-04-light.svg" width="100%" alt="JasonTM17/Laptopshop_Spring_Boot_MVC. Spring Boot MVC laptop e-commerce learning project with a retail storefront, checkout, admin dashboard, tests, Docker, and CI. Main language: Java." />
+      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/pinned/project-03-dark-mobile.svg" />
+      <source media="(max-width: 600px)" srcset="./assets/pinned/project-03-light-mobile.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/pinned/project-03-dark.svg" />
+      <img src="./assets/pinned/project-03-light.svg" width="100%" alt="JasonTM17/Laptopshop_Spring_Boot_MVC. Spring Boot MVC laptop e-commerce learning project with a retail storefront, checkout, admin dashboard, tests, Docker, and CI. Main language: Java." />
     </picture>
   </a>
 </p>
@@ -142,10 +131,10 @@ A closer look at the repositories I currently pin on my GitHub profile.
 <p>
   <a href="https://github.com/JasonTM17/HealthCare_Project">
     <picture>
-      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/pinned/project-05-dark-mobile.svg" />
-      <source media="(max-width: 600px)" srcset="./assets/pinned/project-05-light-mobile.svg" />
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/pinned/project-05-dark.svg" />
-      <img src="./assets/pinned/project-05-light.svg" width="100%" alt="JasonTM17/HealthCare_Project. Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data. Main language: JavaScript." />
+      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/pinned/project-04-dark-mobile.svg" />
+      <source media="(max-width: 600px)" srcset="./assets/pinned/project-04-light-mobile.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/pinned/project-04-dark.svg" />
+      <img src="./assets/pinned/project-04-light.svg" width="100%" alt="JasonTM17/HealthCare_Project. Educational Vietnamese hospital-style healthcare platform with Spring Boot, Next.js, FastAPI AI/RAG, Docker, and reproducible PostgreSQL demo data. Main language: JavaScript." />
     </picture>
   </a>
 </p>
@@ -153,10 +142,21 @@ A closer look at the repositories I currently pin on my GitHub profile.
 <p>
   <a href="https://github.com/JasonTM17/Student_Management_UTE">
     <picture>
+      <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/pinned/project-05-dark-mobile.svg" />
+      <source media="(max-width: 600px)" srcset="./assets/pinned/project-05-light-mobile.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/pinned/project-05-dark.svg" />
+      <img src="./assets/pinned/project-05-light.svg" width="100%" alt="JasonTM17/Student_Management_UTE. Student management portal for HCMUTE: Spring Boot 4 REST API, Next.js web portal, Expo mobile app, PostgreSQL with Flyway, and a private RAG assistant. Main language: Java." />
+    </picture>
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/JasonTM17/Nexachat_AppJ">
+    <picture>
       <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/pinned/project-06-dark-mobile.svg" />
       <source media="(max-width: 600px)" srcset="./assets/pinned/project-06-light-mobile.svg" />
       <source media="(prefers-color-scheme: dark)" srcset="./assets/pinned/project-06-dark.svg" />
-      <img src="./assets/pinned/project-06-light.svg" width="100%" alt="JasonTM17/Student_Management_UTE. Student management portal for HCMUTE: Spring Boot 4 REST API, Next.js web portal, Expo mobile app, PostgreSQL with Flyway, and a private RAG assistant. Main language: Java." />
+      <img src="./assets/pinned/project-06-light.svg" width="100%" alt="JasonTM17/Nexachat_AppJ. Real-time Android messenger (Java 21 LTS, Material 3 XML Views) &amp; Spring Boot 3 / PostgreSQL backend: 1-1 and group chat over STOMP/WebSocket, media sharing, 1-1 voice calls, bilingual Vi/En UI, and AI catch-up summaries. Main language: Java." />
     </picture>
   </a>
 </p>
@@ -177,10 +177,6 @@ Explore **57 public projects** across product engineering, mobile development, a
 
   Machine Learning course project - STING grid-based clustering on Vietnam PAPI data 2011-2024 (Topic 6, Sociology-History). From-scratch STING, k-means/DBSCAN baselines, 2024 out-of-sample prediction.
 
-- **[Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ)** · Java · 2026-11-19
-
-  Real-time Android messenger (Java 21 LTS, Material 3 XML Views) &amp; Spring Boot 3 / PostgreSQL backend: 1-1 and group chat over STOMP/WebSocket, media sharing, 1-1 voice calls, bilingual Vi/En UI…
-
 - **[ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics)** · Python · 2026-11-18
 
   Desktop app (Python, PySide6, OpenCV) reporting forensic indications of copy-move and splicing in digital images. Image-processing course project; an indication tool, not a forgery verdict.
@@ -188,6 +184,10 @@ Explore **57 public projects** across product engineering, mobile development, a
 - **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-11-18
 
   A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
+
+- **[CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem)** · Java · 2026-11-16
+
+  University academic platform for course enrollment, timetables, grades, thesis management and RAG assistance, built with Spring Boot, Next.js and PostgreSQL.
 
 <details>
   <summary><strong>Browse All 57 Projects</strong></summary>
