@@ -169,6 +169,10 @@ Explore **57 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ)** · Java · 2026-11-19
+
+  Real-time Android messenger (Java 21 LTS, Material 3 XML Views) &amp; Spring Boot 3 / PostgreSQL backend: 1-1 and group chat over STOMP/WebSocket, media sharing, 1-1 voice calls, bilingual Vi/En UI…
+
 - **[Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology)** · Jupyter Notebook · 2026-11-18
 
   Machine Learning course project - STING grid-based clustering on Vietnam PAPI data 2011-2024 (Topic 6, Sociology-History). From-scratch STING, k-means/DBSCAN baselines, 2024 out-of-sample prediction.
@@ -181,10 +185,6 @@ Explore **57 public projects** across product engineering, mobile development, a
 
   A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
 
-- **[Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ)** · Java · 2026-11-18
-
-  Real-time Android messenger (Java 21 LTS, Material 3 XML Views) &amp; Spring Boot 3 / PostgreSQL backend: 1-1 and group chat over STOMP/WebSocket, media sharing, 1-1 voice calls, bilingual Vi/En UI…
-
 - **[CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem)** · Java · 2026-11-16
 
   University academic platform for course enrollment, timetables, grades, thesis management and RAG assistance, built with Spring Boot, Next.js and PostgreSQL.
@@ -194,10 +194,10 @@ Explore **57 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ) | Java | 2026-11-19 |
 | [Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology) | Jupyter Notebook | 2026-11-18 |
 | [ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics) | Python | 2026-11-18 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-11-18 |
-| [Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ) | Java | 2026-11-18 |
 | [CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem) | Java | 2026-11-16 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-11-16 |
 | [All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday) | TypeScript | 2026-11-14 |
