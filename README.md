@@ -169,6 +169,10 @@ Explore **57 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics)** · Python · 2026-11-22
+
+  Desktop app (Python, PySide6, OpenCV) reporting forensic indications of copy-move and splicing in digital images. Image-processing course project; an indication tool, not a forgery verdict.
+
 - **[All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday)** · TypeScript · 2026-11-21
 
   Ngày Lễ Việt — 26 landing page cho mọi ngày lễ VN &amp; quốc tế: đọc một trang hiểu trọn ngày lễ. Lịch năm âm-dương + .ics, tìm kiếm Ctrl+K, tạo thiệp PNG, thiệp sinh nhật, gợi ý lời chúc, dark mode…
@@ -185,21 +189,17 @@ Explore **57 public projects** across product engineering, mobile development, a
 
   FoodFlow delivery demo: NestJS API, four Next.js web roles, Flutter apps, PostgreSQL/PostGIS, Redis/BullMQ and Supabase Realtime. Production screenshots and walkthroughs.
 
-- **[ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics)** · Python · 2026-11-18
-
-  Desktop app (Python, PySide6, OpenCV) reporting forensic indications of copy-move and splicing in digital images. Image-processing course project; an indication tool, not a forgery verdict.
-
 <details>
   <summary><strong>Browse All 57 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics) | Python | 2026-11-22 |
 | [Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ) | Java | 2026-11-22 |
 | [All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday) | TypeScript | 2026-11-21 |
 | [Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology) | Jupyter Notebook | 2026-11-21 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-11-21 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-11-19 |
-| [ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics) | Python | 2026-11-18 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-11-18 |
 | [CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem) | Java | 2026-11-16 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-11-16 |
