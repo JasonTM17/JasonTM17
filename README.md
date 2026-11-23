@@ -194,10 +194,10 @@ Explore **57 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ) | Java | 2026-11-23 |
 | [Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology) | Jupyter Notebook | 2026-11-22 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-11-22 |
 | [ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics) | Python | 2026-11-22 |
-| [Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ) | Java | 2026-11-22 |
 | [All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday) | TypeScript | 2026-11-21 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-11-21 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-11-19 |
