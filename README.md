@@ -169,13 +169,13 @@ Explore **57 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics)** · Python · 2026-11-25
+
+  Desktop app (Python, PySide6, OpenCV) reporting forensic indications of copy-move and splicing in digital images. Image-processing course project; an indication tool, not a forgery verdict.
+
 - **[CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem)** · Java · 2026-11-24
 
   University academic platform for course enrollment, timetables, grades, thesis management and RAG assistance, built with Spring Boot, Next.js and PostgreSQL.
-
-- **[ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics)** · Python · 2026-11-24
-
-  Desktop app (Python, PySide6, OpenCV) reporting forensic indications of copy-move and splicing in digital images. Image-processing course project; an indication tool, not a forgery verdict.
 
 - **[ForgeBase](https://github.com/JasonTM17/ForgeBase)** · Python · 2026-11-23
 
@@ -194,11 +194,11 @@ Explore **57 public projects** across product engineering, mobile development, a
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics) | Python | 2026-11-25 |
+| [Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ) | Java | 2026-11-25 |
 | [CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem) | Java | 2026-11-24 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-11-24 |
-| [ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics) | Python | 2026-11-24 |
 | [JobHunter](https://github.com/JasonTM17/JobHunter_SpringBoot_RestfulAPI_React) | TypeScript | 2026-11-24 |
-| [Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ) | Java | 2026-11-24 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-11-24 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-11-23 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-11-23 |
