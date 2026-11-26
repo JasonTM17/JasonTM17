@@ -173,6 +173,10 @@ Explore **57 public projects** across product engineering, mobile development, a
 
   FoodFlow delivery demo: NestJS API, four Next.js web roles, Flutter apps, PostgreSQL/PostGIS, Redis/BullMQ and Supabase Realtime. Production screenshots and walkthroughs.
 
+- **[Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology)** · Jupyter Notebook · 2026-11-26
+
+  Machine Learning course project - STING grid-based clustering on Vietnam PAPI data 2011-2024 (Topic 6, Sociology-History). From-scratch STING, k-means/DBSCAN baselines, 2024 out-of-sample prediction.
+
 - **[ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics)** · Python · 2026-11-25
 
   Desktop app (Python, PySide6, OpenCV) reporting forensic indications of copy-move and splicing in digital images. Image-processing course project; an indication tool, not a forgery verdict.
@@ -185,25 +189,21 @@ Explore **57 public projects** across product engineering, mobile development, a
 
   University academic platform for course enrollment, timetables, grades, thesis management and RAG assistance, built with Spring Boot, Next.js and PostgreSQL.
 
-- **[ForgeBase](https://github.com/JasonTM17/ForgeBase)** · Python · 2026-11-23
-
-  Starter templates across 12 languages and 38 starters, with CI and Docker.
-
 <details>
   <summary><strong>Browse All 57 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-11-26 |
+| [Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology) | Jupyter Notebook | 2026-11-26 |
+| [Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ) | Java | 2026-11-26 |
 | [ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics) | Python | 2026-11-25 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-11-25 |
-| [Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ) | Java | 2026-11-25 |
 | [CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem) | Java | 2026-11-24 |
 | [HealthCare Project](https://github.com/JasonTM17/HealthCare_Project) | JavaScript | 2026-11-24 |
 | [JobHunter](https://github.com/JasonTM17/JobHunter_SpringBoot_RestfulAPI_React) | TypeScript | 2026-11-24 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-11-24 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-11-23 |
-| [Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology) | Jupyter Notebook | 2026-11-22 |
 | [All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday) | TypeScript | 2026-11-21 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-11-21 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-11-11 |
