@@ -169,13 +169,17 @@ Explore **58 public projects** across product engineering, mobile development, a
 
 ### Recently Updated
 
+- **[All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday)** · TypeScript · 2026-11-28
+
+  Ngày Lễ Việt — 26 landing page cho mọi ngày lễ VN &amp; quốc tế: đọc một trang hiểu trọn ngày lễ. Lịch năm âm-dương + .ics, tìm kiếm Ctrl+K, tạo thiệp PNG, thiệp sinh nhật, gợi ý lời chúc, dark mode…
+
+- **[Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology)** · Jupyter Notebook · 2026-11-28
+
+  Machine Learning course project - STING grid-based clustering on Vietnam PAPI data 2011-2024 (Topic 6, Sociology-History). From-scratch STING, k-means/DBSCAN baselines, 2024 out-of-sample prediction.
+
 - **[CodeNavi](https://github.com/JasonTM17/CodeNavi)** · In progress · 2026-11-27
 
   An early-stage learning project currently taking shape.
-
-- **[Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology)** · Jupyter Notebook · 2026-11-27
-
-  Machine Learning course project - STING grid-based clustering on Vietnam PAPI data 2011-2024 (Topic 6, Sociology-History). From-scratch STING, k-means/DBSCAN baselines, 2024 out-of-sample prediction.
 
 - **[ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics)** · Python · 2026-11-27
 
@@ -185,19 +189,16 @@ Explore **58 public projects** across product engineering, mobile development, a
 
   FoodFlow delivery demo: NestJS API, four Next.js web roles, Flutter apps, PostgreSQL/PostGIS, Redis/BullMQ and Supabase Realtime. Production screenshots and walkthroughs.
 
-- **[LeetRank](https://github.com/JasonTM17/Leetrank_Project)** · TypeScript · 2026-11-25
-
-  A competitive programming platform for practicing algorithms and data structures. Built with Next.js 16, React 19, Go judge service, and Docker.
-
 <details>
   <summary><strong>Browse All 58 Projects</strong></summary>
 
 | Project | Technology / Status | Updated |
 | --- | --- | --- |
+| [All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday) | TypeScript | 2026-11-28 |
+| [Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology) | Jupyter Notebook | 2026-11-28 |
+| [Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ) | Java | 2026-11-28 |
 | [CodeNavi](https://github.com/JasonTM17/CodeNavi) | In progress | 2026-11-27 |
-| [Grid Based Sociology](https://github.com/JasonTM17/Grid_Based_Sociology) | Jupyter Notebook | 2026-11-27 |
 | [ImageGuard Forensics](https://github.com/JasonTM17/ImageGuard-Forensics) | Python | 2026-11-27 |
-| [Nexachat AppJ](https://github.com/JasonTM17/Nexachat_AppJ) | Java | 2026-11-27 |
 | [FoodFlow](https://github.com/JasonTM17/FoodDelivery_App) | TypeScript | 2026-11-26 |
 | [LeetRank](https://github.com/JasonTM17/Leetrank_Project) | TypeScript | 2026-11-25 |
 | [CampusCore Ecosystem](https://github.com/JasonTM17/CampusCore_Ecosystem) | Java | 2026-11-24 |
@@ -205,7 +206,6 @@ Explore **58 public projects** across product engineering, mobile development, a
 | [JobHunter](https://github.com/JasonTM17/JobHunter_SpringBoot_RestfulAPI_React) | TypeScript | 2026-11-24 |
 | [Student Management UTE](https://github.com/JasonTM17/Student_Management_UTE) | Java | 2026-11-24 |
 | [ForgeBase](https://github.com/JasonTM17/ForgeBase) | Python | 2026-11-23 |
-| [All In One Holiday](https://github.com/JasonTM17/All-In-One-Holiday) | TypeScript | 2026-11-21 |
 | [LK Gold Bot](https://github.com/JasonTM17/LK_Gold_Bot) | Python | 2026-11-21 |
 | [OpsMind AI](https://github.com/JasonTM17/OpsMind_AI) | Java | 2026-11-11 |
 | [VinCar EcommerceJSTS](https://github.com/JasonTM17/VinCar_EcommerceJSTS) | TypeScript | 2026-11-05 |
